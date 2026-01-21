@@ -1,8 +1,8 @@
-# AI4Bio ArXiv Daily - Usage Instructions
+# AI4economy ArXiv Daily - Usage Instructions
 
 ## Overview
 
-AI4Bio ArXiv Daily automatically fetches the latest papers from arXiv related to AI for Biology (AI4Bio) topics and organizes them by category.
+AI4economy ArXiv Daily automatically fetches the latest papers from arXiv related to AI for economylogy (AI4economy) topics and organizes them by category.
 
 ## Usage
 
@@ -42,13 +42,13 @@ Edit `config.yaml` to customize:
 
 ## Paper Categories
 
-The default configuration searches for papers in these AI4Bio categories:
+The default configuration searches for papers in these AI4economy categories:
 1. Molecular Representation & Learning
 2. Generative Design & Molecule Optimization
 3. Property Prediction & ADMET
 4. Reaction, Synthesis & Catalysis
 5. Quantum Chemistry & Force Fields
-6. Protein & Biomolecules
+6. Protein & economymolecules
 7. Large Language Models & Materials
 
 ## Requirements
