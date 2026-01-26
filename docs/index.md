@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.23
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Engineering discrete local dynamics in globally driven dual-species atom arrays**|Francesco Cesa et.al.|[2601.16961](http://arxiv.org/abs/2601.16961)|null|
+|**2026-01-23**|**Experimental investigation of nonclassicality in the simplest scenario via the degrees of freedom of light**|João M. M. Gama et.al.|[2601.16952](http://arxiv.org/abs/2601.16952)|null|
+|**2026-01-23**|**The scaling relations of galaxies with different morphology: comparison among WINGS, MANGA and Illustris data samples**|Mauro D'Onofrio et.al.|[2601.16931](http://arxiv.org/abs/2601.16931)|null|
+|**2026-01-23**|**Investigating ultra-thin 4H-SiC AC-LGADs for superior radiation-hard timing applications**|Jaideep Kalani et.al.|[2601.16925](http://arxiv.org/abs/2601.16925)|null|
+|**2026-01-23**|**The shape function of the observed growth index**|Ziad Sakr et.al.|[2601.16921](http://arxiv.org/abs/2601.16921)|null|
+|**2026-01-23**|**Fast Magnetoacoustic Wave Behavior with Gravitationally Stratified, Magnetically Inhomogeneous Media**|Ryan T. Smith et.al.|[2601.16920](http://arxiv.org/abs/2601.16920)|null|
+|**2026-01-23**|**Drawing the line between explosion and collapse in electron-capture supernovae -- I. Impact of conductive flame speeds and ignition conditions on the explosion mechanism**|Alexander Holas et.al.|[2601.16918](http://arxiv.org/abs/2601.16918)|null|
+|**2026-01-23**|**Coupled-channel approach to isotensor $πππ$ scattering from lattice QCD**|Yuchuan Feng et.al.|[2601.16916](http://arxiv.org/abs/2601.16916)|null|
+|**2026-01-23**|**Fourier transforms of bounded functions**|Erik Talvila et.al.|[2601.16912](http://arxiv.org/abs/2601.16912)|null|
+|**2026-01-23**|**Recovering Communities in Structured Random Graphs**|Michael Kapralov et.al.|[2601.16910](http://arxiv.org/abs/2601.16910)|null|
 |**2026-01-22**|**Gauge Theory and Skein Modules**|Du Pei et.al.|[2601.16213](http://arxiv.org/abs/2601.16213)|null|
 |**2026-01-22**|**Cyclic sunspot activity during the first millennium CE as reconstructed from radiocarbon**|Ilya Usoskin et.al.|[2601.16203](http://arxiv.org/abs/2601.16203)|null|
 |**2026-01-22**|**The Pohozaev identity for the Spectral Fractional Laplacian**|Itahisa Barrios-Cubas et.al.|[2601.16185](http://arxiv.org/abs/2601.16185)|null|
@@ -49,6 +59,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Directional-Shift Dirichlet ARMA Models for Compositional Time Series with Structural Break Intervention**|Harrison Katz et.al.|[2601.16821](http://arxiv.org/abs/2601.16821)|null|
+|**2026-01-23**|**Network Security under Heterogeneous Cyber-Risk Profiles and Contagion**|Elisa Botteghi et.al.|[2601.16805](http://arxiv.org/abs/2601.16805)|null|
+|**2026-01-23**|**Brownian ReLU(Br-ReLU): A New Activation Function for a Long-Short Term Memory (LSTM) Network**|George Awiakye-Marfo et.al.|[2601.16446](http://arxiv.org/abs/2601.16446)|null|
+|**2026-01-22**|**A Nonlinear Target-Factor Model with Attention Mechanism for Mixed-Frequency Data**|Alessio Brini et.al.|[2601.16274](http://arxiv.org/abs/2601.16274)|null|
 |**2026-01-22**|**Agentic AI Governance and Lifecycle Management in Healthcare**|Chandra Prakash et.al.|[2601.15630](http://arxiv.org/abs/2601.15630)|null|
 |**2026-01-22**|**Neural Nonlinear Shrinkage of Covariance Matrices for Minimum Variance Portfolio Optimization**|Liusha Yang et.al.|[2601.15597](http://arxiv.org/abs/2601.15597)|null|
 |**2026-01-21**|**TransportAgents: a multi-agents LLM framework for traffic accident severity prediction**|Zhichao Yang et.al.|[2601.15519](http://arxiv.org/abs/2601.15519)|null|
@@ -68,6 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**A Nonlinear Target-Factor Model with Attention Mechanism for Mixed-Frequency Data**|Alessio Brini et.al.|[2601.16274](http://arxiv.org/abs/2601.16274)|null|
 |**2026-01-22**|**Evolution of the recent high-accretion state of the recurrent nova T CrB: HST, Swift, NuSTAR, and XMM-Newton observations**|G. J. M. Luna et.al.|[2601.16190](http://arxiv.org/abs/2601.16190)|null|
 |**2026-01-22**|**Tensor-based phase difference estimation on time series analysis**|Shu Kanno et.al.|[2601.15616](http://arxiv.org/abs/2601.15616)|null|
 |**2026-01-16**|**Analysis of the Ventriloquism Aftereffect Using Network Theory Techniques**|Sayan Saha et.al.|[2601.15321](http://arxiv.org/abs/2601.15321)|null|
@@ -86,6 +101,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](http://arxiv.org/abs/2601.16578)|null|
+|**2026-01-22**|**AMBER: A Columnar Architecture for High-Performance Agent-Based Modeling in Python**|Anh-Duy Pham et.al.|[2601.16292](http://arxiv.org/abs/2601.16292)|null|
 |**2026-01-21**|**Can Rising Consumption Deepen Inequality?**|Jhordan Silveira de Borba et.al.|[2601.15537](http://arxiv.org/abs/2601.15537)|null|
 |**2026-01-21**|**How high-resolution agent-based models can improve fundamental insights in tissue development and cell culturing methods**|Paul Van Liedekerke et.al.|[2601.15273](http://arxiv.org/abs/2601.15273)|null|
 |**2026-01-21**|**Modification speed and radius of higher-order interactions alter the oscillatory dynamics in an agent-based model**|Thomas Van Giel et.al.|[2601.15144](http://arxiv.org/abs/2601.15144)|null|
@@ -124,6 +141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Experience with Single Domain Generalization in Real World Medical Imaging Deployments**|Ayan Banerjee et.al.|[2601.16359](http://arxiv.org/abs/2601.16359)|null|
+|**2026-01-20**|**Policy-Embedded Graph Expansion: Networked HIV Testing with Diffusion-Driven Network Samples**|Akseli Kangaslahti et.al.|[2601.16233](http://arxiv.org/abs/2601.16233)|null|
 |**2026-01-20**|**Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games**|Christopher Kao et.al.|[2601.13709](http://arxiv.org/abs/2601.13709)|null|
 |**2026-01-17**|**SynQP: A Framework and Metrics for Evaluating the Quality and Privacy Risk of Synthetic Data**|Bing Hu et.al.|[2601.12124](http://arxiv.org/abs/2601.12124)|null|
 |**2026-01-15**|**Transforming Crises into Opportunities: From Chaos to Urban Antifragility**|Joseph Uguet et.al.|[2601.10658](http://arxiv.org/abs/2601.10658)|null|
@@ -139,6 +158,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**From Transactions to Exploits: Automated PoC Synthesis for Real-World DeFi Attacks**|Xing Su et.al.|[2601.16681](http://arxiv.org/abs/2601.16681)|null|
+|**2026-01-22**|**FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges**|Shaoyu Li et.al.|[2601.16298](http://arxiv.org/abs/2601.16298)|null|
 |**2026-01-22**|**The reason for the occurrence of W-type contact binaries**|Jia Zhang et.al.|[2601.15672](http://arxiv.org/abs/2601.15672)|null|
 |**2026-01-22**|**Blockchain-Based Spectrum Resource Securitization via Semi-Fungible Token-Lock**|Zhixian Zhou et.al.|[2601.15594](http://arxiv.org/abs/2601.15594)|null|
 |**2026-01-21**|**Central subspace data depth**|Giacomo Francisci et.al.|[2601.14947](http://arxiv.org/abs/2601.14947)|null|
@@ -161,6 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Better as Generators Than Classifiers: Leveraging LLMs and Synthetic Data for Low-Resource Multilingual Classification**|Branislav Pecher et.al.|[2601.16278](http://arxiv.org/abs/2601.16278)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
 |**2026-01-22**|**Explainable Deepfake Detection with RL Enhanced Self-Blended Images**|Ning Jiang et.al.|[2601.15624](http://arxiv.org/abs/2601.15624)|null|
 |**2026-01-20**|**Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**|Ali Hamza Bashir et.al.|[2601.14160](http://arxiv.org/abs/2601.14160)|null|
