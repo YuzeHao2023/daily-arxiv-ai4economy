@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-01**|**CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets**|Hieu Duong et.al.|[2602.02601](http://arxiv.org/abs/2602.02601)|null|
 |**2026-02-01**|**Ebisu: Benchmarking Large Language Models in Japanese Finance**|Xueqing Peng et.al.|[2602.01479](http://arxiv.org/abs/2602.01479)|null|
 |**2026-01-27**|**LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization**|Zexu Pan et.al.|[2601.19153](http://arxiv.org/abs/2601.19153)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
@@ -26,6 +27,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Classical Benchmarks of a Symmetry-Adapted Variational Quantum Eigensolver for Real-Time Green's Functions in Dynamical Mean-Field Theory**|Aadi Singh et.al.|[2602.03843](http://arxiv.org/abs/2602.03843)|null|
+|**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
+|**2026-02-03**|**Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion**|Oscar Ovanger et.al.|[2602.03817](http://arxiv.org/abs/2602.03817)|null|
+|**2026-02-03**|**Enhancing Imbalanced Node Classification via Curriculum-Guided Feature Learning and Three-Stage Attention Network**|Abdul Joseph Fofanah et.al.|[2602.03808](http://arxiv.org/abs/2602.03808)|null|
+|**2026-02-03**|**Origin of mixed anisotropy in crystalline Permalloy and amorphous Cobalt thin films individually deposited on Si substrate**|Kirti Kirti et.al.|[2602.03804](http://arxiv.org/abs/2602.03804)|null|
+|**2026-02-03**|**Emergent correlations in the selected link-times along optimal paths**|Iván Álvarez Domenech et.al.|[2602.03800](http://arxiv.org/abs/2602.03800)|null|
+|**2026-02-03**|**ATLAS MDT TDC Simulations for LHC Run3 and HL-LHC**|Jiajin Ge et.al.|[2602.03795](http://arxiv.org/abs/2602.03795)|null|
+|**2026-02-03**|**Understanding Agent Scaling in LLM-Based Multi-Agent Systems via Diversity**|Yingxuan Yang et.al.|[2602.03794](http://arxiv.org/abs/2602.03794)|null|
+|**2026-02-03**|**The Mpemba effect in the Descartes protocol: A time-delayed Newton's law of cooling approach**|Andrés Santos et.al.|[2602.03790](http://arxiv.org/abs/2602.03790)|null|
+|**2026-02-03**|**Structures and proximity effects of inhomogeneous population-imbalanced Fermi gases with pairing interactions**|Bishal Parajuli et.al.|[2602.03788](http://arxiv.org/abs/2602.03788)|null|
 |**2026-02-02**|**DeepDive: Tracing the early quenching pathways of massive quiescent galaxies at $z>3$ from their star-formation histories and chemical abundances**|Massissilia L. Hamadouche et.al.|[2602.02485](http://arxiv.org/abs/2602.02485)|null|
 |**2026-02-02**|**Skill Substitution, Expectations, and the Business Cycle**|Andreas Leibing et.al.|[2602.02483](http://arxiv.org/abs/2602.02483)|null|
 |**2026-02-02**|**Motivation, Attention, and Visual Platform Design: How Moral Contagions Spread on TikTok and Instagram in the 2024 United States Presidential Election**|Ni Annie Yuan et.al.|[2602.02479](http://arxiv.org/abs/2602.02479)|null|
@@ -91,6 +102,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books**|Zhuohan Wang et.al.|[2602.03776](http://arxiv.org/abs/2602.03776)|null|
+|**2026-02-03**|**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**|Dylan Herman et.al.|[2602.03725](http://arxiv.org/abs/2602.03725)|null|
+|**2026-02-03**|**Soft-Radial Projection for Constrained End-to-End Learning**|Philipp J. Schneider et.al.|[2602.03461](http://arxiv.org/abs/2602.03461)|null|
+|**2026-02-03**|**A Novel approach to portfolio construction**|T. Di Matteo et.al.|[2602.03325](http://arxiv.org/abs/2602.03325)|null|
+|**2026-02-03**|**Dual Attainment in Multi-Period Multi-Asset Martingale Optimal Transport and Its Computation**|Charlie Che et.al.|[2602.02996](http://arxiv.org/abs/2602.02996)|null|
+|**2026-02-02**|**Habit Formation, Labor Supply, and the Dynamics of Retirement and Annuitization**|Crisent Birungi et.al.|[2602.02816](http://arxiv.org/abs/2602.02816)|null|
+|**2026-02-02**|**Efficient Counterfactual Estimation of Conditional Greeks via Malliavin-based Weak Derivatives**|Vikram Krishnamurthy et.al.|[2602.02811](http://arxiv.org/abs/2602.02811)|null|
+|**2026-02-02**|**The Innovation Tax: Generative AI Adoption, Productivity Paradox, and Systemic Risk in the U.S. Banking Sector**|Tatsuru Kikuchi et.al.|[2602.02607](http://arxiv.org/abs/2602.02607)|null|
 |**2026-02-02**|**Reliable Real-Time Value at Risk Estimation via Quantile Regression Forest with Conformal Calibration**|Du-Yi Wang et.al.|[2602.01912](http://arxiv.org/abs/2602.01912)|null|
 |**2026-02-02**|**Autocorrelated Optimize-via-Estimate: Predict-then-Optimize versus Finite-sample Optimal**|Zichun Wang et.al.|[2602.01877](http://arxiv.org/abs/2602.01877)|null|
 |**2026-02-02**|**TABX: A High-Throughput Sandbox Battle Simulator for Multi-Agent Reinforcement Learning**|Hayeong Lee et.al.|[2602.01665](http://arxiv.org/abs/2602.01665)|null|
@@ -138,6 +157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Visual Reasoning over Time Series via Multi-Agent System**|Weilin Ruan et.al.|[2602.03026](http://arxiv.org/abs/2602.03026)|null|
 |**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
 |**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](http://arxiv.org/abs/2601.23204)|null|
 |**2026-01-28**|**MuRAL-CPD: Active Learning for Multiresolution Change Point Detection**|Stefano Bertolasi et.al.|[2601.20686](http://arxiv.org/abs/2601.20686)|null|
@@ -164,6 +184,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Persona Generators: Generating Diverse Synthetic Personas at Scale**|Davide Paglieri et.al.|[2602.03545](http://arxiv.org/abs/2602.03545)|null|
+|**2026-02-03**|**Group Selection as a Safeguard Against AI Substitution**|Qiankun Zhong et.al.|[2602.03541](http://arxiv.org/abs/2602.03541)|null|
+|**2026-02-03**|**Mathematical Modeling of Common-Pool Resources: A Comprehensive Review of Bioeconomics, Strategic Interaction, and Complex Adaptive Systems**|Zebiao Li et.al.|[2602.03129](http://arxiv.org/abs/2602.03129)|null|
+|**2026-02-03**|**Co2PO: Coordinated Constrained Policy Optimization for Multi-Agent RL**|Shrenik Patel et.al.|[2602.02970](http://arxiv.org/abs/2602.02970)|null|
+|**2026-02-02**|**IMAGINE: Intelligent Multi-Agent Godot-based Indoor Networked Exploration**|Tiago Leite et.al.|[2602.02858](http://arxiv.org/abs/2602.02858)|null|
 |**2026-02-02**|**Strategic Interactions in Science and Technology Networks: Substitutes or Complements?**|Michael Balzer et.al.|[2602.02403](http://arxiv.org/abs/2602.02403)|null|
 |**2026-02-02**|**Games with Rational and Herding Players**|Raghupati Vyas et.al.|[2602.02291](http://arxiv.org/abs/2602.02291)|null|
 |**2026-02-02**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al.|[2602.02035](http://arxiv.org/abs/2602.02035)|null|
@@ -258,6 +283,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets**|Milosh Devic et.al.|[2602.03641](http://arxiv.org/abs/2602.03641)|null|
+|**2026-02-03**|**LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts**|Jiaqi Gao et.al.|[2602.03271](http://arxiv.org/abs/2602.03271)|null|
+|**2026-02-03**|**Deterministic Control of Extreme Events in a semiconductor VCSEL via Polarization-Engineered Optical Feedback**|T. Wang et.al.|[2602.02968](http://arxiv.org/abs/2602.02968)|null|
+|**2026-02-02**|**Prefix Consensus For Censorship Resistant BFT**|Zhuolun Xiang et.al.|[2602.02892](http://arxiv.org/abs/2602.02892)|null|
 |**2026-02-02**|**Risk, Data, Alignment: Making Credit Scoring Work in Kenya**|Daniel Mwesigwa et.al.|[2602.01824](http://arxiv.org/abs/2602.01824)|null|
 |**2026-02-02**|**Seeing Is Believing? A Benchmark for Multimodal Large Language Models on Visual Illusions and Anomalies**|Wenjin Hou et.al.|[2602.01816](http://arxiv.org/abs/2602.01816)|null|
 |**2026-02-01**|**TxRay: Agentic Postmortem of Live Blockchain Attacks**|Ziyue Wang et.al.|[2602.01317](http://arxiv.org/abs/2602.01317)|null|
@@ -302,6 +331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Socratic-Geo: Synthetic Data Generation and Geometric Reasoning via Multi-Agent Interaction**|Zhengbo Jiao et.al.|[2602.03414](http://arxiv.org/abs/2602.03414)|null|
 |**2026-02-02**|**Reconstruction of instantaneous flow fields from transient velocity snapshots using physics-informed neural networks: Applications to pulsatile blood flow behind a stenosis**|Kakeru Ueda et.al.|[2602.01542](http://arxiv.org/abs/2602.01542)|null|
 |**2026-01-30**|**Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data**|Eugenia Iofinova et.al.|[2601.23153](http://arxiv.org/abs/2601.23153)|null|
 |**2026-01-30**|**ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations**|Joao Fonseca et.al.|[2601.23068](http://arxiv.org/abs/2601.23068)|null|
