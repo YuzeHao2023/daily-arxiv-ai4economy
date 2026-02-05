@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -12,6 +12,7 @@ layout: default
 |**2026-02-01**|**CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets**|Hieu Duong et.al.|[2602.02601](http://arxiv.org/abs/2602.02601)|null|
 |**2026-02-01**|**Ebisu: Benchmarking Large Language Models in Japanese Finance**|Xueqing Peng et.al.|[2602.01479](http://arxiv.org/abs/2602.01479)|null|
 |**2026-01-27**|**LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization**|Zexu Pan et.al.|[2601.19153](http://arxiv.org/abs/2601.19153)|null|
+|**2026-02-04**|**EvasionBench: A Large-Scale Benchmark for Detecting Managerial Evasion in Earnings Call Q&A**|Shijian Ma et.al.|[2601.09142](http://arxiv.org/abs/2601.09142)|null|
 |**2026-01-02**|**Semantic Event Graphs for Long-Form Video Question Answering**|Aradhya Dixit et.al.|[2601.06097](http://arxiv.org/abs/2601.06097)|null|
 |**2026-01-06**|**Uni-FinLLM: A Unified Multimodal Large Language Model with Modular Task Heads for Micro-Level Stock Prediction and Macro-Level Systemic Risk Assessment**|Gongao Zhang et.al.|[2601.02677](http://arxiv.org/abs/2601.02677)|null|
 |**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537](http://arxiv.org/abs/2512.19537)|null|
@@ -27,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Evolving scientific collaboration among EU member states, candidate countries and global partners: 2000-2024**|Myroslava Hladchenko et.al.|[2602.04871](http://arxiv.org/abs/2602.04871)|null|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+|**2026-02-04**|**Subliminal Effects in Your Data: A General Mechanism via Log-Linearity**|Ishaq Aden-Ali et.al.|[2602.04863](http://arxiv.org/abs/2602.04863)|null|
+|**2026-02-04**|**Decomposed Prompting Does Not Fix Knowledge Gaps, But Helps Models Say "I Don't Know"**|Dhruv Madhwal et.al.|[2602.04853](http://arxiv.org/abs/2602.04853)|null|
+|**2026-02-04**|**Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing**|Zhaotian Weng et.al.|[2602.04837](http://arxiv.org/abs/2602.04837)|null|
+|**2026-02-04**|**Review of Superconducting Qubit Devices and Their Large-Scale Integration**|Hiu Yung Wong et.al.|[2602.04831](http://arxiv.org/abs/2602.04831)|null|
+|**2026-02-04**|**On Dual Connectivity in 6G Leo Constellations**|Achilles Machumilane et.al.|[2602.04825](http://arxiv.org/abs/2602.04825)|null|
+|**2026-02-04**|**Toward Reliable and Explainable Nail Disease Classification: Leveraging Adversarial Training and Grad-CAM Visualization**|Farzia Hossain et.al.|[2602.04820](http://arxiv.org/abs/2602.04820)|null|
+|**2026-02-04**|**Site and bond percolation in linearly distorted triangular and square lattices**|Bishnu Bhowmik et.al.|[2602.04818](http://arxiv.org/abs/2602.04818)|null|
+|**2026-02-04**|**Properties of the core and other solution concepts of Bel coalitional games in the ex-ante scenario**|Michel Grabisch et.al.|[2602.04817](http://arxiv.org/abs/2602.04817)|null|
 |**2026-02-03**|**Classical Benchmarks of a Symmetry-Adapted Variational Quantum Eigensolver for Real-Time Green's Functions in Dynamical Mean-Field Theory**|Aadi Singh et.al.|[2602.03843](http://arxiv.org/abs/2602.03843)|null|
 |**2026-02-03**|**Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL**|Erfan Miahi et.al.|[2602.03839](http://arxiv.org/abs/2602.03839)|null|
 |**2026-02-03**|**Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion**|Oscar Ovanger et.al.|[2602.03817](http://arxiv.org/abs/2602.03817)|null|
@@ -102,12 +113,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Fair Pricing in Long-Term Insurance: A Unified Framework**|Hong Beng Lim et.al.|[2602.04791](http://arxiv.org/abs/2602.04791)|null|
+|**2026-02-04**|**Sampled-Data Wasserstein Distributionally Robust Control of Multiplicative Systems: A Convex Relaxation with Performance Guarantees**|Chung-Han Hsieh et.al.|[2602.04219](http://arxiv.org/abs/2602.04219)|null|
+|**2026-02-03**|**Taming Tail Risk in Financial Markets: Conformal Risk Control for Nonstationary Portfolio VaR**|Marc Schmitt et.al.|[2602.03903](http://arxiv.org/abs/2602.03903)|null|
 |**2026-02-03**|**DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books**|Zhuohan Wang et.al.|[2602.03776](http://arxiv.org/abs/2602.03776)|null|
 |**2026-02-03**|**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**|Dylan Herman et.al.|[2602.03725](http://arxiv.org/abs/2602.03725)|null|
 |**2026-02-03**|**Soft-Radial Projection for Constrained End-to-End Learning**|Philipp J. Schneider et.al.|[2602.03461](http://arxiv.org/abs/2602.03461)|null|
 |**2026-02-03**|**A Novel approach to portfolio construction**|T. Di Matteo et.al.|[2602.03325](http://arxiv.org/abs/2602.03325)|null|
 |**2026-02-03**|**Dual Attainment in Multi-Period Multi-Asset Martingale Optimal Transport and Its Computation**|Charlie Che et.al.|[2602.02996](http://arxiv.org/abs/2602.02996)|null|
-|**2026-02-02**|**Habit Formation, Labor Supply, and the Dynamics of Retirement and Annuitization**|Crisent Birungi et.al.|[2602.02816](http://arxiv.org/abs/2602.02816)|null|
+|**2026-02-04**|**Habit Formation, Labor Supply, and the Dynamics of Retirement and Annuitization**|Criscent Birungi et.al.|[2602.02816](http://arxiv.org/abs/2602.02816)|null|
 |**2026-02-02**|**Efficient Counterfactual Estimation of Conditional Greeks via Malliavin-based Weak Derivatives**|Vikram Krishnamurthy et.al.|[2602.02811](http://arxiv.org/abs/2602.02811)|null|
 |**2026-02-02**|**The Innovation Tax: Generative AI Adoption, Productivity Paradox, and Systemic Risk in the U.S. Banking Sector**|Tatsuru Kikuchi et.al.|[2602.02607](http://arxiv.org/abs/2602.02607)|null|
 |**2026-02-02**|**Reliable Real-Time Value at Risk Estimation via Quantile Regression Forest with Conformal Calibration**|Du-Yi Wang et.al.|[2602.01912](http://arxiv.org/abs/2602.01912)|null|
@@ -157,6 +171,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
+|**2026-02-04**|**Multi-Integration of Labels across Categories for Component Identification (MILCCI)**|Noga Mudrik et.al.|[2602.04270](http://arxiv.org/abs/2602.04270)|null|
 |**2026-02-03**|**Visual Reasoning over Time Series via Multi-Agent System**|Weilin Ruan et.al.|[2602.03026](http://arxiv.org/abs/2602.03026)|null|
 |**2026-01-31**|**Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Case Study from Retrospective Forecasting**|Ali El Lahib et.al.|[2602.00758](http://arxiv.org/abs/2602.00758)|null|
 |**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](http://arxiv.org/abs/2601.23204)|null|
@@ -184,6 +200,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**|Zelai Xu et.al.|[2602.04634](http://arxiv.org/abs/2602.04634)|null|
+|**2026-02-04**|**Optimal Rates for Feasible Payoff Set Estimation in Games**|Annalisa Barbara et.al.|[2602.04397](http://arxiv.org/abs/2602.04397)|null|
+|**2026-02-03**|**Autonomous AI Agents for Real-Time Affordable Housing Site Selection: Multi-Objective Reinforcement Learning Under Regulatory Constraints**|Olaf Yunus Laitinen Imanov et.al.|[2602.03940](http://arxiv.org/abs/2602.03940)|null|
 |**2026-02-03**|**Persona Generators: Generating Diverse Synthetic Personas at Scale**|Davide Paglieri et.al.|[2602.03545](http://arxiv.org/abs/2602.03545)|null|
 |**2026-02-03**|**Group Selection as a Safeguard Against AI Substitution**|Qiankun Zhong et.al.|[2602.03541](http://arxiv.org/abs/2602.03541)|null|
 |**2026-02-03**|**Mathematical Modeling of Common-Pool Resources: A Comprehensive Review of Bioeconomics, Strategic Interaction, and Complex Adaptive Systems**|Zebiao Li et.al.|[2602.03129](http://arxiv.org/abs/2602.03129)|null|
@@ -283,6 +302,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Comparative Insights on Adversarial Machine Learning from Industry and Academia: A User-Study Approach**|Vishruti Kakkad et.al.|[2602.04753](http://arxiv.org/abs/2602.04753)|null|
+|**2026-02-04**|**SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing**|Arnab Mallick et.al.|[2602.04418](http://arxiv.org/abs/2602.04418)|null|
+|**2026-02-03**|**Evaluating the Vulnerability Landscape of LLM-Generated Smart Contracts**|Hoang Long Do et.al.|[2602.04039](http://arxiv.org/abs/2602.04039)|null|
+|**2026-02-03**|**DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks**|Aijie Shu et.al.|[2602.03981](http://arxiv.org/abs/2602.03981)|null|
 |**2026-02-03**|**CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets**|Milosh Devic et.al.|[2602.03641](http://arxiv.org/abs/2602.03641)|null|
 |**2026-02-03**|**LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts**|Jiaqi Gao et.al.|[2602.03271](http://arxiv.org/abs/2602.03271)|null|
 |**2026-02-03**|**Deterministic Control of Extreme Events in a semiconductor VCSEL via Polarization-Engineered Optical Feedback**|T. Wang et.al.|[2602.02968](http://arxiv.org/abs/2602.02968)|null|
