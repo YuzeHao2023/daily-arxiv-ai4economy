@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Agentic Workflow Using RBA $_θ$ for Event Prediction**|Purbak Sengupta et.al.|[2602.06097](http://arxiv.org/abs/2602.06097)|null|
 |**2026-02-01**|**CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets**|Hieu Duong et.al.|[2602.02601](http://arxiv.org/abs/2602.02601)|null|
 |**2026-02-01**|**Ebisu: Benchmarking Large Language Models in Japanese Finance**|Xueqing Peng et.al.|[2602.01479](http://arxiv.org/abs/2602.01479)|null|
 |**2026-01-27**|**LuSeeL: Language-queried Binaural Universal Sound Event Extraction and Localization**|Zexu Pan et.al.|[2601.19153](http://arxiv.org/abs/2601.19153)|null|
@@ -28,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
+|**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
+|**2026-02-06**|**Agentic Uncertainty Reveals Agentic Overconfidence**|Jean Kaddour et.al.|[2602.06948](http://arxiv.org/abs/2602.06948)|null|
+|**2026-02-06**|**Distributed Knowledge in Simplicial Models**|Éric Goubault et.al.|[2602.06945](http://arxiv.org/abs/2602.06945)|null|
+|**2026-02-06**|**Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics**|Zuyuan Zhang et.al.|[2602.06939](http://arxiv.org/abs/2602.06939)|null|
+|**2026-02-06**|**Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure**|Hannah T. Rüdisser et.al.|[2602.06926](http://arxiv.org/abs/2602.06926)|null|
+|**2026-02-06**|**Optical spectral characterization of OP 313. Constraining the contribution of thermal and non-thermal optical emission**|J. Otero-Santos et.al.|[2602.06919](http://arxiv.org/abs/2602.06919)|null|
+|**2026-02-06**|**Automatic Detection and Analysis of Singing Mistakes for Music Pedagogy**|Sumit Kumar et.al.|[2602.06917](http://arxiv.org/abs/2602.06917)|null|
+|**2026-02-06**|**PANC: Prior-Aware Normalized Cut for Object Segmentation**|Juan Gutiérrez et.al.|[2602.06912](http://arxiv.org/abs/2602.06912)|null|
+|**2026-02-06**|**TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering**|Saad Hossain et.al.|[2602.06911](http://arxiv.org/abs/2602.06911)|null|
 |**2026-02-05**|**SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs**|Jintao Tong et.al.|[2602.06040](http://arxiv.org/abs/2602.06040)|null|
 |**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](http://arxiv.org/abs/2602.06038)|null|
 |**2026-02-05**|**Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory**|Haozhen Zhang et.al.|[2602.06025](http://arxiv.org/abs/2602.06025)|null|
@@ -123,10 +134,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Single- and Multi-Level Fourier-RQMC Methods for Multivariate Shortfall Risk**|Chiheb Ben Hammouda et.al.|[2602.06424](http://arxiv.org/abs/2602.06424)|null|
+|**2026-02-06**|**Joint survival annuity derivative valuation in the linear-rational Wishart mortality model**|Jose Da Fonseca et.al.|[2602.06415](http://arxiv.org/abs/2602.06415)|null|
+|**2026-02-06**|**Wishart conditional tail risk measures: An analytic approach**|Jose Da Fonseca et.al.|[2602.06401](http://arxiv.org/abs/2602.06401)|null|
+|**2026-02-06**|**Unlocking Noisy Real-World Corpora for Foundation Model Pre-Training via Quality-Aware Tokenization**|Arvid E. Gollwitzer et.al.|[2602.06394](http://arxiv.org/abs/2602.06394)|null|
+|**2026-02-05**|**Insider Purchase Signals in Microcap Equities: Gradient Boosting Detection of Abnormal Returns**|Hangyi Zhao et.al.|[2602.06198](http://arxiv.org/abs/2602.06198)|null|
 |**2026-02-05**|**"Detective Work We Shouldn't Have to Do": Practitioner Challenges in Regulatory-Aligned Data Quality in Machine Learning Systems**|Yichun Wang et.al.|[2602.05944](http://arxiv.org/abs/2602.05944)|null|
 |**2026-02-05**|**Universal approximation with signatures of non-geometric rough paths**|Mihriban Ceylan et.al.|[2602.05898](http://arxiv.org/abs/2602.05898)|null|
 |**2026-02-05**|**On the Skew Stickiness Ratio**|Masaaki Fukasawa et.al.|[2602.05241](http://arxiv.org/abs/2602.05241)|null|
-|**2026-02-05**|**Extreme Weather Nowcasting via Local Precipitation Pattern Prediction**|Changhoon Song et.al.|[2602.05204](http://arxiv.org/abs/2602.05204)|null|
+|**2026-02-06**|**Extreme Weather Nowcasting via Local Precipitation Pattern Prediction**|Changhoon Song et.al.|[2602.05204](http://arxiv.org/abs/2602.05204)|null|
 |**2026-02-05**|**Optimal Risk-Sharing Rules in Network-based Decentralized Insurance**|Heather N. Fogarty et.al.|[2602.05155](http://arxiv.org/abs/2602.05155)|null|
 |**2026-02-04**|**Music as an Asset Class**|Sasha Stoikov et.al.|[2602.05007](http://arxiv.org/abs/2602.05007)|null|
 |**2026-02-04**|**Fair Pricing in Long-Term Insurance: A Unified Framework**|Hong Beng Lim et.al.|[2602.04791](http://arxiv.org/abs/2602.04791)|null|
@@ -187,6 +203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Robust Bayesian estimation in conditionally heteroscedastic time series models**|Jeongho Lee et.al.|[2602.06360](http://arxiv.org/abs/2602.06360)|null|
 |**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646](http://arxiv.org/abs/2602.05646)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
 |**2026-02-04**|**Multi-Integration of Labels across Categories for Component Identification (MILCCI)**|Noga Mudrik et.al.|[2602.04270](http://arxiv.org/abs/2602.04270)|null|
@@ -217,11 +234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**LLM Active Alignment: A Nash Equilibrium Perspective**|Tonghan Wang et.al.|[2602.06836](http://arxiv.org/abs/2602.06836)|null|
+|**2026-02-06**|**Sample-Efficient Policy Space Response Oracles with Joint Experience Best Response**|Ariyan Bighashdel et.al.|[2602.06599](http://arxiv.org/abs/2602.06599)|null|
+|**2026-02-06**|**Prism: Spectral Parameter Sharing for Multi-Agent Reinforcement Learning**|Kyungbeom Kim et.al.|[2602.06476](http://arxiv.org/abs/2602.06476)|null|
+|**2026-02-06**|**Quenching Speculation in Quantum Markets via Entangled Neural Traders**|Kieran Hymas et.al.|[2602.06367](http://arxiv.org/abs/2602.06367)|null|
+|**2026-02-05**|**Swap Regret Minimization Through Response-Based Approachability**|Ioannis Anagnostides et.al.|[2602.06264](http://arxiv.org/abs/2602.06264)|null|
 |**2026-02-05**|**PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling**|Kavana Venkatesh et.al.|[2602.06030](http://arxiv.org/abs/2602.06030)|null|
 |**2026-02-05**|**A Data Driven Structural Decomposition of Dynamic Games via Best Response Maps**|Mahdis Rabbani et.al.|[2602.05324](http://arxiv.org/abs/2602.05324)|null|
-|**2026-02-05**|**Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning**|John Yan et.al.|[2602.05183](http://arxiv.org/abs/2602.05183)|null|
+|**2026-02-06**|**Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning**|John Yan et.al.|[2602.05183](http://arxiv.org/abs/2602.05183)|null|
 |**2026-02-04**|**Crypto-asset Taxonomy for Investors and Regulators**|Xiao Zhang et.al.|[2602.05098](http://arxiv.org/abs/2602.05098)|null|
-|**2026-02-04**|**Position: Machine Learning for Heart Transplant Allocation Policy Optimization Should Account for Incentives**|Ioannis Anagnostides et.al.|[2602.04990](http://arxiv.org/abs/2602.04990)|null|
+|**2026-02-06**|**Position: Machine Learning for Heart Transplant Allocation Policy Optimization Should Account for Incentives**|Ioannis Anagnostides et.al.|[2602.04990](http://arxiv.org/abs/2602.04990)|null|
 |**2026-02-04**|**WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**|Zelai Xu et.al.|[2602.04634](http://arxiv.org/abs/2602.04634)|null|
 |**2026-02-04**|**Optimal Rates for Feasible Payoff Set Estimation in Games**|Annalisa Barbara et.al.|[2602.04397](http://arxiv.org/abs/2602.04397)|null|
 |**2026-02-03**|**Autonomous AI Agents for Real-Time Affordable Housing Site Selection: Multi-Objective Reinforcement Learning Under Regulatory Constraints**|Olaf Yunus Laitinen Imanov et.al.|[2602.03940](http://arxiv.org/abs/2602.03940)|null|
@@ -325,7 +347,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-05**|**PACE: Defying the Scaling Hypothesis of Exploration in Iterative Alignment for Mathematical Reasoning**|Jun Rao et.al.|[2602.05370](http://arxiv.org/abs/2602.05370)|null|
+|**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
+|**2026-02-06**|**Wasserstein Distributionally Robust Performative Prediction**|Siyi Wang et.al.|[2602.06730](http://arxiv.org/abs/2602.06730)|null|
+|**2026-02-05**|**On Randomized Algorithms in Online Strategic Classification**|Chase Hutton et.al.|[2602.06257](http://arxiv.org/abs/2602.06257)|null|
+|**2026-02-05**|**Know Your Scientist: KYC as Biosecurity Infrastructure**|Jonathan Feldman et.al.|[2602.06172](http://arxiv.org/abs/2602.06172)|null|
+|**2026-02-06**|**PACE: Defying the Scaling Hypothesis of Exploration in Iterative Alignment for Mathematical Reasoning**|Jun Rao et.al.|[2602.05370](http://arxiv.org/abs/2602.05370)|null|
 |**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](http://arxiv.org/abs/2602.05232)|null|
 |**2026-02-04**|**Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**|Kendra Chilson et.al.|[2602.04986](http://arxiv.org/abs/2602.04986)|null|
 |**2026-02-04**|**Topological frustration and quantum resources**|Alberto Giuseppe Catalano et.al.|[2602.04960](http://arxiv.org/abs/2602.04960)|null|
@@ -381,6 +407,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Generating High-quality Privacy-preserving Synthetic Data**|David Yavo et.al.|[2602.06390](http://arxiv.org/abs/2602.06390)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
 |**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
 |**2026-02-05**|**Synthetic Defect Geometries of Cast Metal Objects Modeled via 2d Voronoi Tessellations**|Natascha Jeziorski et.al.|[2602.05440](http://arxiv.org/abs/2602.05440)|null|
