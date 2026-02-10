@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -29,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**An Exploration of the Equation of State Dependence of Core-Collapse Supernova Explosion Outcomes and Signatures**|Aleksandr Rusakov et.al.|[2602.09025](http://arxiv.org/abs/2602.09025)|null|
+|**2026-02-09**|**$χ_{0}$ : Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies**|Checheng Yu et.al.|[2602.09021](http://arxiv.org/abs/2602.09021)|null|
+|**2026-02-09**|**The seismic diversity of four successive solar cycle minima as observed by the Birmingham Solar-Oscillations Network (BiSON)**|Sarbani Basu et.al.|[2602.09019](http://arxiv.org/abs/2602.09019)|null|
+|**2026-02-09**|**Counting Barcodes with the same Betti Curve**|Henry Ashley et.al.|[2602.09011](http://arxiv.org/abs/2602.09011)|null|
+|**2026-02-09**|**Testing the nuclear TMD gluon densities with heavy flavor production in proton-lead collisions at LHC**|A. V. Lipatov et.al.|[2602.09005](http://arxiv.org/abs/2602.09005)|null|
+|**2026-02-09**|**When do neural ordinary differential equations generalize on complex networks?**|Moritz Laber et.al.|[2602.08980](http://arxiv.org/abs/2602.08980)|null|
+|**2026-02-09**|**Cyclic universe from uniform rate inflation on the brane with a timelike extra dimension**|Rikpratik Sengupta et.al.|[2602.08974](http://arxiv.org/abs/2602.08974)|null|
+|**2026-02-09**|**Hyperactive Minority Alter the Stability of Community Notes**|Jacopo Nudo et.al.|[2602.08970](http://arxiv.org/abs/2602.08970)|null|
+|**2026-02-09**|**Modeling 3D Pedestrian-Vehicle Interactions for Vehicle-Conditioned Pose Forecasting**|Guangxun Zhu et.al.|[2602.08962](http://arxiv.org/abs/2602.08962)|null|
+|**2026-02-09**|**MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE**|Ruijie Zhu et.al.|[2602.08961](http://arxiv.org/abs/2602.08961)|null|
 |**2026-02-06**|**The N-Body 2PN Hamiltonian and Numerical Integration of the Equations of Motion**|Felix M. Heinze et.al.|[2602.06961](http://arxiv.org/abs/2602.06961)|null|
 |**2026-02-06**|**Mapping plasma properties of Cassiopeia A with XRISM/Resolve: a Bayesian analysis via UltraSPEX**|Manan Agarwal et.al.|[2602.06952](http://arxiv.org/abs/2602.06952)|null|
 |**2026-02-06**|**Agentic Uncertainty Reveals Agentic Overconfidence**|Jean Kaddour et.al.|[2602.06948](http://arxiv.org/abs/2602.06948)|null|
@@ -134,6 +144,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Almost sure null bankruptcy of testing-by-betting strategies**|Hongjian Wang et.al.|[2602.08888](http://arxiv.org/abs/2602.08888)|null|
+|**2026-02-09**|**Consumption-Investment with anticipative noise**|Mario Ayala et.al.|[2602.08527](http://arxiv.org/abs/2602.08527)|null|
+|**2026-02-09**|**Comparing Mixture, Box, and Wasserstein Ambiguity Sets in Distributionally Robust Asset Liability Management**|Alireza Ghahtarani et.al.|[2602.08228](http://arxiv.org/abs/2602.08228)|null|
+|**2026-02-09**|**Nansde-net: A neural sde framework for generating time series with memory**|Hiromu Ozai et.al.|[2602.08182](http://arxiv.org/abs/2602.08182)|null|
+|**2026-02-08**|**Optimal Quantum Speedups for Repeatedly Nested Expectation Estimation**|Yihang Sun et.al.|[2602.08120](http://arxiv.org/abs/2602.08120)|null|
+|**2026-02-08**|**Perfectly Fitting CDO Prices Across Tranches: A Theoretical Framework with Efficient Algorithms**|Lan Bu et.al.|[2602.08039](http://arxiv.org/abs/2602.08039)|null|
+|**2026-02-08**|**A Quadratic Link between Out-of-Sample $R^2$ and Directional Accuracy**|Cheng Zhang et.al.|[2602.07841](http://arxiv.org/abs/2602.07841)|null|
+|**2026-02-07**|**Continuous Program Search**|Matthew Siper et.al.|[2602.07659](http://arxiv.org/abs/2602.07659)|null|
+|**2026-02-06**|**RealFin: How Well Do LLMs Reason About Finance When Users Leave Things Unsaid?**|Yuyang Dai et.al.|[2602.07096](http://arxiv.org/abs/2602.07096)|null|
+|**2026-02-06**|**QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining**|Jun Han et.al.|[2602.07085](http://arxiv.org/abs/2602.07085)|null|
 |**2026-02-06**|**Single- and Multi-Level Fourier-RQMC Methods for Multivariate Shortfall Risk**|Chiheb Ben Hammouda et.al.|[2602.06424](http://arxiv.org/abs/2602.06424)|null|
 |**2026-02-06**|**Joint survival annuity derivative valuation in the linear-rational Wishart mortality model**|Jose Da Fonseca et.al.|[2602.06415](http://arxiv.org/abs/2602.06415)|null|
 |**2026-02-06**|**Wishart conditional tail risk measures: An analytic approach**|Jose Da Fonseca et.al.|[2602.06401](http://arxiv.org/abs/2602.06401)|null|
@@ -203,6 +223,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Approximate Cartesian Tree Matching with Substitutions**|Panagiotis Charalampopoulos et.al.|[2602.08570](http://arxiv.org/abs/2602.08570)|null|
+|**2026-02-06**|**A New Strategy for Using Spectroscopic Phase Curves to Characterize Non-Transiting Planets**|Ted M. Johnson et.al.|[2602.07127](http://arxiv.org/abs/2602.07127)|null|
 |**2026-02-06**|**Robust Bayesian estimation in conditionally heteroscedastic time series models**|Jeongho Lee et.al.|[2602.06360](http://arxiv.org/abs/2602.06360)|null|
 |**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646](http://arxiv.org/abs/2602.05646)|null|
 |**2026-02-04**|**Multi-scale hypergraph meets LLMs: Aligning large language models for time series analysis**|Zongjiang Shang et.al.|[2602.04369](http://arxiv.org/abs/2602.04369)|null|
@@ -234,6 +256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Learning to Coordinate via Quantum Entanglement in Multi-Agent Reinforcement Learning**|John Gardiner et.al.|[2602.08965](http://arxiv.org/abs/2602.08965)|null|
+|**2026-02-09**|**Modeling Concurrent Multi-Agent Systems**|Senthil Rajasekaran et.al.|[2602.08452](http://arxiv.org/abs/2602.08452)|null|
+|**2026-02-09**|**Who Deserves the Reward? SHARP: Shapley Credit-based Optimization for Multi-Agent System**|Yanming Li et.al.|[2602.08335](http://arxiv.org/abs/2602.08335)|null|
+|**2026-02-09**|**Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems**|Ajay Kumar Shrestha et.al.|[2602.08290](http://arxiv.org/abs/2602.08290)|null|
+|**2026-02-09**|**When Do Multi-Agent Systems Outperform? Analysing the Learning Efficiency of Agentic Systems**|Junwei Su et.al.|[2602.08272](http://arxiv.org/abs/2602.08272)|null|
+|**2026-02-08**|**Interpretable Failure Analysis in Multi-Agent Reinforcement Learning Systems**|Risal Shahriar Shefin et.al.|[2602.08104](http://arxiv.org/abs/2602.08104)|null|
+|**2026-02-08**|**MARTI-MARS $^2$ : Scaling Multi-Agent Self-Search via Reinforcement Learning for Code Generation**|Shijie Wang et.al.|[2602.07848](http://arxiv.org/abs/2602.07848)|null|
+|**2026-02-08**|**CoLF: Learning Consistent Leader-Follower Policies for Vision-Language-Guided Multi-Robot Cooperative Transport**|Joachim Yann Despature et.al.|[2602.07776](http://arxiv.org/abs/2602.07776)|null|
+|**2026-02-07**|**HAIF: A Human-AI Integration Framework for Hybrid Team Operations**|Marc Bara et.al.|[2602.07641](http://arxiv.org/abs/2602.07641)|null|
+|**2026-02-06**|**Incentive-Aware AI Safety via Strategic Resource Allocation: A Stackelberg Security Games Perspective**|Cheol Woo Kim et.al.|[2602.07259](http://arxiv.org/abs/2602.07259)|null|
 |**2026-02-06**|**LLM Active Alignment: A Nash Equilibrium Perspective**|Tonghan Wang et.al.|[2602.06836](http://arxiv.org/abs/2602.06836)|null|
 |**2026-02-06**|**Sample-Efficient Policy Space Response Oracles with Joint Experience Best Response**|Ariyan Bighashdel et.al.|[2602.06599](http://arxiv.org/abs/2602.06599)|null|
 |**2026-02-06**|**Prism: Spectral Parameter Sharing for Multi-Agent Reinforcement Learning**|Kyungbeom Kim et.al.|[2602.06476](http://arxiv.org/abs/2602.06476)|null|
@@ -319,6 +351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Estimation of Fish Catch Using Sentinel-2, 3 and XGBoost-Kernel-Based Kernel Ridge Regression**|Kanu Mohammed et.al.|[2602.08511](http://arxiv.org/abs/2602.08511)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
 |**2026-02-02**|**LEC-KG: An LLM-Embedding Collaborative Framework for Domain-Specific Knowledge Graph Construction -- A Case Study on SDGs**|Yikai Zeng et.al.|[2602.02090](http://arxiv.org/abs/2602.02090)|null|
 |**2026-02-02**|**A Network-Based Framework to Identify Synergies and Trade offs among SDG Indicators**|Gaurav Kottari et.al.|[2602.01676](http://arxiv.org/abs/2602.01676)|null|
@@ -347,6 +380,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering**|Yunhui Liu et.al.|[2602.08519](http://arxiv.org/abs/2602.08519)|null|
+|**2026-02-09**|**Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems**|Ajay Kumar Shrestha et.al.|[2602.08290](http://arxiv.org/abs/2602.08290)|null|
+|**2026-02-08**|**Online Bayesian Imbalanced Learning with Bregman-Calibrated Deep Networks**|Zahir Alsulaimawi et.al.|[2602.08128](http://arxiv.org/abs/2602.08128)|null|
+|**2026-02-08**|**ICBAC: an Intelligent Contract-Based Access Control framework for supply chain management by integrating blockchain and federated learning**|Sadegh Sohani et.al.|[2602.08014](http://arxiv.org/abs/2602.08014)|null|
+|**2026-02-08**|**CausalTAD: Injecting Causal Knowledge into Large Language Models for Tabular Anomaly Detection**|Ruiqi Wang et.al.|[2602.07798](http://arxiv.org/abs/2602.07798)|null|
 |**2026-02-06**|**Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine**|Reza E. Fazel et.al.|[2602.06955](http://arxiv.org/abs/2602.06955)|null|
 |**2026-02-06**|**Wasserstein Distributionally Robust Performative Prediction**|Siyi Wang et.al.|[2602.06730](http://arxiv.org/abs/2602.06730)|null|
 |**2026-02-05**|**On Randomized Algorithms in Online Strategic Classification**|Chase Hutton et.al.|[2602.06257](http://arxiv.org/abs/2602.06257)|null|
@@ -407,6 +445,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Cyclic Adaptive Private Synthesis for Sharing Real-World Data in Education**|Hibiki Ito et.al.|[2602.08299](http://arxiv.org/abs/2602.08299)|null|
+|**2026-02-07**|**Automated rock joint trace mapping using a supervised learning model trained on synthetic data generated by parametric modelling**|Jessica Ka Yi Chiu et.al.|[2602.07590](http://arxiv.org/abs/2602.07590)|null|
+|**2026-02-06**|**Finding Connections: Membership Inference Attacks for the Multi-Table Synthetic Data Setting**|Joshua Ward et.al.|[2602.07126](http://arxiv.org/abs/2602.07126)|null|
 |**2026-02-06**|**Generating High-quality Privacy-preserving Synthetic Data**|David Yavo et.al.|[2602.06390](http://arxiv.org/abs/2602.06390)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
 |**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
