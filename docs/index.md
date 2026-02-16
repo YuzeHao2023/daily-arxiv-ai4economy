@@ -29,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
+|**2026-02-13**|**Matter-induced plaquette terms in a $\mathbb{Z}_2$ lattice gauge theory**|Matjaž Kebrič et.al.|[2602.13192](http://arxiv.org/abs/2602.13192)|null|
+|**2026-02-13**|**Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search**|Jo S. Kurian et.al.|[2602.13187](http://arxiv.org/abs/2602.13187)|null|
+|**2026-02-13**|**Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins**|Saad Ahmed Jamal et.al.|[2602.13181](http://arxiv.org/abs/2602.13181)|null|
+|**2026-02-13**|**Human Emotion-Mediated Soft Robotic Arts: Exploring the Intersection of Human Emotions, Soft Robotics and Arts**|Saitarun Nadipineni et.al.|[2602.13163](http://arxiv.org/abs/2602.13163)|null|
+|**2026-02-13**|**Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments**|Ashwin Satish Menon et.al.|[2602.13159](http://arxiv.org/abs/2602.13159)|null|
+|**2026-02-13**|**In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach**|Yiran Gao et.al.|[2602.13156](http://arxiv.org/abs/2602.13156)|null|
+|**2026-02-13**|**V515 And: An Intermediate Polar in the Period Gap Exhibiting Outbursts**|Srinivas M Rao et.al.|[2602.13153](http://arxiv.org/abs/2602.13153)|null|
+|**2026-02-13**|**Propagation processes on (hyper)graphs: where zero forcing and burning meet**|Aida Abiad et.al.|[2602.13149](http://arxiv.org/abs/2602.13149)|null|
+|**2026-02-13**|**An updated constraint for the Gravitational Wave Background from the Gamma-ray Pulsar Timing Array**|Serena Valtolina et.al.|[2602.13143](http://arxiv.org/abs/2602.13143)|null|
 |**2026-02-12**|**Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching**|Huai-Hsun Cheng et.al.|[2602.12280](http://arxiv.org/abs/2602.12280)|null|
 |**2026-02-12**|**The Wandering Supermassive Black Hole Powering the off-nuclear TDE AT2024tvd**|M. Guolo et.al.|[2602.12272](http://arxiv.org/abs/2602.12272)|null|
 |**2026-02-12**|**Certification of linear optical quantum state preparation**|Riko Schadow et.al.|[2602.12269](http://arxiv.org/abs/2602.12269)|null|
@@ -174,6 +184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Efficient Monte Carlo Valuation of Corporate Bonds in Financial Networks**|Dohyun Ahn et.al.|[2602.12770](http://arxiv.org/abs/2602.12770)|null|
+|**2026-02-13**|**Transformer-based CoVaR: Systemic Risk in Textual Information**|Junyu Chen et.al.|[2602.12490](http://arxiv.org/abs/2602.12490)|null|
 |**2026-02-12**|**Liquidation Dynamics in DeFi and the Role of Transaction Fees**|Agathe Sadeghi et.al.|[2602.12104](http://arxiv.org/abs/2602.12104)|null|
 |**2026-02-12**|**Time-Inhomogeneous Volatility Aversion for Financial Applications of Reinforcement Learning**|Federico Cacciamani et.al.|[2602.12030](http://arxiv.org/abs/2602.12030)|null|
 |**2026-02-12**|**MEME: Modeling the Evolutionary Modes of Financial Markets**|Taian Guo et.al.|[2602.11918](http://arxiv.org/abs/2602.11918)|null|
@@ -273,6 +285,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**EXCODER: EXplainable Classification Of DiscretE time series Representations**|Yannik Hahn et.al.|[2602.13087](http://arxiv.org/abs/2602.13087)|null|
+|**2026-02-13**|**Statistics of time and frequency-averaged spectra in gravitational-wave background searches**|Quentin Baghi et.al.|[2602.12781](http://arxiv.org/abs/2602.12781)|null|
 |**2026-02-11**|**Regularized Ensemble Forecasting for Learning Weights from Historical and Current Forecasts**|Han Su et.al.|[2602.11379](http://arxiv.org/abs/2602.11379)|null|
 |**2026-02-11**|**Pupillometry and Brain Dynamics for Cognitive Load in Working Memory**|Nusaibah Farrukh et.al.|[2602.10614](http://arxiv.org/abs/2602.10614)|null|
 |**2026-02-09**|**Approximate Cartesian Tree Matching with Substitutions**|Panagiotis Charalampopoulos et.al.|[2602.08570](http://arxiv.org/abs/2602.08570)|null|
@@ -308,6 +322,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Multi-type random game dynamics: limits at discontinuities and cyclic limits**|Raghupati Vyas et.al.|[2602.13032](http://arxiv.org/abs/2602.13032)|null|
+|**2026-02-13**|**Multi-Agent Model-Based Reinforcement Learning with Joint State-Action Learned Embeddings**|Zhizun Wang et.al.|[2602.12520](http://arxiv.org/abs/2602.12520)|null|
+|**2026-02-12**|**Theory of Mind Guided Strategy Adaptation for Zero-Shot Coordination**|Andrew Ni et.al.|[2602.12458](http://arxiv.org/abs/2602.12458)|null|
+|**2026-02-12**|**Provably Convergent Actor-Critic in Risk-averse MARL**|Yizhou Zhang et.al.|[2602.12386](http://arxiv.org/abs/2602.12386)|null|
 |**2026-02-12**|**DEpiABS: Differentiable Epidemic Agent-Based Simulator**|Zhijian Gao et.al.|[2602.12102](http://arxiv.org/abs/2602.12102)|null|
 |**2026-02-12**|**AC-MASAC: An Attentive Curriculum Learning Framework for Heterogeneous UAV Swarm Coordination**|Wanhao Liu et.al.|[2602.11735](http://arxiv.org/abs/2602.11735)|null|
 |**2026-02-12**|**The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs**|Jingdi Chen et.al.|[2602.11583](http://arxiv.org/abs/2602.11583)|null|
@@ -419,6 +437,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Aspect-Based Sentiment Analysis for Future Tourism Experiences: A BERT-MoE Framework for Persian User Reviews**|Hamidreza Kazemi Taskooh et.al.|[2602.12778](http://arxiv.org/abs/2602.12778)|null|
 |**2026-02-11**|**Deep learning outperforms traditional machine learning methods in predicting childhood malnutrition: evidence from survey data**|Deepak Bastola et.al.|[2602.10381](http://arxiv.org/abs/2602.10381)|null|
 |**2026-02-09**|**Estimation of Fish Catch Using Sentinel-2, 3 and XGBoost-Kernel-Based Kernel Ridge Regression**|Kanu Mohammed et.al.|[2602.08511](http://arxiv.org/abs/2602.08511)|null|
 |**2026-02-09**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
@@ -449,6 +468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Accuracy Comes at a Cost: Optimal Localisation Against a Flow**|Till Welker et.al.|[2602.13173](http://arxiv.org/abs/2602.13173)|null|
 |**2026-02-12**|**Liquidation Dynamics in DeFi and the Role of Transaction Fees**|Agathe Sadeghi et.al.|[2602.12104](http://arxiv.org/abs/2602.12104)|null|
 |**2026-02-12**|**Systematic Trend-Following with Adaptive Portfolio Construction: Enhancing Risk-Adjusted Alpha in Cryptocurrency Markets**|Duc Bui et.al.|[2602.11708](http://arxiv.org/abs/2602.11708)|null|
 |**2026-02-12**|**Rapid Dissipative Ground State Preparation at Chemical Transition States**|Thomas W. Watts et.al.|[2602.11603](http://arxiv.org/abs/2602.11603)|null|
@@ -526,6 +546,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Synthetic Interaction Data for Scalable Personalization in Large Language Models**|Yuchen Ma et.al.|[2602.12394](http://arxiv.org/abs/2602.12394)|null|
 |**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
 |**2026-02-12**|**How to Sample High Quality 3D Fractals for Action Recognition Pre-Training?**|Marko Putak et.al.|[2602.11810](http://arxiv.org/abs/2602.11810)|null|
 |**2026-02-12**|**SemaPop: Semantic-Persona Conditioned Population Synthesis**|Zhenlin Qin et.al.|[2602.11569](http://arxiv.org/abs/2602.11569)|null|
