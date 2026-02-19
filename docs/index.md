@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -31,6 +31,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
+|**2026-02-18**|**How Bursty is Star Formation at z>5?**|Massimo Stiavelli et.al.|[2602.16706](http://arxiv.org/abs/2602.16706)|null|
+|**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
+|**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|
+|**2026-02-18**|**Numerical study of non-relativistic quantum systems and small oscillations induced in a helically twisted geometry**|C. F. S. Pereira et.al.|[2602.16693](http://arxiv.org/abs/2602.16693)|null|
+|**2026-02-18**|**Scattering data and correlation function for the $K f_1(1285)$ interaction**|Wen-Hao Jia et.al.|[2602.16683](http://arxiv.org/abs/2602.16683)|null|
+|**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|
+|**2026-02-18**|**$p$ -wave magnet driven field-free Josephson diode effect**|Lovy Sharma et.al.|[2602.16677](http://arxiv.org/abs/2602.16677)|null|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|
+|**2026-02-18**|**Comparison of Pauli projection and supersymetric transformation methods for three-body nuclear structure and reactions**|A. Deltuva et.al.|[2602.16674](http://arxiv.org/abs/2602.16674)|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
 |**2026-02-17**|**Local Node Differential Privacy**|Sofya Raskhodnikova et.al.|[2602.15802](http://arxiv.org/abs/2602.15802)|null|
@@ -196,8 +206,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Caratheodory, Finite Resources and the Geometry of Arbitrage**|B. K. Meister et.al.|[2602.16539](http://arxiv.org/abs/2602.16539)|null|
+|**2026-02-18**|**Stackelberg Equilibria in Monopoly Insurance Markets with Probability Weighting**|Maria Andraos et.al.|[2602.16401](http://arxiv.org/abs/2602.16401)|null|
+|**2026-02-18**|**Computing Tarski Fixed Points in Financial Networks**|Leander Besting et.al.|[2602.16387](http://arxiv.org/abs/2602.16387)|null|
+|**2026-02-18**|**A Wiener Chaos Approach to Martingale Modelling and Implied Volatility Calibration**|Pere Diaz-Lozano et.al.|[2602.16232](http://arxiv.org/abs/2602.16232)|null|
+|**2026-02-18**|**Money-Back Tontines for Retirement Decumulation: Neural-Network Optimization under Systematic Longevity Risk**|German Nova Orozco et.al.|[2602.16212](http://arxiv.org/abs/2602.16212)|null|
 |**2026-02-17**|**Quantum Reservoir Computing for Statistical Classification in a Superconducting Quantum Circuit**|J. J. Prieto-Garcia et.al.|[2602.15474](http://arxiv.org/abs/2602.15474)|null|
-|**2026-02-17**|**From Chain-Ladder to Individual Claims Reserving**|Ronald Richman et.al.|[2602.15385](http://arxiv.org/abs/2602.15385)|null|
+|**2026-02-18**|**From Chain-Ladder to Individual Claims Reserving**|Ronald Richman et.al.|[2602.15385](http://arxiv.org/abs/2602.15385)|null|
 |**2026-02-16**|**Predicting Invoice Dilution in Supply Chain Finance with Leakage Free Two Stage XGBoost, KAN (Kolmogorov Arnold Networks), and Ensemble Models**|Pavel Koptev et.al.|[2602.15248](http://arxiv.org/abs/2602.15248)|null|
 |**2026-02-16**|**Autodeleveraging as Online Learning**|Tarun Chitra et.al.|[2602.15182](http://arxiv.org/abs/2602.15182)|null|
 |**2026-02-16**|**Optimal investment under capital gains taxes**|Alexander Dimitrov et.al.|[2602.15177](http://arxiv.org/abs/2602.15177)|null|
@@ -307,6 +322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification**|Xu Zhang et.al.|[2602.16224](http://arxiv.org/abs/2602.16224)|null|
 |**2026-02-17**|**Searching for Axion-like particle Dark Matter with Time-domain Polarization: Constraints from a protoplanetary disk**|Kanako Narita et.al.|[2602.15611](http://arxiv.org/abs/2602.15611)|null|
 |**2026-02-13**|**EXCODER: EXplainable Classification Of DiscretE time series Representations**|Yannik Hahn et.al.|[2602.13087](http://arxiv.org/abs/2602.13087)|null|
 |**2026-02-13**|**Statistics of time and frequency-averaged spectra in gravitational-wave background searches**|Quentin Baghi et.al.|[2602.12781](http://arxiv.org/abs/2602.12781)|null|
@@ -345,6 +361,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**A Scalable Approach to Solving Simulation-Based Network Security Games**|Michael Lanier et.al.|[2602.16564](http://arxiv.org/abs/2602.16564)|null|
+|**2026-02-18**|**Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning**|Arun Vignesh Malarkkan et.al.|[2602.16435](http://arxiv.org/abs/2602.16435)|null|
+|**2026-02-18**|**Multi-agent cooperation through in-context co-player inference**|Marissa A. Weis et.al.|[2602.16301](http://arxiv.org/abs/2602.16301)|null|
+|**2026-02-18**|**Graphon Mean-Field Subsampling for Cooperative Heterogeneous Multi-Agent Reinforcement Learning**|Emile Anand et.al.|[2602.16196](http://arxiv.org/abs/2602.16196)|null|
+|**2026-02-17**|**A Theory of Network Games Part 1: Utility Representation**|Joseph Root et.al.|[2602.16071](http://arxiv.org/abs/2602.16071)|null|
+|**2026-02-17**|**MARLEM: A Multi-Agent Reinforcement Learning Simulation Framework for Implicit Cooperation in Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16063](http://arxiv.org/abs/2602.16063)|null|
+|**2026-02-17**|**Harnessing Implicit Cooperation: A Multi-Agent Reinforcement Learning Approach Towards Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16062](http://arxiv.org/abs/2602.16062)|null|
 |**2026-02-17**|**Agent-based macroeconomics for the UK's Seventh Carbon Budget**|Tom Youngman et.al.|[2602.15607](http://arxiv.org/abs/2602.15607)|null|
 |**2026-02-17**|**Neural Network-Based Parameter Estimation of a Labour Market Agent-Based Model**|M Lopes Alves et.al.|[2602.15572](http://arxiv.org/abs/2602.15572)|null|
 |**2026-02-17**|**Fairness over Equality: Correcting Social Incentives in Asymmetric Sequential Social Dilemmas**|Alper Demir et.al.|[2602.15407](http://arxiv.org/abs/2602.15407)|null|
@@ -502,9 +525,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Managing Credible Anonymous Identities in Web 3.0 Services: A Scalable On-Chain Admission Framework with Recursive Proof Aggregation**|Zibin Lin et.al.|[2602.16130](http://arxiv.org/abs/2602.16130)|null|
 |**2026-02-17**|**Efficient Densest Flow Queries in Transaction Flow Networks (Complete Version)**|Jiaxin Jiang et.al.|[2602.15773](http://arxiv.org/abs/2602.15773)|null|
 |**2026-02-16**|**Constrained Portfolio Optimization via Quantum Approximate Optimization Algorithm (QAOA) with XY-Mixers and Trotterized Initialization: A Hybrid Approach for Direct Indexing**|Javier Mancilla et.al.|[2602.14827](http://arxiv.org/abs/2602.14827)|null|
-|**2026-02-15**|**Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook**|Ming Li et.al.|[2602.14299](http://arxiv.org/abs/2602.14299)|null|
+|**2026-02-18**|**Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook**|Ming Li et.al.|[2602.14299](http://arxiv.org/abs/2602.14299)|null|
 |**2026-02-15**|**Named Entity Recognition for Payment Data Using NLP**|Srikumar Nayak et.al.|[2602.14009](http://arxiv.org/abs/2602.14009)|null|
 |**2026-02-14**|**An end-to-end agentic pipeline for smart contract translation and quality evaluation**|Abhinav Goel et.al.|[2602.13808](http://arxiv.org/abs/2602.13808)|null|
 |**2026-02-13**|**Accuracy Comes at a Cost: Optimal Localisation Against a Flow**|Till Welker et.al.|[2602.13173](http://arxiv.org/abs/2602.13173)|null|
