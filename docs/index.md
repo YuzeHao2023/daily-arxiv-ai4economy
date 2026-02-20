@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -31,6 +31,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|
+|**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|
+|**2026-02-19**|**Human-level 3D shape perception emerges from multi-view learning**|Tyler Bonnen et.al.|[2602.17650](http://arxiv.org/abs/2602.17650)|null|
+|**2026-02-19**|**The Effectiveness of a Virtual Reality-Based Training Program for Improving Body Awareness in Children with Attention Deficit and Hyperactivity Disorder**|Aya Abdelnaem El-Basha et.al.|[2602.17649](http://arxiv.org/abs/2602.17649)|null|
+|**2026-02-19**|**When to Trust the Cheap Check: Weak and Strong Verification for Reasoning**|Shayan Kiyani et.al.|[2602.17633](http://arxiv.org/abs/2602.17633)|null|
+|**2026-02-19**|**New Kreutz Sungrazer C/2026 A1 (MAPS): Third Time's the Charm?**|Zdenek Sekanina et.al.|[2602.17626](http://arxiv.org/abs/2602.17626)|null|
+|**2026-02-19**|**Generically log smooth families via generators and relations**|Simon Felten et.al.|[2602.17617](http://arxiv.org/abs/2602.17617)|null|
+|**2026-02-19**|**Characterization of compressible fluctuations in solar wind streams dominated by balanced and imbalanced turbulence: Parker Solar Probe, Solar Orbiter and Wind observations**|C. A. Gonzalez et.al.|[2602.17606](http://arxiv.org/abs/2602.17606)|null|
+|**2026-02-19**|**Measuring spectral functions of doped magnets with Rydberg tweezer arrays**|Romain Martin et.al.|[2602.17600](http://arxiv.org/abs/2602.17600)|null|
+|**2026-02-19**|**Canonicalizing Multimodal Contrastive Representation Learning**|Sharut Gupta et.al.|[2602.17584](http://arxiv.org/abs/2602.17584)|null|
 |**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|
 |**2026-02-18**|**How Bursty is Star Formation at z>5?**|Massimo Stiavelli et.al.|[2602.16706](http://arxiv.org/abs/2602.16706)|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|
@@ -206,6 +216,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Impacts of Economic Policies on Wealth Distribution in Token Economies**|Rem Sadykhov et.al.|[2602.17373](http://arxiv.org/abs/2602.17373)|null|
+|**2026-02-19**|**i-PhysGaussian: Implicit Physical Simulation for 3D Gaussian Splatting**|Yicheng Cao et.al.|[2602.17117](http://arxiv.org/abs/2602.17117)|null|
+|**2026-02-19**|**Deep Reinforcement Learning for Optimal Portfolio Allocation: A Comparative Study with Mean-Variance Optimization**|Srijan Sood et.al.|[2602.17098](http://arxiv.org/abs/2602.17098)|null|
+|**2026-02-19**|**Local risk-minimization for exponential additive processes**|Takuji Arai et.al.|[2602.17090](http://arxiv.org/abs/2602.17090)|null|
+|**2026-02-18**|**Entropy Regularization as Robustness under Bayesian Drift Uncertainty**|Andy Au et.al.|[2602.16862](http://arxiv.org/abs/2602.16862)|null|
 |**2026-02-18**|**Caratheodory, Finite Resources and the Geometry of Arbitrage**|B. K. Meister et.al.|[2602.16539](http://arxiv.org/abs/2602.16539)|null|
 |**2026-02-18**|**Stackelberg Equilibria in Monopoly Insurance Markets with Probability Weighting**|Maria Andraos et.al.|[2602.16401](http://arxiv.org/abs/2602.16401)|null|
 |**2026-02-18**|**Computing Tarski Fixed Points in Financial Networks**|Leander Besting et.al.|[2602.16387](http://arxiv.org/abs/2602.16387)|null|
@@ -322,6 +337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**A Programmable Linear Optical Quantum Reservoir with Measurement Feedback for Time Series Analysis**|Çağın Ekici et.al.|[2602.17440](http://arxiv.org/abs/2602.17440)|null|
 |**2026-02-18**|**Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification**|Xu Zhang et.al.|[2602.16224](http://arxiv.org/abs/2602.16224)|null|
 |**2026-02-17**|**Searching for Axion-like particle Dark Matter with Time-domain Polarization: Constraints from a protoplanetary disk**|Kanako Narita et.al.|[2602.15611](http://arxiv.org/abs/2602.15611)|null|
 |**2026-02-13**|**EXCODER: EXplainable Classification Of DiscretE time series Representations**|Yannik Hahn et.al.|[2602.13087](http://arxiv.org/abs/2602.13087)|null|
@@ -361,6 +377,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Environmental policy in the context of complex systems: Statistical optimization and sensitivity analysis for ABMs**|Dylan Munson et.al.|[2602.17079](http://arxiv.org/abs/2602.17079)|null|
+|**2026-02-19**|**Safe Continuous-time Multi-Agent Reinforcement Learning via Epigraph Form**|Xuefeng Wang et.al.|[2602.17078](http://arxiv.org/abs/2602.17078)|null|
+|**2026-02-19**|**Spatio-temporal dual-stage hypergraph MARL for human-centric multimodal corridor traffic signal control**|Xiaocai Zhang et.al.|[2602.17068](http://arxiv.org/abs/2602.17068)|null|
+|**2026-02-19**|**Retaining Suboptimal Actions to Follow Shifting Optima in Multi-Agent Reinforcement Learning**|Yonghyeon Jo et.al.|[2602.17062](http://arxiv.org/abs/2602.17062)|null|
+|**2026-02-19**|**Action-Graph Policies: Learning Action Co-dependencies in Multi-Agent Reinforcement Learning**|Nikunj Gupta et.al.|[2602.17009](http://arxiv.org/abs/2602.17009)|null|
+|**2026-02-19**|**Learning to Recommend in Unknown Games**|Arwa Alanqary et.al.|[2602.16998](http://arxiv.org/abs/2602.16998)|null|
+|**2026-02-19**|**Lies, Labels, and Mechanisms**|Alex L. Brown et.al.|[2602.16973](http://arxiv.org/abs/2602.16973)|null|
+|**2026-02-19**|**A Unified Framework for Locality in Scalable MARL**|Sourav Chakraborty et.al.|[2602.16966](http://arxiv.org/abs/2602.16966)|null|
+|**2026-02-18**|**Discovering Multiagent Learning Algorithms with Large Language Models**|Zun Li et.al.|[2602.16928](http://arxiv.org/abs/2602.16928)|null|
 |**2026-02-18**|**A Scalable Approach to Solving Simulation-Based Network Security Games**|Michael Lanier et.al.|[2602.16564](http://arxiv.org/abs/2602.16564)|null|
 |**2026-02-18**|**Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning**|Arun Vignesh Malarkkan et.al.|[2602.16435](http://arxiv.org/abs/2602.16435)|null|
 |**2026-02-18**|**Multi-agent cooperation through in-context co-player inference**|Marissa A. Weis et.al.|[2602.16301](http://arxiv.org/abs/2602.16301)|null|
@@ -525,6 +550,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Coin selection by Random Draw according to the Boltzmann distribution**|Jan Lennart Bönsel et.al.|[2602.17490](http://arxiv.org/abs/2602.17490)|null|
 |**2026-02-18**|**Managing Credible Anonymous Identities in Web 3.0 Services: A Scalable On-Chain Admission Framework with Recursive Proof Aggregation**|Zibin Lin et.al.|[2602.16130](http://arxiv.org/abs/2602.16130)|null|
 |**2026-02-17**|**Efficient Densest Flow Queries in Transaction Flow Networks (Complete Version)**|Jiaxin Jiang et.al.|[2602.15773](http://arxiv.org/abs/2602.15773)|null|
 |**2026-02-16**|**Constrained Portfolio Optimization via Quantum Approximate Optimization Algorithm (QAOA) with XY-Mixers and Trotterized Initialization: A Hybrid Approach for Direct Indexing**|Javier Mancilla et.al.|[2602.14827](http://arxiv.org/abs/2602.14827)|null|
@@ -609,6 +635,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery**|Xuan-Bac Nguyen et.al.|[2602.17478](http://arxiv.org/abs/2602.17478)|null|
+|**2026-02-19**|**RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question Answering**|Yiming Zhang et.al.|[2602.17366](http://arxiv.org/abs/2602.17366)|null|
 |**2026-02-17**|**Developing AI Agents with Simulated Data: Why, what, and how?**|Xiaoran Liu et.al.|[2602.15816](http://arxiv.org/abs/2602.15816)|null|
 |**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
 |**2026-02-17**|**Making Large Language Models Speak Tulu: Structured Prompting for an Extremely Low-Resource Language**|Prathamesh Devadiga et.al.|[2602.15378](http://arxiv.org/abs/2602.15378)|null|
