@@ -47,6 +47,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Resources for Automated Evaluation of Assistive RAG Systems that Help Readers with News Trustworthiness Assessment**|Dake Zhang et.al.|[2602.24277](http://arxiv.org/abs/2602.24277)|null|
+|**2026-02-27**|**Hierarchical Action Learning for Weakly-Supervised Action Segmentation**|Junxian Huang et.al.|[2602.24275](http://arxiv.org/abs/2602.24275)|null|
+|**2026-02-27**|**A Minimal Agent for Automated Theorem Proving**|Borja Requena Pozo et.al.|[2602.24273](http://arxiv.org/abs/2602.24273)|null|
+|**2026-02-27**|**NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine**|Boram Jung et.al.|[2602.24271](http://arxiv.org/abs/2602.24271)|null|
+|**2026-02-27**|**A model of tuberculosis progression using CompuCell3D**|James W. G. Doran et.al.|[2602.24258](http://arxiv.org/abs/2602.24258)|null|
+|**2026-02-27**|**In-flight calibration of RADEM, the JUICE mission radiation monitor**|Marco Pinto et.al.|[2602.24246](http://arxiv.org/abs/2602.24246)|null|
+|**2026-02-27**|**nvidia-pcm: A D-Bus-Driven Platform Configuration Manager for OpenBMC Environments**|Harinder Singh et.al.|[2602.24237](http://arxiv.org/abs/2602.24237)|null|
+|**2026-02-27**|**Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference**|Hongrui Xie et.al.|[2602.24231](http://arxiv.org/abs/2602.24231)|null|
+|**2026-02-27**|**Imprints of $U_A(1)$ chiral anomaly and disorder in the Dirac eigenspectrum of QCD at finite temperature**|Ravi Shanker et.al.|[2602.24227](http://arxiv.org/abs/2602.24227)|null|
+|**2026-02-27**|**Empirical Challenges with Peers-of-Peers Instruments in the Linear-In-Means Model**|Nathan Canen et.al.|[2602.24215](http://arxiv.org/abs/2602.24215)|null|
 |**2026-02-26**|**Model Agreement via Anchoring**|Eric Eaton et.al.|[2602.23360](http://arxiv.org/abs/2602.23360)|null|
 |**2026-02-26**|**SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport**|Simon Roschmann et.al.|[2602.23353](http://arxiv.org/abs/2602.23353)|null|
 |**2026-02-26**|**Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators**|Yuhao Liu et.al.|[2602.23334](http://arxiv.org/abs/2602.23334)|null|
@@ -264,6 +274,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Betting under Common Beliefs: The Effect of Probability Weighting**|Patrick Beissner et.al.|[2602.24194](http://arxiv.org/abs/2602.24194)|null|
+|**2026-02-27**|**Large-scale portfolio optimization on a trapped-ion quantum computer**|Alejandro Gomez Cadavid et.al.|[2602.23976](http://arxiv.org/abs/2602.23976)|null|
+|**2026-02-27**|**TradeFM: A Generative Foundation Model for Trade-flow and Market Microstructure**|Maxime Kawawa-Beaudan et.al.|[2602.23784](http://arxiv.org/abs/2602.23784)|null|
+|**2026-02-27**|**One Rising Ship Sinks Other Ships: Cross-Chain Negative Spillovers in Crypto Markets**|Mengzhong Ma et.al.|[2602.23762](http://arxiv.org/abs/2602.23762)|null|
 |**2026-02-26**|**Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks**|Kunihiro Miyazaki et.al.|[2602.23330](http://arxiv.org/abs/2602.23330)|null|
 |**2026-02-25**|**Applying a Random-Key Optimizer on Mixed Integer Programs**|Antonio A. Chaves et.al.|[2602.22173](http://arxiv.org/abs/2602.22173)|null|
 |**2026-02-25**|**Pools as Portfolios: Observed arbitrage efficiency & LVR analysis of dynamic weight AMMs**|Matthew Willetts et.al.|[2602.22069](http://arxiv.org/abs/2602.22069)|null|
@@ -415,6 +429,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Hybrid Quantum Temporal Convolutional Networks**|Junghoon Justin Park et.al.|[2602.23578](http://arxiv.org/abs/2602.23578)|null|
+|**2026-02-26**|**Testing Hypotheses About Ratios of Linear Trend Slopes in Systems of Equations with a Focus on Tests of Equal Trend Ratios**|Timothy J. Vogelsang et.al.|[2602.23482](http://arxiv.org/abs/2602.23482)|null|
 |**2026-02-25**|**Cross-Task Benchmarking of CNN Architectures**|Kamal Sherawat et.al.|[2602.22945](http://arxiv.org/abs/2602.22945)|null|
 |**2026-02-23**|**A General Equilibrium Theory of Orchestrated AI Agent Systems**|Jean-Philippe Garnier et.al.|[2602.21255](http://arxiv.org/abs/2602.21255)|null|
 |**2026-02-24**|**KairosVL: Orchestrating Time Series and Semantics for Unified Reasoning**|Haotian Si et.al.|[2602.20494](http://arxiv.org/abs/2602.20494)|null|
@@ -462,13 +478,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**A model of tuberculosis progression using CompuCell3D**|James W. G. Doran et.al.|[2602.24258](http://arxiv.org/abs/2602.24258)|null|
+|**2026-02-27**|**TSC: Topology-Conditioned Stackelberg Coordination for Multi-Agent Reinforcement Learning in Interactive Driving**|Xiaotong Zhang et.al.|[2602.23896](http://arxiv.org/abs/2602.23896)|null|
+|**2026-02-26**|**Learning dynamics from online-offline systems of LLM agents**|Moyi Tian et.al.|[2602.23437](http://arxiv.org/abs/2602.23437)|null|
 |**2026-02-26**|**QSIM: Mitigating Overestimation in Multi-Agent Reinforcement Learning via Action Similarity Weighted Q-Learning**|Yuanjun Li et.al.|[2602.22786](http://arxiv.org/abs/2602.22786)|null|
 |**2026-02-26**|**Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera**|Seongyong Kim et.al.|[2602.22733](http://arxiv.org/abs/2602.22733)|null|
 |**2026-02-25**|**JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning**|Ruichen Xu et.al.|[2602.21844](http://arxiv.org/abs/2602.21844)|null|
 |**2026-02-25**|**Solving Imperfect-Recall Games via Sum-of-Squares Optimization**|Rui Zheng et.al.|[2602.21722](http://arxiv.org/abs/2602.21722)|null|
 |**2026-02-25**|**Hierarchical Lead Critic based Multi-Agent Reinforcement Learning**|David Eckel et.al.|[2602.21680](http://arxiv.org/abs/2602.21680)|null|
 |**2026-02-25**|**ABM-UDE: Developing Surrogates for Epidemic Agent-Based Models via Scientific Machine Learning**|Sharv Murgai et.al.|[2602.21588](http://arxiv.org/abs/2602.21588)|null|
-|**2026-02-25**|**Training Generalizable Collaborative Agents via Strategic Risk Aversion**|Chengrui Qu et.al.|[2602.21515](http://arxiv.org/abs/2602.21515)|null|
+|**2026-02-27**|**Training Generalizable Collaborative Agents via Strategic Risk Aversion**|Chengrui Qu et.al.|[2602.21515](http://arxiv.org/abs/2602.21515)|null|
 |**2026-02-25**|**Delegation in Strategic Environments and Equilibrium Uniqueness**|Fedor Sandomirskiy et.al.|[2602.21470](http://arxiv.org/abs/2602.21470)|null|
 |**2026-02-24**|**From Cooperation to Hierarchy: A Study of Dynamics of Hierarchy Emergence in a Multi-Agent System**|Shanshan Mao et.al.|[2602.21404](http://arxiv.org/abs/2602.21404)|null|
 |**2026-02-24**|**Probing Dec-POMDP Reasoning in Cooperative MARL**|Kale-ab Tessera et.al.|[2602.20804](http://arxiv.org/abs/2602.20804)|null|
@@ -634,14 +653,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-24**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
+|**2026-02-26**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
 |**2026-02-23**|**Spectral Analysis of Quasinormal Modes of Planck Stars**|Davide Batic et.al.|[2602.19833](http://arxiv.org/abs/2602.19833)|null|
 |**2026-02-21**|**A high-resolution nationwide urban village mapping product for 342 Chinese cities based on foundation models**|Lubin Bai et.al.|[2602.18765](http://arxiv.org/abs/2602.18765)|null|
 |**2026-02-13**|**Aspect-Based Sentiment Analysis for Future Tourism Experiences: A BERT-MoE Framework for Persian User Reviews**|Hamidreza Kazemi Taskooh et.al.|[2602.12778](http://arxiv.org/abs/2602.12778)|null|
 |**2026-02-11**|**Deep learning outperforms traditional machine learning methods in predicting childhood malnutrition: evidence from survey data**|Deepak Bastola et.al.|[2602.10381](http://arxiv.org/abs/2602.10381)|null|
 |**2026-02-09**|**Estimation of Fish Catch Using Sentinel-2, 3 and XGBoost-Kernel-Based Kernel Ridge Regression**|Kanu Mohammed et.al.|[2602.08511](http://arxiv.org/abs/2602.08511)|null|
 |**2026-02-09**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
-|**2026-02-02**|**LEC-KG: An LLM-Embedding Collaborative Framework for Domain-Specific Knowledge Graph Construction -- A Case Study on SDGs**|Yikai Zeng et.al.|[2602.02090](http://arxiv.org/abs/2602.02090)|null|
+|**2026-02-27**|**LEC-KG: An LLM-Embedding Collaborative Framework for Domain-Specific Knowledge Graph Construction -- A Case Study on SDGs**|Yikai Zeng et.al.|[2602.02090](http://arxiv.org/abs/2602.02090)|null|
 |**2026-02-02**|**A Network-Based Framework to Identify Synergies and Trade offs among SDG Indicators**|Gaurav Kottari et.al.|[2602.01676](http://arxiv.org/abs/2602.01676)|null|
 |**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](http://arxiv.org/abs/2601.23233)|null|
 |**2026-01-28**|**Pre-trained Encoders for Global Child Development: Transfer Learning Enables Deployment in Data-Scarce Settings**|Md Muhtasim Munif Fahim et.al.|[2601.20987](http://arxiv.org/abs/2601.20987)|null|
@@ -670,6 +689,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Central Bank Digital Currencies: Where is the Privacy, Technology, and Anonymity?**|Jeff Nijsse et.al.|[2602.23659](http://arxiv.org/abs/2602.23659)|null|
+|**2026-02-27**|**Normalisation and Initialisation Strategies for Graph Neural Networks in Blockchain Anomaly Detection**|Dang Sy Duy et.al.|[2602.23599](http://arxiv.org/abs/2602.23599)|null|
 |**2026-02-26**|**Molecule Mixture Detection and Design for MC Systems with Non-linear, Cross-reactive Receiver Arrays**|Bastian Heinlein et.al.|[2602.22799](http://arxiv.org/abs/2602.22799)|null|
 |**2026-02-26**|**AMLRIS: Alignment-aware Masked Learning for Referring Image Segmentation**|Tongfei Chen et.al.|[2602.22740](http://arxiv.org/abs/2602.22740)|null|
 |**2026-02-25**|**DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain**|Walter Hernandez Cruz et.al.|[2602.22045](http://arxiv.org/abs/2602.22045)|null|
@@ -770,6 +791,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**TradeFM: A Generative Foundation Model for Trade-flow and Market Microstructure**|Maxime Kawawa-Beaudan et.al.|[2602.23784](http://arxiv.org/abs/2602.23784)|null|
 |**2026-02-24**|**CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects**|Zhenran Tang et.al.|[2602.20551](http://arxiv.org/abs/2602.20551)|null|
 |**2026-02-23**|**CaDrift: A Time-dependent Causal Generator of Drifting Data Streams**|Eduardo V. L. Barboza et.al.|[2602.20329](http://arxiv.org/abs/2602.20329)|null|
 |**2026-02-22**|**FedAvg-Based CTMC Hazard Model for Federated Bridge Deterioration Assessment**|Takato Yasuno et.al.|[2602.20194](http://arxiv.org/abs/2602.20194)|null|
