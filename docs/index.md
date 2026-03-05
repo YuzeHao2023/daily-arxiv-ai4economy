@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
+|**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
+|**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
+|**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|
+|**2026-03-04**|**A DualPI2 Module for Mahimahi: Behavioral Characterization and Cross-Platform Analysis**|Nawel Alioua et.al.|[2603.04381](http://arxiv.org/abs/2603.04381)|null|
+|**2026-03-04**|**Unseen Cost of Space Computing: Quantifying LEO Battery Aging via Physics-Driven Modeling**|Li Zeng et.al.|[2603.04372](http://arxiv.org/abs/2603.04372)|null|
+|**2026-03-04**|**Volumetric effects in viscous flows in circular and annular tubes with wavy walls**|Yisen Guo et.al.|[2603.04362](http://arxiv.org/abs/2603.04362)|null|
+|**2026-03-04**|**A Selection Aware View of Black Hole-Galaxy Coevolution at High Redshift**|Francesco Ziparo et.al.|[2603.04358](http://arxiv.org/abs/2603.04358)|null|
+|**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Soroush Nasiriany et.al.|[2603.04356](http://arxiv.org/abs/2603.04356)|null|
+|**2026-03-04**|**Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots**|Valentin Yuryev et.al.|[2603.04351](http://arxiv.org/abs/2603.04351)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280](http://arxiv.org/abs/2603.03280)|null|
 |**2026-03-03**|**Learning Demographic-Conditioned Mobility Trajectories with Aggregate Supervision**|Jessie Z. Li et.al.|[2603.03275](http://arxiv.org/abs/2603.03275)|null|
 |**2026-03-03**|**Improvement and assessment of the radiopurity of Micromegas readout planes**|Juan Castel et.al.|[2603.03274](http://arxiv.org/abs/2603.03274)|null|
@@ -278,6 +288,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Statistical Inference for Score Decompositions**|Timo Dimitriadis et.al.|[2603.04275](http://arxiv.org/abs/2603.04275)|null|
+|**2026-03-04**|**Is an investor stolen their profits by mimic investors? Investigated by an agent-based model**|Takanobu Mizuta et.al.|[2603.03671](http://arxiv.org/abs/2603.03671)|null|
 |**2026-03-03**|**Dynamic Tracking Error and the Total Portfolio Approach**|Ashwin Alankar et.al.|[2603.03213](http://arxiv.org/abs/2603.03213)|null|
 |**2026-03-03**|**Fast simulation of Volterra processes using random Fourier features with application to the log-stationary fractional Brownian motion**|Othmane Zarhali et.al.|[2603.02946](http://arxiv.org/abs/2603.02946)|null|
 |**2026-03-03**|**Range-Based Volatility Estimators for Monitoring Market Stress: Evidence from Local Food Price Data**|Bo Pieter Johannes Andrée et.al.|[2603.02898](http://arxiv.org/abs/2603.02898)|null|
@@ -501,6 +513,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
+|**2026-03-04**|**Dual-Interaction-Aware Cooperative Control Strategy for Alleviating Mixed Traffic Congestion**|Zhengxuan Liu et.al.|[2603.03848](http://arxiv.org/abs/2603.03848)|null|
+|**2026-03-04**|**MACC: Multi-Agent Collaborative Competition for Scientific Exploration**|Satoshi Oyama et.al.|[2603.03780](http://arxiv.org/abs/2603.03780)|null|
+|**2026-03-04**|**Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport**|Hao Zhang et.al.|[2603.03768](http://arxiv.org/abs/2603.03768)|null|
+|**2026-03-04**|**Learning Approximate Nash Equilibria in Cooperative Multi-Agent Reinforcement Learning via Mean-Field Subsampling**|Emile Anand et.al.|[2603.03759](http://arxiv.org/abs/2603.03759)|null|
+|**2026-03-04**|**HALyPO: Heterogeneous-Agent Lyapunov Policy Optimization for Human-Robot Collaboration**|Hao Zhang et.al.|[2603.03741](http://arxiv.org/abs/2603.03741)|null|
+|**2026-03-04**|**Is an investor stolen their profits by mimic investors? Investigated by an agent-based model**|Takanobu Mizuta et.al.|[2603.03671](http://arxiv.org/abs/2603.03671)|null|
+|**2026-03-04**|**Principled Learning-to-Communicate with Quasi-Classical Information Structures**|Xiangyu Liu et.al.|[2603.03664](http://arxiv.org/abs/2603.03664)|null|
+|**2026-03-03**|**Pricing for Information Revelation in Demand Response: A Strategic Communication Approach**|Hassan Mohamad et.al.|[2603.03560](http://arxiv.org/abs/2603.03560)|null|
+|**2026-03-03**|**Multi-Agent Influence Diagrams to Hybrid Threat Modeling**|Maarten C. Vonk et.al.|[2603.03526](http://arxiv.org/abs/2603.03526)|null|
 |**2026-03-03**|**Generalized Per-Agent Advantage Estimation for Multi-Agent Policy Optimization**|Seongmin Kim et.al.|[2603.02654](http://arxiv.org/abs/2603.02654)|null|
 |**2026-03-03**|**Heterogeneous Agent Collaborative Reinforcement Learning**|Zhixia Zhang et.al.|[2603.02604](http://arxiv.org/abs/2603.02604)|null|
 |**2026-03-03**|**Wukong-Omni: Design, Modeling and Control of a Multi-mode Robot for Air, Land, and Underwater Exploration with All-in-One Propulsion Unit**|Yufan Liu et.al.|[2603.02602](http://arxiv.org/abs/2603.02602)|null|
@@ -715,6 +737,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Algorithmic Compliance and Regulatory Loss in Digital Assets**|Khem Raj Bhatt et.al.|[2603.04328](http://arxiv.org/abs/2603.04328)|null|
+|**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](http://arxiv.org/abs/2603.04209)|null|
+|**2026-03-04**|**OMNIINTENT: A Trusted Intent-Centric Framework for User-Friendly Web3**|Zhuoran Pan et.al.|[2603.04168](http://arxiv.org/abs/2603.04168)|null|
+|**2026-03-04**|**Zero-Knowledge Proof (ZKP) Authentication for Offline CBDC Payment System Using IoT Devices**|Santanu Mondal et.al.|[2603.03804](http://arxiv.org/abs/2603.03804)|null|
+|**2026-03-01**|**Metric-Topology Factorization: A Computational Framework for Hippocampal-Neocortical Intelligence**|Xin Li et.al.|[2603.03362](http://arxiv.org/abs/2603.03362)|null|
 |**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](http://arxiv.org/abs/2603.03106)|null|
 |**2026-03-02**|**Personal Health Data Integration and Intelligence through Semantic Web and Blockchain Technologies**|Oshani Seneviratne et.al.|[2603.02192](http://arxiv.org/abs/2603.02192)|null|
 |**2026-03-02**|**Tide: A Customisable Dataset Generator for Anti-Money Laundering Research**|Montijn van den Beukel et.al.|[2603.01863](http://arxiv.org/abs/2603.01863)|null|
@@ -822,6 +849,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Relational In-Context Learning via Synthetic Pre-training with Structural Prior**|Yanbo Wang et.al.|[2603.03805](http://arxiv.org/abs/2603.03805)|null|
+|**2026-03-04**|**JANUS: Structured Bidirectional Generation for Guaranteed Constraints and Analytical Uncertainty**|Taha Racicot et.al.|[2603.03748](http://arxiv.org/abs/2603.03748)|null|
 |**2026-03-03**|**Integrating Homomorphic Encryption and Synthetic Data in FL for Privacy and Learning Quality**|Yenan Wang et.al.|[2603.02969](http://arxiv.org/abs/2603.02969)|null|
 |**2026-03-02**|**RO-N3WS: Enhancing Generalization in Low-Resource ASR with Diverse Romanian Speech Benchmarks**|Alexandra Diaconu et.al.|[2603.02368](http://arxiv.org/abs/2603.02368)|null|
 |**2026-03-02**|**CausalWrap: Model-Agnostic Causal Constraint Wrappers for Tabular Synthetic Data**|Amir Asiaee et.al.|[2603.02015](http://arxiv.org/abs/2603.02015)|null|
