@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[2603.05507](http://arxiv.org/abs/2603.05507)|null|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](http://arxiv.org/abs/2603.05497)|null|
+|**2026-03-05**|**Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought**|Siddharth Boppana et.al.|[2603.05488](http://arxiv.org/abs/2603.05488)|null|
+|**2026-03-05**|**Observing and Controlling Features in Vision-Language-Action Models**|Hugo Buurmeijer et.al.|[2603.05487](http://arxiv.org/abs/2603.05487)|null|
+|**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|
+|**2026-03-05**|**SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis**|Shahriar Noroozizadeh et.al.|[2603.05483](http://arxiv.org/abs/2603.05483)|null|
+|**2026-03-05**|**7D (non-)susy vacua & DWs from dynamical open strings**|Valentina Bevilacqua et.al.|[2603.05470](http://arxiv.org/abs/2603.05470)|null|
+|**2026-03-05**|**A Space-Time Galerkin Boundary Element Method for Aeroacoustic Scattering**|Maks Groom et.al.|[2603.05469](http://arxiv.org/abs/2603.05469)|null|
+|**2026-03-05**|**Manipulation of ferromagnetism with a light-driven nonlinear Edelstein-Zeeman field**|Yinchuan Lv et.al.|[2603.05456](http://arxiv.org/abs/2603.05456)|null|
+|**2026-03-05**|**Neural Wavefunction Calculations of μSR Spectra with Quantum Muons and Protons**|Jamie Carr et.al.|[2603.05453](http://arxiv.org/abs/2603.05453)|null|
 |**2026-03-04**|**bayesgrid: An Open-Source Python Tool for Generating Probabilistic Synthetic Transmission-Distribution Grids Using Bayesian Hierarchical Models**|Henrique O. Caetano et.al.|[2603.04393](http://arxiv.org/abs/2603.04393)|null|
 |**2026-03-04**|**Hyperuniform Disorder in Photonic Crystal Slabs with Intrinsic non-Hermiticity**|Zeyu Zhang et.al.|[2603.04389](http://arxiv.org/abs/2603.04389)|null|
 |**2026-03-04**|**Dynamic properties in a collisional model for confined granular fluids. A review**|Ricardo Brito et.al.|[2603.04388](http://arxiv.org/abs/2603.04388)|null|
@@ -288,6 +298,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Riemannian Geometry of Optimal Rebalancing in Dynamic Weight Automated Market Makers**|Matthew Willetts et.al.|[2603.05326](http://arxiv.org/abs/2603.05326)|null|
+|**2026-03-05**|**Wealth Tax Neutrality as Drift-Shift Symmetry: A Statistical Physics Formulation**|Anders G. Froeseth et.al.|[2603.05283](http://arxiv.org/abs/2603.05283)|null|
+|**2026-03-05**|**Extensions to the Wealth Tax Neutrality Framework**|Anders G. Froeseth et.al.|[2603.05277](http://arxiv.org/abs/2603.05277)|null|
+|**2026-03-05**|**Asset Returns, Portfolio Choice, and Proportional Wealth Taxation**|Anders G. Froeseth et.al.|[2603.05264](http://arxiv.org/abs/2603.05264)|null|
+|**2026-03-05**|**Extreme Value Analysis for Finite, Multivariate and Correlated Systems with Finance as an Example**|Benjamin Köhler et.al.|[2603.05260](http://arxiv.org/abs/2603.05260)|null|
+|**2026-03-05**|**Asymptotic Separability of Diffusion and Jump Components in High-Frequency CIR and CKLS Models**|Sourojyoti Barick et.al.|[2603.05119](http://arxiv.org/abs/2603.05119)|null|
+|**2026-03-05**|**A class of stochastic control problems with state constraints**|Tiziano De Angelis et.al.|[2603.04880](http://arxiv.org/abs/2603.04880)|null|
+|**2026-03-05**|**LLM-Grounded Explainability for Port Congestion Prediction via Temporal Graph Attention Networks**|Zhiming Xue et.al.|[2603.04818](http://arxiv.org/abs/2603.04818)|null|
 |**2026-03-04**|**Statistical Inference for Score Decompositions**|Timo Dimitriadis et.al.|[2603.04275](http://arxiv.org/abs/2603.04275)|null|
 |**2026-03-04**|**Is an investor stolen their profits by mimic investors? Investigated by an agent-based model**|Takanobu Mizuta et.al.|[2603.03671](http://arxiv.org/abs/2603.03671)|null|
 |**2026-03-03**|**Dynamic Tracking Error and the Total Portfolio Approach**|Ashwin Alankar et.al.|[2603.03213](http://arxiv.org/abs/2603.03213)|null|
@@ -461,6 +479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Uniform convergence of kernel averages under fixed design with heterogeneous dependent data**|Danilo Hiroshi Matsuoka et.al.|[2603.04681](http://arxiv.org/abs/2603.04681)|null|
 |**2026-03-03**|**FinTexTS: Financial Text-Paired Time-Series Dataset via Semantic-Based and Multi-Level Pairing**|Jaehoon Lee et.al.|[2603.02702](http://arxiv.org/abs/2603.02702)|null|
 |**2026-03-02**|**Investigating the short-term effects of particulate matter (PM) chemical components on mortality and the potential modifying effect of extreme temperature: A time-series analysis in London**|Xiaolu Zhang et.al.|[2603.02165](http://arxiv.org/abs/2603.02165)|null|
 |**2026-03-02**|**Wasserstein-based identification of metastable states in time series data via change point detection and segment clustering**|David Gentile et.al.|[2603.01989](http://arxiv.org/abs/2603.01989)|null|
@@ -513,6 +532,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Incentive Aware AI Regulations: A Credal Characterisation**|Anurag Singh et.al.|[2603.05175](http://arxiv.org/abs/2603.05175)|null|
+|**2026-03-05**|**When minor issues matter: symmetries, pluralism, and polarization in similarity-based opinion dynamics**|Brian Mintz et.al.|[2603.04939](http://arxiv.org/abs/2603.04939)|null|
+|**2026-03-05**|**SCoUT: Scalable Communication via Utility-Guided Temporal Grouping in Multi-Agent Reinforcement Learning**|Manav Vora et.al.|[2603.04833](http://arxiv.org/abs/2603.04833)|null|
+|**2026-03-04**|**Strategic Interactions in Multi-Level Stackelberg Games with Non-Follower Agents and Heterogeneous Leaders**|Niloofar Aminikalibar et.al.|[2603.04628](http://arxiv.org/abs/2603.04628)|null|
+|**2026-03-04**|**Token Taxes: mitigating AGI's economic risks**|Lucas Irwin et.al.|[2603.04555](http://arxiv.org/abs/2603.04555)|null|
 |**2026-03-04**|**When Safety Becomes a Vulnerability: Exploiting LLM Alignment Homogeneity for Transferable Blocking in RAG**|Junchen Li et.al.|[2603.03919](http://arxiv.org/abs/2603.03919)|null|
 |**2026-03-04**|**Dual-Interaction-Aware Cooperative Control Strategy for Alleviating Mixed Traffic Congestion**|Zhengxuan Liu et.al.|[2603.03848](http://arxiv.org/abs/2603.03848)|null|
 |**2026-03-04**|**MACC: Multi-Agent Collaborative Competition for Scientific Exploration**|Satoshi Oyama et.al.|[2603.03780](http://arxiv.org/abs/2603.03780)|null|
@@ -737,10 +761,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home**|Janani Rangila et.al.|[2603.05027](http://arxiv.org/abs/2603.05027)|null|
+|**2026-03-05**|**EVMbench: Evaluating AI Agents on Smart Contract Security**|Justin Wang et.al.|[2603.04915](http://arxiv.org/abs/2603.04915)|null|
 |**2026-03-04**|**Algorithmic Compliance and Regulatory Loss in Digital Assets**|Khem Raj Bhatt et.al.|[2603.04328](http://arxiv.org/abs/2603.04328)|null|
 |**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](http://arxiv.org/abs/2603.04209)|null|
 |**2026-03-04**|**OMNIINTENT: A Trusted Intent-Centric Framework for User-Friendly Web3**|Zhuoran Pan et.al.|[2603.04168](http://arxiv.org/abs/2603.04168)|null|
-|**2026-03-04**|**Zero-Knowledge Proof (ZKP) Authentication for Offline CBDC Payment System Using IoT Devices**|Santanu Mondal et.al.|[2603.03804](http://arxiv.org/abs/2603.03804)|null|
+|**2026-03-05**|**Zero-Knowledge Proof (ZKP) Authentication for Offline CBDC Payment System Using IoT Devices**|Santanu Mondal et.al.|[2603.03804](http://arxiv.org/abs/2603.03804)|null|
 |**2026-03-01**|**Metric-Topology Factorization: A Computational Framework for Hippocampal-Neocortical Intelligence**|Xin Li et.al.|[2603.03362](http://arxiv.org/abs/2603.03362)|null|
 |**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](http://arxiv.org/abs/2603.03106)|null|
 |**2026-03-02**|**Personal Health Data Integration and Intelligence through Semantic Web and Blockchain Technologies**|Oshani Seneviratne et.al.|[2603.02192](http://arxiv.org/abs/2603.02192)|null|
@@ -849,6 +875,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Harnessing Synthetic Data from Generative AI for Statistical Inference**|Ahmad Abdel-Azim et.al.|[2603.05396](http://arxiv.org/abs/2603.05396)|null|
 |**2026-03-04**|**Relational In-Context Learning via Synthetic Pre-training with Structural Prior**|Yanbo Wang et.al.|[2603.03805](http://arxiv.org/abs/2603.03805)|null|
 |**2026-03-04**|**JANUS: Structured Bidirectional Generation for Guaranteed Constraints and Analytical Uncertainty**|Taha Racicot et.al.|[2603.03748](http://arxiv.org/abs/2603.03748)|null|
 |**2026-03-03**|**Integrating Homomorphic Encryption and Synthetic Data in FL for Privacy and Learning Quality**|Yenan Wang et.al.|[2603.02969](http://arxiv.org/abs/2603.02969)|null|
