@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Fly360: Omnidirectional Obstacle Avoidance within Drone View**|Xiangkai Zhang et.al.|[2603.06573](http://arxiv.org/abs/2603.06573)|null|
+|**2026-03-06**|**Data-Driven Trends and Subpopulations in the Gravitational Wave Binary Black Hole Merger Population with UMAP**|A. J. Amsellem et.al.|[2603.06566](http://arxiv.org/abs/2603.06566)|null|
+|**2026-03-06**|**EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking**|Fangrui Zhu et.al.|[2603.06561](http://arxiv.org/abs/2603.06561)|null|
+|**2026-03-06**|**Sampling-based Continuous Optimization for Messenger RNA Design**|Feipeng Yue et.al.|[2603.06559](http://arxiv.org/abs/2603.06559)|null|
+|**2026-03-06**|**Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations**|Harshavardhan Kamarthi et.al.|[2603.06555](http://arxiv.org/abs/2603.06555)|null|
+|**2026-03-06**|**Unified Learning of Temporal Task Structure and Action Timing for Bimanual Robot Manipulation**|Christian Dreher et.al.|[2603.06538](http://arxiv.org/abs/2603.06538)|null|
+|**2026-03-06**|**Underactuated multimodal jumping robot for extraterrestrial exploration**|Neil R. Wagner et.al.|[2603.06525](http://arxiv.org/abs/2603.06525)|null|
+|**2026-03-06**|**Modern jet flavour tagging in hadronic Z decays with archived ALEPH data**|Matteo M. Defranchis et.al.|[2603.06524](http://arxiv.org/abs/2603.06524)|null|
+|**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
+|**2026-03-06**|**Galaxy UV Legacy Project: Survey Description and First Insights Into NGC 4449 Recent History of Star Formation**|E. Sabbi et.al.|[2603.06510](http://arxiv.org/abs/2603.06510)|null|
 |**2026-03-05**|**Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**|Leif Van Holland et.al.|[2603.05507](http://arxiv.org/abs/2603.05507)|null|
 |**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](http://arxiv.org/abs/2603.05497)|null|
 |**2026-03-05**|**Reasoning Theater: Disentangling Model Beliefs from Chain-of-Thought**|Siddharth Boppana et.al.|[2603.05488](http://arxiv.org/abs/2603.05488)|null|
@@ -298,6 +308,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Convergence of Neural Network Policies for Risk--Reward Optimization**|Chang Chen et.al.|[2603.06563](http://arxiv.org/abs/2603.06563)|null|
+|**2026-03-06**|**General Bounds on Functionals of the Lifetime under Life Table Constraints**|Jean-Loup Dupret et.al.|[2603.06238](http://arxiv.org/abs/2603.06238)|null|
+|**2026-03-06**|**Newton Method for Multiobjective Optimization Problems of Interval-Valued Maps**|Tapas Mondal et.al.|[2603.06000](http://arxiv.org/abs/2603.06000)|null|
+|**2026-03-06**|**Stock Market Prediction Using Node Transformer Architecture Integrated with BERT Sentiment Analysis**|Mohammad Al Ridhawi et.al.|[2603.05917](http://arxiv.org/abs/2603.05917)|null|
+|**2026-03-06**|**Impact of arbitrage between leveraged ETF and futures on market liquidity during market crash**|Ryuki Hayase et.al.|[2603.05862](http://arxiv.org/abs/2603.05862)|null|
+|**2026-03-05**|**Mean-field games with unbounded controls: a weak formulation approach to global solutions**|Ulrich Horst et.al.|[2603.05624](http://arxiv.org/abs/2603.05624)|null|
+|**2026-03-05**|**Decision-dependent distributionally robust standard quadratic optimization with Wasserstein ambiguity**|Immanuel M. Bomze et.al.|[2603.05620](http://arxiv.org/abs/2603.05620)|null|
 |**2026-03-05**|**Riemannian Geometry of Optimal Rebalancing in Dynamic Weight Automated Market Makers**|Matthew Willetts et.al.|[2603.05326](http://arxiv.org/abs/2603.05326)|null|
 |**2026-03-05**|**Wealth Tax Neutrality as Drift-Shift Symmetry: A Statistical Physics Formulation**|Anders G. Froeseth et.al.|[2603.05283](http://arxiv.org/abs/2603.05283)|null|
 |**2026-03-05**|**Extensions to the Wealth Tax Neutrality Framework**|Anders G. Froeseth et.al.|[2603.05277](http://arxiv.org/abs/2603.05277)|null|
@@ -532,6 +549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum**|Lauri Lovén et.al.|[2603.05614](http://arxiv.org/abs/2603.05614)|null|
 |**2026-03-05**|**Incentive Aware AI Regulations: A Credal Characterisation**|Anurag Singh et.al.|[2603.05175](http://arxiv.org/abs/2603.05175)|null|
 |**2026-03-05**|**When minor issues matter: symmetries, pluralism, and polarization in similarity-based opinion dynamics**|Brian Mintz et.al.|[2603.04939](http://arxiv.org/abs/2603.04939)|null|
 |**2026-03-05**|**SCoUT: Scalable Communication via Utility-Guided Temporal Grouping in Multi-Agent Reinforcement Learning**|Manav Vora et.al.|[2603.04833](http://arxiv.org/abs/2603.04833)|null|
@@ -761,6 +779,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Proteus: A Practical Framework for Privacy-Preserving Device Logs**|Sanket Goutam et.al.|[2603.06540](http://arxiv.org/abs/2603.06540)|null|
+|**2026-03-06**|**A Mixture-of-Experts Framework for Practical Hybrid-Quantum Models in Credit Card Fraud Detection**|Rodrigo Chaves et.al.|[2603.06473](http://arxiv.org/abs/2603.06473)|null|
+|**2026-03-06**|**Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach**|Rahim Rahmani et.al.|[2603.06041](http://arxiv.org/abs/2603.06041)|null|
 |**2026-03-05**|**S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home**|Janani Rangila et.al.|[2603.05027](http://arxiv.org/abs/2603.05027)|null|
 |**2026-03-05**|**EVMbench: Evaluating AI Agents on Smart Contract Security**|Justin Wang et.al.|[2603.04915](http://arxiv.org/abs/2603.04915)|null|
 |**2026-03-04**|**Algorithmic Compliance and Regulatory Loss in Digital Assets**|Khem Raj Bhatt et.al.|[2603.04328](http://arxiv.org/abs/2603.04328)|null|
@@ -875,6 +896,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**A Hazard-Informed Data Pipeline for Robotics Physical Safety**|Alexei Odinokov et.al.|[2603.06130](http://arxiv.org/abs/2603.06130)|null|
 |**2026-03-05**|**Harnessing Synthetic Data from Generative AI for Statistical Inference**|Ahmad Abdel-Azim et.al.|[2603.05396](http://arxiv.org/abs/2603.05396)|null|
 |**2026-03-04**|**Relational In-Context Learning via Synthetic Pre-training with Structural Prior**|Yanbo Wang et.al.|[2603.03805](http://arxiv.org/abs/2603.03805)|null|
 |**2026-03-04**|**JANUS: Structured Bidirectional Generation for Guaranteed Constraints and Analytical Uncertainty**|Taha Racicot et.al.|[2603.03748](http://arxiv.org/abs/2603.03748)|null|
