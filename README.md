@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2025-12-02**|**Stepwise Schema-Guided Prompting Framework with Parameter Efficient Instruction Tuning for Multimedia Event Extraction**|Xiang Yuan et.al.|[2512.02584](http://arxiv.org/abs/2512.02584)|null|
 |**2025-11-29**|**Financial Text Classification Based On rLoRA Finetuning On Qwen3-8B model**|Zhiming Lian et.al.|[2512.00630](http://arxiv.org/abs/2512.00630)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Causal Inference & Policy Evaluation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
+|**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
+|**2026-03-12**|**Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**|Yufei Zhao et.al.|[2603.12259](http://arxiv.org/abs/2603.12259)|null|
+|**2026-03-12**|**Quantum Inductance as a Phase-Sensitive Probe of Fermion Parity Switching in Majorana Nanowires**|Binayyak B. Roy et.al.|[2603.12256](http://arxiv.org/abs/2603.12256)|null|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**STAMP: Selective Task-Aware Mechanism for Text Privacy**|Fengwei Tian et.al.|[2603.12237](http://arxiv.org/abs/2603.12237)|null|
+|**2026-03-12**|**Onset of Ergodicity Across Scales on a Digital Quantum Processor**|Faisal Alam et.al.|[2603.12236](http://arxiv.org/abs/2603.12236)|null|
+|**2026-03-12**|**Permutation invariant multi-scale full quantum neural network wavefunction**|Pengzhen Cai et.al.|[2603.12233](http://arxiv.org/abs/2603.12233)|null|
+|**2026-03-12**|**Interpreting Contrastive Embeddings in Specific Domains with Fuzzy Rules**|Javier Fumanal-Idocin et.al.|[2603.12227](http://arxiv.org/abs/2603.12227)|null|
+|**2026-03-12**|**Real-World Point Tracking with Verifier-Guided Pseudo-Labeling**|Görkay Aydemir et.al.|[2603.12217](http://arxiv.org/abs/2603.12217)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|
 |**2026-03-10**|**Far-infrared Polarization Properties of Nearby Star-forming Regions: A New Compendium of SOFIA/HAWC+ Observations**|Kaitlyn Karpovich et.al.|[2603.09962](http://arxiv.org/abs/2603.09962)|null|
@@ -339,12 +349,22 @@
 |**2026-01-20**|**Influence of Finite-Nuclei Constraints on High-Density Transitions and Neutron Star Properties**|Anagh Venneti et.al.|[2601.14194](http://arxiv.org/abs/2601.14194)|null|
 |**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](http://arxiv.org/abs/2601.14192)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Quantitative Finance & Asset Pricing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
+|**2026-03-12**|**Forecasting and Manipulating the Forecasts of Others**|Sam Babichenko et.al.|[2603.12140](http://arxiv.org/abs/2603.12140)|null|
+|**2026-03-12**|**Entropic signatures of market response under concentrated policy communication**|Ewa A. Drzazga-Szczȩśniak et.al.|[2603.12040](http://arxiv.org/abs/2603.12040)|null|
+|**2026-03-12**|**Deriving the term-structure of loan write-off risk under IFRS 9 by using survival analysis: A benchmark study**|Arno Botha et.al.|[2603.11897](http://arxiv.org/abs/2603.11897)|null|
+|**2026-03-12**|**DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining**|Yutong Yan et.al.|[2603.11838](http://arxiv.org/abs/2603.11838)|null|
+|**2026-03-12**|**One-Shot Individual Claims Reserving**|Ronald Richman et.al.|[2603.11660](http://arxiv.org/abs/2603.11660)|null|
+|**2026-03-12**|**Beyond Polarity: Multi-Dimensional LLM Sentiment Signals for WTI Crude Oil Futures Return Prediction**|Dehao Dai et.al.|[2603.11408](http://arxiv.org/abs/2603.11408)|null|
+|**2026-03-11**|**On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models**|Emmanuel Gnabeyeu et.al.|[2603.11046](http://arxiv.org/abs/2603.11046)|null|
+|**2026-03-11**|**SPX-VIX Risk Computations Via Perturbed Optimal Transport**|Charlie Che et.al.|[2603.10857](http://arxiv.org/abs/2603.10857)|null|
+|**2026-03-11**|**Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services**|Fabrizio Dimino et.al.|[2603.10807](http://arxiv.org/abs/2603.10807)|null|
 |**2026-03-10**|**Caratheodory II: The Geometry of Financial Irreversibility**|Bernhard K Meister et.al.|[2603.09966](http://arxiv.org/abs/2603.09966)|null|
 |**2026-03-10**|**Modeling structure and credit risk of the economy: a multilayer bank-firm network approach**|Soumen Majhi et.al.|[2603.09854](http://arxiv.org/abs/2603.09854)|null|
 |**2026-03-10**|**A Hybrid Quantum-Classical Framework for Financial Volatility Forecasting Based on Quantum Circuit Born Machines**|Yixiong Chen et.al.|[2603.09789](http://arxiv.org/abs/2603.09789)|null|
@@ -549,12 +569,15 @@
 |**2026-01-19**|**Market Making and Transient Impact in Spot FX**|Alexander Barzykin et.al.|[2601.13421](http://arxiv.org/abs/2601.13421)|null|
 |**2026-01-19**|**Spectral Dynamics and Regularization for High-Dimensional Copulas**|Koos B. Gubbels et.al.|[2601.13281](http://arxiv.org/abs/2601.13281)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Macroeconomics & Global Forecasting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Deep Learning Network-Temporal Models For Traffic Prediction**|Yufeng Xin et.al.|[2603.11475](http://arxiv.org/abs/2603.11475)|null|
+|**2026-03-11**|**A Semi-Structural Model with Household Debt for Israel**|Alex Ilek et.al.|[2603.11013](http://arxiv.org/abs/2603.11013)|null|
+|**2026-03-11**|**Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression**|Taehyung Kwon et.al.|[2603.10410](http://arxiv.org/abs/2603.10410)|null|
 |**2026-03-09**|**Why Channel-Centric Models are not Enough to Predict End-to-End Performance in Private 5G: A Measurement Campaign and Case Study**|Nils Jörgensen et.al.|[2603.08865](http://arxiv.org/abs/2603.08865)|null|
 |**2026-03-09**|**Examining the Role of YouTube Production and Consumption Dynamics on the Formation of Extreme Ideologies**|Sarmad Chandio et.al.|[2603.08049](http://arxiv.org/abs/2603.08049)|null|
 |**2026-03-08**|**TS-MLLM: A Multi-Modal Large Language Model-based Framework for Industrial Time-Series Big Data Analysis**|Haiteng Wang et.al.|[2603.07572](http://arxiv.org/abs/2603.07572)|null|
@@ -609,12 +632,22 @@
 |**2026-01-09**|**DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis**|Rui An et.al.|[2601.05527](http://arxiv.org/abs/2601.05527)|null|
 |**2026-01-08**|**LGTD: Local-Global Trend Decomposition for Season-Length-Free Time Series Analysis**|Chotanansub Sophaken et.al.|[2601.04820](http://arxiv.org/abs/2601.04820)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Economic Agents, Game Theory & MARL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](http://arxiv.org/abs/2603.12031)|null|
+|**2026-03-12**|**Learning Visuomotor Policy for Multi-Robot Laser Tag Game**|Kai Li et.al.|[2603.11980](http://arxiv.org/abs/2603.11980)|null|
+|**2026-03-12**|**The price of decentralization in managing engineering systems through multi-agent reinforcement learning**|Prateek Bhustali et.al.|[2603.11884](http://arxiv.org/abs/2603.11884)|null|
+|**2026-03-12**|**Online Learning of Strategic Defense against Ecological Adversaries under Partial Observability with Semi-Bandit Feedback**|Anjali Purathekandy et.al.|[2603.11726](http://arxiv.org/abs/2603.11726)|null|
+|**2026-03-12**|**STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning**|Jiwon Jeon et.al.|[2603.11691](http://arxiv.org/abs/2603.11691)|null|
+|**2026-03-12**|**Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization**|Zhirun Li et.al.|[2603.11582](http://arxiv.org/abs/2603.11582)|null|
+|**2026-03-12**|**MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints**|Daniel Koh et.al.|[2603.11537](http://arxiv.org/abs/2603.11537)|null|
+|**2026-03-12**|**Stochastic Optimization and Coupling**|Frank Yang et.al.|[2603.11448](http://arxiv.org/abs/2603.11448)|null|
+|**2026-03-12**|**Adversarial Reinforcement Learning for Detecting False Data Injection Attacks in Vehicular Routing**|Taha Eghtesad et.al.|[2603.11433](http://arxiv.org/abs/2603.11433)|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|
 |**2026-03-10**|**Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**|Willie Kouam et.al.|[2603.09587](http://arxiv.org/abs/2603.09587)|null|
 |**2026-03-10**|**Embodied Human Simulation for Quantitative Design and Analysis of Interactive Robotics**|Chenhui Zuo et.al.|[2603.09218](http://arxiv.org/abs/2603.09218)|null|
@@ -802,7 +835,7 @@
 |**2026-01-19**|**Constructing a Dataset to Support Agent-Based Modeling of Online Interactions: Users, Topics, and Interaction Networks**|Abdul Sittar et.al.|[2601.12628](http://arxiv.org/abs/2601.12628)|null|
 |**2026-01-18**|**Cooperative Multi-agent RL with Communication Constraints**|Nuoya Xiong et.al.|[2601.12518](http://arxiv.org/abs/2601.12518)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Industrial, Labor & Supply Chain
 
@@ -826,7 +859,7 @@
 |**2025-11-24**|**Differentially Private Computation of the Gini Index for Income Inequality**|Wenjie Lan et.al.|[2511.19771](http://arxiv.org/abs/2511.19771)|null|
 |**2025-11-21**|**A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers**|David Solano et.al.|[2511.17148](http://arxiv.org/abs/2511.17148)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Sustainable Economy & Green Finance
 
@@ -862,12 +895,18 @@
 |**2026-01-09**|**Higher-Order Domain Generalization in Magnetic Resonance-Based Assessment of Alzheimer's Disease**|Zobia Batool et.al.|[2601.01485](http://arxiv.org/abs/2601.01485)|null|
 |**2026-01-01**|**OmniVaT: Single Domain Generalization for Multimodal Visual-Tactile Learning**|Liuxiang Qiu et.al.|[2601.00352](http://arxiv.org/abs/2601.00352)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Crypto-Economics & FinTech Innovation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Multilingual Financial Fraud Detection Using Machine Learning and Transformer Models: A Bangla-English Study**|Mohammad Shihab Uddin et.al.|[2603.11358](http://arxiv.org/abs/2603.11358)|null|
+|**2026-03-11**|**LROO Rug Pull Detector: A Leakage-Resistant Framework Based on On-Chain and OSINT Signals**|Fatemeh Shoaei et.al.|[2603.11324](http://arxiv.org/abs/2603.11324)|null|
+|**2026-03-11**|**Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future**|Yibai Li et.al.|[2603.11299](http://arxiv.org/abs/2603.11299)|null|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
+|**2026-03-11**|**Re-Evaluating EVMBench: Are AI Agents Ready for Smart Contract Security?**|Chaoyuan Peng et.al.|[2603.10795](http://arxiv.org/abs/2603.10795)|null|
+|**2026-03-11**|**Transverse and Longitudinal Magnetothermopower Promoted by Ambipolar Effect in Half-Heusler Topological Materials**|Orest Pavlosiuk et.al.|[2603.10499](http://arxiv.org/abs/2603.10499)|null|
 |**2026-03-10**|**$P^2$ GNN: Two Prototype Sets to boost GNN Performance**|Arihant Jain et.al.|[2603.09195](http://arxiv.org/abs/2603.09195)|null|
 |**2026-03-09**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
 |**2026-03-09**|**Beyond the Markovian Assumption: Robust Optimization via Fractional Weyl Integrals in Imbalanced Data**|Gustavo A. Dorrego et.al.|[2603.08377](http://arxiv.org/abs/2603.08377)|null|
@@ -986,12 +1025,20 @@
 |**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](http://arxiv.org/abs/2601.10848)|null|
 |**2026-01-15**|**Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing**|Khushbakht Farooq et.al.|[2601.10105](http://arxiv.org/abs/2601.10105)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Economic Foundation Models & Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
+|**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](http://arxiv.org/abs/2603.11407)|null|
+|**2026-03-11**|**Interventional Time Series Priors for Causal Foundation Models**|Dennis Thumm et.al.|[2603.11090](http://arxiv.org/abs/2603.11090)|null|
+|**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|
+|**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609](http://arxiv.org/abs/2603.10609)|null|
+|**2026-03-10**|**Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure**|Davide Tugnoli et.al.|[2603.10254](http://arxiv.org/abs/2603.10254)|null|
+|**2026-03-10**|**Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning**|Ammar Daskin et.al.|[2603.10083](http://arxiv.org/abs/2603.10083)|null|
 |**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
 |**2026-03-08**|**Evaluating Synthetic Data for Baggage Trolley Detection in Airport Logistics**|Abdeldjalil Taibi et.al.|[2603.07645](http://arxiv.org/abs/2603.07645)|null|
 |**2026-03-07**|**Agentic Planning with Reasoning for Image Styling via Offline RL**|Subhojyoti Mukherjee et.al.|[2603.07148](http://arxiv.org/abs/2603.07148)|null|
@@ -1071,7 +1118,7 @@
 |**2026-01-13**|**Intra-tree Column Subsampling Hinders XGBoost Learning of Ratio-like Interactions**|Mykola Pinchuk et.al.|[2601.08121](http://arxiv.org/abs/2601.08121)|null|
 |**2026-01-12**|**Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting**|José Pulido et.al.|[2601.07646](http://arxiv.org/abs/2601.07646)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 ## Behavioral Economics & Consumer Analysis
 
@@ -1090,7 +1137,7 @@
 |**2025-12-16**|**Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology**|Ian Costa-Alves et.al.|[2503.22435](http://arxiv.org/abs/2503.22435)|null|
 |**2025-03-25**|**The Design of Monopoly Information Broker**|Junjie Chen et.al.|[2503.19539](http://arxiv.org/abs/2503.19539)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4economy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4economy-arxiv-daily/graphs/contributors

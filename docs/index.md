@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
+|**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
+|**2026-03-12**|**Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**|Yufei Zhao et.al.|[2603.12259](http://arxiv.org/abs/2603.12259)|null|
+|**2026-03-12**|**Quantum Inductance as a Phase-Sensitive Probe of Fermion Parity Switching in Majorana Nanowires**|Binayyak B. Roy et.al.|[2603.12256](http://arxiv.org/abs/2603.12256)|null|
+|**2026-03-12**|**Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training**|Yixin Liu et.al.|[2603.12246](http://arxiv.org/abs/2603.12246)|null|
+|**2026-03-12**|**STAMP: Selective Task-Aware Mechanism for Text Privacy**|Fengwei Tian et.al.|[2603.12237](http://arxiv.org/abs/2603.12237)|null|
+|**2026-03-12**|**Onset of Ergodicity Across Scales on a Digital Quantum Processor**|Faisal Alam et.al.|[2603.12236](http://arxiv.org/abs/2603.12236)|null|
+|**2026-03-12**|**Permutation invariant multi-scale full quantum neural network wavefunction**|Pengzhen Cai et.al.|[2603.12233](http://arxiv.org/abs/2603.12233)|null|
+|**2026-03-12**|**Interpreting Contrastive Embeddings in Specific Domains with Fuzzy Rules**|Javier Fumanal-Idocin et.al.|[2603.12227](http://arxiv.org/abs/2603.12227)|null|
+|**2026-03-12**|**Real-World Point Tracking with Verifier-Guided Pseudo-Labeling**|Görkay Aydemir et.al.|[2603.12217](http://arxiv.org/abs/2603.12217)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|
 |**2026-03-10**|**Far-infrared Polarization Properties of Nearby Star-forming Regions: A New Compendium of SOFIA/HAWC+ Observations**|Kaitlyn Karpovich et.al.|[2603.09962](http://arxiv.org/abs/2603.09962)|null|
@@ -329,6 +339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
+|**2026-03-12**|**Forecasting and Manipulating the Forecasts of Others**|Sam Babichenko et.al.|[2603.12140](http://arxiv.org/abs/2603.12140)|null|
+|**2026-03-12**|**Entropic signatures of market response under concentrated policy communication**|Ewa A. Drzazga-Szczȩśniak et.al.|[2603.12040](http://arxiv.org/abs/2603.12040)|null|
+|**2026-03-12**|**Deriving the term-structure of loan write-off risk under IFRS 9 by using survival analysis: A benchmark study**|Arno Botha et.al.|[2603.11897](http://arxiv.org/abs/2603.11897)|null|
+|**2026-03-12**|**DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining**|Yutong Yan et.al.|[2603.11838](http://arxiv.org/abs/2603.11838)|null|
+|**2026-03-12**|**One-Shot Individual Claims Reserving**|Ronald Richman et.al.|[2603.11660](http://arxiv.org/abs/2603.11660)|null|
+|**2026-03-12**|**Beyond Polarity: Multi-Dimensional LLM Sentiment Signals for WTI Crude Oil Futures Return Prediction**|Dehao Dai et.al.|[2603.11408](http://arxiv.org/abs/2603.11408)|null|
+|**2026-03-11**|**On Utility Maximization under Multivariate Fake Stationary Affine Volterra Models**|Emmanuel Gnabeyeu et.al.|[2603.11046](http://arxiv.org/abs/2603.11046)|null|
+|**2026-03-11**|**SPX-VIX Risk Computations Via Perturbed Optimal Transport**|Charlie Che et.al.|[2603.10857](http://arxiv.org/abs/2603.10857)|null|
+|**2026-03-11**|**Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services**|Fabrizio Dimino et.al.|[2603.10807](http://arxiv.org/abs/2603.10807)|null|
 |**2026-03-10**|**Caratheodory II: The Geometry of Financial Irreversibility**|Bernhard K Meister et.al.|[2603.09966](http://arxiv.org/abs/2603.09966)|null|
 |**2026-03-10**|**Modeling structure and credit risk of the economy: a multilayer bank-firm network approach**|Soumen Majhi et.al.|[2603.09854](http://arxiv.org/abs/2603.09854)|null|
 |**2026-03-10**|**A Hybrid Quantum-Classical Framework for Financial Volatility Forecasting Based on Quantum Circuit Born Machines**|Yixiong Chen et.al.|[2603.09789](http://arxiv.org/abs/2603.09789)|null|
@@ -537,6 +557,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Deep Learning Network-Temporal Models For Traffic Prediction**|Yufeng Xin et.al.|[2603.11475](http://arxiv.org/abs/2603.11475)|null|
+|**2026-03-11**|**A Semi-Structural Model with Household Debt for Israel**|Alex Ilek et.al.|[2603.11013](http://arxiv.org/abs/2603.11013)|null|
+|**2026-03-11**|**Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression**|Taehyung Kwon et.al.|[2603.10410](http://arxiv.org/abs/2603.10410)|null|
 |**2026-03-09**|**Why Channel-Centric Models are not Enough to Predict End-to-End Performance in Private 5G: A Measurement Campaign and Case Study**|Nils Jörgensen et.al.|[2603.08865](http://arxiv.org/abs/2603.08865)|null|
 |**2026-03-09**|**Examining the Role of YouTube Production and Consumption Dynamics on the Formation of Extreme Ideologies**|Sarmad Chandio et.al.|[2603.08049](http://arxiv.org/abs/2603.08049)|null|
 |**2026-03-08**|**TS-MLLM: A Multi-Modal Large Language Model-based Framework for Industrial Time-Series Big Data Analysis**|Haiteng Wang et.al.|[2603.07572](http://arxiv.org/abs/2603.07572)|null|
@@ -595,6 +618,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](http://arxiv.org/abs/2603.12031)|null|
+|**2026-03-12**|**Learning Visuomotor Policy for Multi-Robot Laser Tag Game**|Kai Li et.al.|[2603.11980](http://arxiv.org/abs/2603.11980)|null|
+|**2026-03-12**|**The price of decentralization in managing engineering systems through multi-agent reinforcement learning**|Prateek Bhustali et.al.|[2603.11884](http://arxiv.org/abs/2603.11884)|null|
+|**2026-03-12**|**Online Learning of Strategic Defense against Ecological Adversaries under Partial Observability with Semi-Bandit Feedback**|Anjali Purathekandy et.al.|[2603.11726](http://arxiv.org/abs/2603.11726)|null|
+|**2026-03-12**|**STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning**|Jiwon Jeon et.al.|[2603.11691](http://arxiv.org/abs/2603.11691)|null|
+|**2026-03-12**|**Multi-Agent Reinforcement Learning for UAV-Based Chemical Plume Source Localization**|Zhirun Li et.al.|[2603.11582](http://arxiv.org/abs/2603.11582)|null|
+|**2026-03-12**|**MiNI-Q: A Miniature, Wire-Free Quadruped with Unbounded, Independently Actuated Leg Joints**|Daniel Koh et.al.|[2603.11537](http://arxiv.org/abs/2603.11537)|null|
+|**2026-03-12**|**Stochastic Optimization and Coupling**|Frank Yang et.al.|[2603.11448](http://arxiv.org/abs/2603.11448)|null|
+|**2026-03-12**|**Adversarial Reinforcement Learning for Detecting False Data Injection Attacks in Vehicular Routing**|Taha Eghtesad et.al.|[2603.11433](http://arxiv.org/abs/2603.11433)|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|
 |**2026-03-10**|**Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**|Willie Kouam et.al.|[2603.09587](http://arxiv.org/abs/2603.09587)|null|
 |**2026-03-10**|**Embodied Human Simulation for Quantitative Design and Analysis of Interactive Robotics**|Chenhui Zuo et.al.|[2603.09218](http://arxiv.org/abs/2603.09218)|null|
@@ -842,6 +875,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Multilingual Financial Fraud Detection Using Machine Learning and Transformer Models: A Bangla-English Study**|Mohammad Shihab Uddin et.al.|[2603.11358](http://arxiv.org/abs/2603.11358)|null|
+|**2026-03-11**|**LROO Rug Pull Detector: A Leakage-Resistant Framework Based on On-Chain and OSINT Signals**|Fatemeh Shoaei et.al.|[2603.11324](http://arxiv.org/abs/2603.11324)|null|
+|**2026-03-11**|**Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future**|Yibai Li et.al.|[2603.11299](http://arxiv.org/abs/2603.11299)|null|
+|**2026-03-11**|**LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce**|Hao N. Nguyen et.al.|[2603.11025](http://arxiv.org/abs/2603.11025)|null|
+|**2026-03-11**|**Re-Evaluating EVMBench: Are AI Agents Ready for Smart Contract Security?**|Chaoyuan Peng et.al.|[2603.10795](http://arxiv.org/abs/2603.10795)|null|
+|**2026-03-11**|**Transverse and Longitudinal Magnetothermopower Promoted by Ambipolar Effect in Half-Heusler Topological Materials**|Orest Pavlosiuk et.al.|[2603.10499](http://arxiv.org/abs/2603.10499)|null|
 |**2026-03-10**|**$P^2$ GNN: Two Prototype Sets to boost GNN Performance**|Arihant Jain et.al.|[2603.09195](http://arxiv.org/abs/2603.09195)|null|
 |**2026-03-09**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
 |**2026-03-09**|**Beyond the Markovian Assumption: Robust Optimization via Fractional Weyl Integrals in Imbalanced Data**|Gustavo A. Dorrego et.al.|[2603.08377](http://arxiv.org/abs/2603.08377)|null|
@@ -964,6 +1003,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
+|**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](http://arxiv.org/abs/2603.11407)|null|
+|**2026-03-11**|**Interventional Time Series Priors for Causal Foundation Models**|Dennis Thumm et.al.|[2603.11090](http://arxiv.org/abs/2603.11090)|null|
+|**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|
+|**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609](http://arxiv.org/abs/2603.10609)|null|
+|**2026-03-10**|**Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure**|Davide Tugnoli et.al.|[2603.10254](http://arxiv.org/abs/2603.10254)|null|
+|**2026-03-10**|**Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning**|Ammar Daskin et.al.|[2603.10083](http://arxiv.org/abs/2603.10083)|null|
 |**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](http://arxiv.org/abs/2603.09625)|null|
 |**2026-03-08**|**Evaluating Synthetic Data for Baggage Trolley Detection in Airport Logistics**|Abdeldjalil Taibi et.al.|[2603.07645](http://arxiv.org/abs/2603.07645)|null|
 |**2026-03-07**|**Agentic Planning with Reasoning for Image Styling via Offline RL**|Subhojyoti Mukherjee et.al.|[2603.07148](http://arxiv.org/abs/2603.07148)|null|
