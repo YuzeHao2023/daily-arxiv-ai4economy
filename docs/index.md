@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
+|**2026-03-13**|**Electromechanical Hysteresis in Phase Change Material Sb2S3**|Jack Kaman et.al.|[2603.13221](http://arxiv.org/abs/2603.13221)|null|
+|**2026-03-13**|**A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**|Linqing Peng et.al.|[2603.13211](http://arxiv.org/abs/2603.13211)|null|
+|**2026-03-13**|**Challenging the Weak Cosmic Censorship with Phantom Fields**|Giovanni Caridi et.al.|[2603.13210](http://arxiv.org/abs/2603.13210)|null|
+|**2026-03-13**|**Estimating the Missing Mass, Partition Function or Evidence for a Case of Sampling from a Discrete Set**|Bastiaan J. Braams et.al.|[2603.13207](http://arxiv.org/abs/2603.13207)|null|
+|**2026-03-13**|**Bounds on Agreement between Subjective and Objective Measurements**|Jaden Pieper et.al.|[2603.13204](http://arxiv.org/abs/2603.13204)|null|
+|**2026-03-13**|**$π$, K, and p production in high-multiplicity pp collisions at $\sqrt{s} = 13$ TeV**|ALICE Collaboration et.al.|[2603.13203](http://arxiv.org/abs/2603.13203)|null|
+|**2026-03-13**|**Neuron-Aware Data Selection In Instruction Tuning For Large Language Models**|Xin Chen et.al.|[2603.13201](http://arxiv.org/abs/2603.13201)|null|
+|**2026-03-13**|**Anisotropic Inviscid Limit for the Navier-Stokes Equations with Transport Noise Between Two Plates**|Daniel Goodair et.al.|[2603.13199](http://arxiv.org/abs/2603.13199)|null|
+|**2026-03-13**|**Jacobian graphs**|Arthur Forey et.al.|[2603.13198](http://arxiv.org/abs/2603.13198)|null|
 |**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
 |**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
 |**2026-03-12**|**Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**|Yufei Zhao et.al.|[2603.12259](http://arxiv.org/abs/2603.12259)|null|
@@ -339,6 +349,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Microstructural Foundation of Rough Log-Normal Volatility Models**|Paul P. Hager et.al.|[2603.13170](http://arxiv.org/abs/2603.13170)|null|
+|**2026-03-13**|**A property of log-concave and weakly-symmetric distributions for two step approximations of random variables**|Mihaela-Adriana Nistor et.al.|[2603.12767](http://arxiv.org/abs/2603.12767)|null|
+|**2026-03-13**|**Pricing Derivatives under Self-Exciting Dynamics: A Finite-Difference and Transform Approach**|Aqib Ahmed et.al.|[2603.12602](http://arxiv.org/abs/2603.12602)|null|
+|**2026-03-12**|**Operationalising Cyber Risk Management Using AI: Connecting Cyber Incidents to MITRE ATT&CK Techniques, Security Controls, and Metrics**|Emad Sherif et.al.|[2603.12455](http://arxiv.org/abs/2603.12455)|null|
+|**2026-03-12**|**Mortgage Burnout and Selection Effects in Heterogeneous Cox Hazard Models**|Andrew Lesniewski et.al.|[2603.12422](http://arxiv.org/abs/2603.12422)|null|
+|**2026-03-12**|**Feynman-Kac Derivatives Pricing on the Full Forward Curve**|Kevin Mott et.al.|[2603.12375](http://arxiv.org/abs/2603.12375)|null|
 |**2026-03-12**|**Security Considerations for Artificial Intelligence Agents**|Ninghui Li et.al.|[2603.12230](http://arxiv.org/abs/2603.12230)|null|
 |**2026-03-12**|**Forecasting and Manipulating the Forecasts of Others**|Sam Babichenko et.al.|[2603.12140](http://arxiv.org/abs/2603.12140)|null|
 |**2026-03-12**|**Entropic signatures of market response under concentrated policy communication**|Ewa A. Drzazga-Szczȩśniak et.al.|[2603.12040](http://arxiv.org/abs/2603.12040)|null|
@@ -557,6 +573,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval**|Susumu Naito et.al.|[2603.12544](http://arxiv.org/abs/2603.12544)|null|
+|**2026-03-12**|**Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data**|Martin Jaraiz et.al.|[2603.12412](http://arxiv.org/abs/2603.12412)|null|
+|**2026-03-12**|**Decorated Cospans at Work: Coupling Heterogeneous Dynamical Systems via Pushouts and Particle Filters**|Wesley Phoa et.al.|[2603.12302](http://arxiv.org/abs/2603.12302)|null|
 |**2026-03-12**|**Deep Learning Network-Temporal Models For Traffic Prediction**|Yufeng Xin et.al.|[2603.11475](http://arxiv.org/abs/2603.11475)|null|
 |**2026-03-11**|**A Semi-Structural Model with Household Debt for Israel**|Alex Ilek et.al.|[2603.11013](http://arxiv.org/abs/2603.11013)|null|
 |**2026-03-11**|**Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression**|Taehyung Kwon et.al.|[2603.10410](http://arxiv.org/abs/2603.10410)|null|
@@ -618,6 +637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Self-Confirming Mechanisms**|Zhiming Feng et.al.|[2603.12532](http://arxiv.org/abs/2603.12532)|null|
 |**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
 |**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](http://arxiv.org/abs/2603.12031)|null|
 |**2026-03-12**|**Learning Visuomotor Policy for Multi-Robot Laser Tag Game**|Kai Li et.al.|[2603.11980](http://arxiv.org/abs/2603.11980)|null|
@@ -841,6 +861,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Synergies, Trade-offs, and Structural Pathways: A Directed Network Approach to SDG Prioritisation**|Gaurav Kottari et.al.|[2603.12699](http://arxiv.org/abs/2603.12699)|null|
+|**2026-03-12**|**Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization**|Ayan Banerjee et.al.|[2603.12369](http://arxiv.org/abs/2603.12369)|null|
 |**2026-02-26**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
 |**2026-02-23**|**Spectral Analysis of Quasinormal Modes of Planck Stars**|Davide Batic et.al.|[2602.19833](http://arxiv.org/abs/2602.19833)|null|
 |**2026-02-21**|**A high-resolution nationwide urban village mapping product for 342 Chinese cities based on foundation models**|Lubin Bai et.al.|[2602.18765](http://arxiv.org/abs/2602.18765)|null|
@@ -875,6 +897,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**FraudFox: Adaptable Fraud Detection in the Real World**|Matthew Butler et.al.|[2603.13014](http://arxiv.org/abs/2603.13014)|null|
 |**2026-03-11**|**Multilingual Financial Fraud Detection Using Machine Learning and Transformer Models: A Bangla-English Study**|Mohammad Shihab Uddin et.al.|[2603.11358](http://arxiv.org/abs/2603.11358)|null|
 |**2026-03-11**|**LROO Rug Pull Detector: A Leakage-Resistant Framework Based on On-Chain and OSINT Signals**|Fatemeh Shoaei et.al.|[2603.11324](http://arxiv.org/abs/2603.11324)|null|
 |**2026-03-11**|**Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future**|Yibai Li et.al.|[2603.11299](http://arxiv.org/abs/2603.11299)|null|
@@ -1003,6 +1026,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution**|Ali Mosleh et.al.|[2603.12493](http://arxiv.org/abs/2603.12493)|null|
+|**2026-03-11**|**Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions**|Ziwei Wang et.al.|[2603.12296](http://arxiv.org/abs/2603.12296)|null|
 |**2026-03-12**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
 |**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](http://arxiv.org/abs/2603.11407)|null|
 |**2026-03-11**|**Interventional Time Series Priors for Causal Foundation Models**|Dennis Thumm et.al.|[2603.11090](http://arxiv.org/abs/2603.11090)|null|
