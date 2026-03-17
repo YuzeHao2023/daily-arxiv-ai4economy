@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
+|**2026-03-16**|**Probing the Penetration Depth of Topological Surface States by Magnetic Impurity Scattering in V-doped Sb $_2$Te$_3$**|Yidi Wang et.al.|[2603.15601](http://arxiv.org/abs/2603.15601)|null|
+|**2026-03-16**|**Ruijsenaars-van Diejen-Takemura Hamiltonians as rational Heun operators**|Satoshi Tsujimoto et.al.|[2603.15595](http://arxiv.org/abs/2603.15595)|null|
+|**2026-03-16**|**Unified scaling and shape laws for turbulent premixed methane and hydrogen jet flames**|Aurora Maffei et.al.|[2603.15592](http://arxiv.org/abs/2603.15592)|null|
+|**2026-03-16**|**Topological localisation and motility of active knots**|Andrea Bonato et.al.|[2603.15591](http://arxiv.org/abs/2603.15591)|null|
+|**2026-03-16**|**Low-Complexity and Consistent Graphon Estimation from Multiple Networks**|Roland Boniface Sogan et.al.|[2603.15578](http://arxiv.org/abs/2603.15578)|null|
+|**2026-03-16**|**Simulating the Open System Dynamics of Multiple Exchange-Only Qubits using Subspace Monte Carlo**|Tameem Albash et.al.|[2603.15577](http://arxiv.org/abs/2603.15577)|null|
+|**2026-03-16**|**Smaller Depth-2 Linear Circuits for Disjointness Matrices**|Lixi Ye et.al.|[2603.15565](http://arxiv.org/abs/2603.15565)|null|
+|**2026-03-16**|**Probabilistic Model Checking Taken by Storm**|Matthias Volk et.al.|[2603.15559](http://arxiv.org/abs/2603.15559)|null|
+|**2026-03-16**|**InterveneBench: Benchmarking LLMs for Intervention Reasoning and Causal Study Design in Real Social Systems**|Shaojie Shi et.al.|[2603.15542](http://arxiv.org/abs/2603.15542)|null|
 |**2026-03-13**|**Representation Learning for Spatiotemporal Physical Systems**|Helen Qu et.al.|[2603.13227](http://arxiv.org/abs/2603.13227)|null|
 |**2026-03-13**|**Electromechanical Hysteresis in Phase Change Material Sb2S3**|Jack Kaman et.al.|[2603.13221](http://arxiv.org/abs/2603.13221)|null|
 |**2026-03-13**|**A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head**|Linqing Peng et.al.|[2603.13211](http://arxiv.org/abs/2603.13211)|null|
@@ -349,6 +359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Some general results on risk budgeting portfolios**|Claudia Fassino et.al.|[2603.15511](http://arxiv.org/abs/2603.15511)|null|
+|**2026-03-16**|**A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio**|Caroline Hillairet et.al.|[2603.15369](http://arxiv.org/abs/2603.15369)|null|
+|**2026-03-16**|**At-the-money short-time call-price asymptotics for new classes of exponential Lévy models**|Allen Hoffmeyer et.al.|[2603.14760](http://arxiv.org/abs/2603.14760)|null|
+|**2026-03-15**|**Tractable bank capital structure: optimal control under Basel III constraints**|Erhan Bayraktar et.al.|[2603.14557](http://arxiv.org/abs/2603.14557)|null|
+|**2026-03-15**|**Robust Optimal Strategies for Early Liquidation in Financial Systems**|Dohyun Ahn et.al.|[2603.14546](http://arxiv.org/abs/2603.14546)|null|
+|**2026-03-15**|**Private Credit Markets Theory, Evidence, and Emerging Frontiers**|Jiacheng Zou et.al.|[2603.14491](http://arxiv.org/abs/2603.14491)|null|
+|**2026-03-15**|**E-TRENDS: Enhanced LSTM Trend Forecasting for Equities**|Harris Buchanan et.al.|[2603.14453](http://arxiv.org/abs/2603.14453)|null|
+|**2026-03-15**|**Curved Greeks: A Geometric Layer for Option P&L Adjustments**|Pedro Pablo Pérez Velasco et.al.|[2603.14438](http://arxiv.org/abs/2603.14438)|null|
+|**2026-03-15**|**Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI**|Allen Yikuan Huang et.al.|[2603.14288](http://arxiv.org/abs/2603.14288)|null|
+|**2026-03-14**|**Conditioning on a Volatility Proxy Compresses the Apparent Timescale of Collective Market Correlation**|Yuda Bi et.al.|[2603.14072](http://arxiv.org/abs/2603.14072)|null|
 |**2026-03-13**|**Microstructural Foundation of Rough Log-Normal Volatility Models**|Paul P. Hager et.al.|[2603.13170](http://arxiv.org/abs/2603.13170)|null|
 |**2026-03-13**|**A property of log-concave and weakly-symmetric distributions for two step approximations of random variables**|Mihaela-Adriana Nistor et.al.|[2603.12767](http://arxiv.org/abs/2603.12767)|null|
 |**2026-03-13**|**Pricing Derivatives under Self-Exciting Dynamics: A Finite-Difference and Transform Approach**|Aqib Ahmed et.al.|[2603.12602](http://arxiv.org/abs/2603.12602)|null|
@@ -637,6 +657,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Shahil Shaik et.al.|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)|null|
+|**2026-03-16**|**The Price of Universal Temporal Reachability**|Binh-Minh Bui-Xuan et.al.|[2603.15176](http://arxiv.org/abs/2603.15176)|null|
+|**2026-03-16**|**Interference-Aware K-Step Reachable Communication in Multi-Agent Reinforcement Learning**|Ziyu Cheng et.al.|[2603.15054](http://arxiv.org/abs/2603.15054)|null|
+|**2026-03-15**|**EcoFair-CH-MARL: Scalable Constrained Hierarchical Multi-Agent RL with Real-Time Emission Budgets and Fairness Guarantees**|Saad Alqithami et.al.|[2603.14625](http://arxiv.org/abs/2603.14625)|null|
+|**2026-03-13**|**Brush-mediated angular constraints reshape structure, rigidity, and percolation in colloidal depletion gels**|Ziye Zhuang et.al.|[2603.13596](http://arxiv.org/abs/2603.13596)|null|
 |**2026-03-13**|**Self-Confirming Mechanisms**|Zhiming Feng et.al.|[2603.12532](http://arxiv.org/abs/2603.12532)|null|
 |**2026-03-12**|**A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control**|Sheng-You Huang et.al.|[2603.12096](http://arxiv.org/abs/2603.12096)|null|
 |**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](http://arxiv.org/abs/2603.12031)|null|
@@ -897,6 +923,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Synergizing a Decentralized Framework with LLM-Assisted Skill and Willingness-Aware Task Assignment for Volunteer Crowdsourcing**|Riya Samanta et.al.|[2603.15095](http://arxiv.org/abs/2603.15095)|null|
+|**2026-03-15**|**A Multi-Scale Graph Learning Framework with Temporal Consistency Constraints for Financial Fraud Detection in Transaction Networks under Non-Stationary Conditions**|Yiming Lei et.al.|[2603.14592](http://arxiv.org/abs/2603.14592)|null|
+|**2026-03-15**|**All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation**|Xudong Wang et.al.|[2603.14276](http://arxiv.org/abs/2603.14276)|null|
+|**2026-03-14**|**A Systematic Evaluation Protocol of Graph-Derived Signals for Tabular Machine Learning**|Mario Heidrich et.al.|[2603.13998](http://arxiv.org/abs/2603.13998)|null|
+|**2026-03-14**|**CONFETTY: A Tool for Enforcement and Data Confidentiality on Blockchain-Based Processes**|Michele Kryston et.al.|[2603.13900](http://arxiv.org/abs/2603.13900)|null|
+|**2026-03-14**|**Early Rug Pull Warning for BSC Meme Tokens via Multi-Granularity Wash-Trading Pattern Profiling**|Dingding Cao et.al.|[2603.13830](http://arxiv.org/abs/2603.13830)|null|
+|**2026-03-13**|**Privacy-Preserving Federated Fraud Detection in Payment Transactions with NVIDIA FLARE**|Holger R. Roth et.al.|[2603.13617](http://arxiv.org/abs/2603.13617)|null|
+|**2026-03-13**|**EmDT: Embedding Diffusion Transformer for Tabular Data Generation in Fraud Detection**|En-Ya Kuo et.al.|[2603.13566](http://arxiv.org/abs/2603.13566)|null|
 |**2026-03-13**|**FraudFox: Adaptable Fraud Detection in the Real World**|Matthew Butler et.al.|[2603.13014](http://arxiv.org/abs/2603.13014)|null|
 |**2026-03-11**|**Multilingual Financial Fraud Detection Using Machine Learning and Transformer Models: A Bangla-English Study**|Mohammad Shihab Uddin et.al.|[2603.11358](http://arxiv.org/abs/2603.11358)|null|
 |**2026-03-11**|**LROO Rug Pull Detector: A Leakage-Resistant Framework Based on On-Chain and OSINT Signals**|Fatemeh Shoaei et.al.|[2603.11324](http://arxiv.org/abs/2603.11324)|null|
@@ -1026,9 +1060,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
+|**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|null|
+|**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
+|**2026-03-13**|**EmDT: Embedding Diffusion Transformer for Tabular Data Generation in Fraud Detection**|En-Ya Kuo et.al.|[2603.13566](http://arxiv.org/abs/2603.13566)|null|
 |**2026-03-12**|**RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution**|Ali Mosleh et.al.|[2603.12493](http://arxiv.org/abs/2603.12493)|null|
 |**2026-03-11**|**Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions**|Ziwei Wang et.al.|[2603.12296](http://arxiv.org/abs/2603.12296)|null|
-|**2026-03-12**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
+|**2026-03-16**|**Structure Selection for Fairness-Constrained Differentially Private Data Synthesis**|Naeim Ghahramanpour et.al.|[2603.12112](http://arxiv.org/abs/2603.12112)|null|
 |**2026-03-12**|**Reproducible Synthetic Clinical Letters for Seizure Frequency Information Extraction**|Yujian Gan et.al.|[2603.11407](http://arxiv.org/abs/2603.11407)|null|
 |**2026-03-11**|**Interventional Time Series Priors for Causal Foundation Models**|Dennis Thumm et.al.|[2603.11090](http://arxiv.org/abs/2603.11090)|null|
 |**2026-03-11**|**Quantifying Membership Disclosure Risk for Tabular Synthetic Data Using Kernel Density Estimators**|Rajdeep Pathak et.al.|[2603.10937](http://arxiv.org/abs/2603.10937)|null|
