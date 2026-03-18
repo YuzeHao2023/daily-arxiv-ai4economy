@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
+|**2026-03-17**|**Spatial Causal Tensor Completion for Multiple Exposures and Outcomes: An Application to the Health Effects of PFAS Pollution**|Xiaodan Zhou et.al.|[2603.16854](http://arxiv.org/abs/2603.16854)|null|
+|**2026-03-17**|**Koopman Lifted Finite Memory Identification via Truncated Grunwald Letnikov Kernels**|Navid Mojahed et.al.|[2603.16851](http://arxiv.org/abs/2603.16851)|null|
+|**2026-03-17**|**GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators**|Mattia Rigotti et.al.|[2603.16849](http://arxiv.org/abs/2603.16849)|null|
+|**2026-03-17**|**Mediocrity is the key for LLM as a Judge Anchor Selection**|Shachar Don-Yehiya et.al.|[2603.16848](http://arxiv.org/abs/2603.16848)|null|
+|**2026-03-17**|**An assessment of data-centric methods for label noise identification in remote sensing data sets**|Felix Kröber et.al.|[2603.16835](http://arxiv.org/abs/2603.16835)|null|
+|**2026-03-17**|**Semiparametric Inference under Dual Positivity Boundaries:Nested Identification with Administrative Censoring and Confounded Treatment**|Lin Li et.al.|[2603.16833](http://arxiv.org/abs/2603.16833)|null|
+|**2026-03-17**|**Age-dependent random connection models with arc reciprocity: clustering and connectivity**|Lukas Lüchtrath et.al.|[2603.16824](http://arxiv.org/abs/2603.16824)|null|
+|**2026-03-17**|**Leveraging LLMs for Structured Information Extraction and Analysis from Cloud Incident Reports (Work In Progress Paper)**|Xiaoyu Chu et.al.|[2603.16818](http://arxiv.org/abs/2603.16818)|null|
+|**2026-03-17**|**Correlations of the phase gradients of the light wave propagating in a turbulent medium in the regime of strong scintillations**|V. A. Bogachev et.al.|[2603.16811](http://arxiv.org/abs/2603.16811)|null|
 |**2026-03-16**|**Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**|Yulin Luo et.al.|[2603.15618](http://arxiv.org/abs/2603.15618)|null|
 |**2026-03-16**|**Probing the Penetration Depth of Topological Surface States by Magnetic Impurity Scattering in V-doped Sb $_2$Te$_3$**|Yidi Wang et.al.|[2603.15601](http://arxiv.org/abs/2603.15601)|null|
 |**2026-03-16**|**Ruijsenaars-van Diejen-Takemura Hamiltonians as rational Heun operators**|Satoshi Tsujimoto et.al.|[2603.15595](http://arxiv.org/abs/2603.15595)|null|
@@ -359,6 +369,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Discrimination-insensitive pricing**|Kathleen Miao et.al.|[2603.16720](http://arxiv.org/abs/2603.16720)|null|
+|**2026-03-17**|**From Natural Language to Executable Option Strategies via Large Language Models**|Haochen Luo et.al.|[2603.16434](http://arxiv.org/abs/2603.16434)|null|
+|**2026-03-17**|**Open vs. Sealed: Auction Format Choice for Maximal Extractable Value**|Aleksei Adadurov et.al.|[2603.16333](http://arxiv.org/abs/2603.16333)|null|
+|**2026-03-17**|**Short-horizon Duesenberry Equilibrium**|Jaime Alberto Londoño et.al.|[2603.16108](http://arxiv.org/abs/2603.16108)|null|
+|**2026-03-16**|**Heterogeneous Returns and Wealth Tax Neutrality: A Fokker--Planck Framework**|Anders G Frøseth et.al.|[2603.16006](http://arxiv.org/abs/2603.16006)|null|
+|**2026-03-16**|**Flow Taxes, Stock Taxes, and Portfolio Choice: A Generalised Neutrality Result**|Anders G Frøseth et.al.|[2603.15974](http://arxiv.org/abs/2603.15974)|null|
+|**2026-03-16**|**Risk-Based Auto-Deleveraging**|Steven Campbell et.al.|[2603.15963](http://arxiv.org/abs/2603.15963)|null|
+|**2026-03-16**|**Hyper-Adaptive Momentum Dynamics for Native Cubic Portfolio Optimization: Avoiding Quadratization Distortion in Higher-Order Cardinality-Constrained Search**|Greg Serbarinov et.al.|[2603.15947](http://arxiv.org/abs/2603.15947)|null|
+|**2026-03-16**|**Algorithmic Trading Strategy Development and Optimisation**|Owen Nyo Wei Yuan et.al.|[2603.15848](http://arxiv.org/abs/2603.15848)|null|
+|**2026-03-16**|**A Portfolio-Anchored Frequency-Severity Risk Index for Trip and Driver Assessment Using Telematics Signals**|Jongtaek Lee et.al.|[2603.15839](http://arxiv.org/abs/2603.15839)|null|
 |**2026-03-16**|**Some general results on risk budgeting portfolios**|Claudia Fassino et.al.|[2603.15511](http://arxiv.org/abs/2603.15511)|null|
 |**2026-03-16**|**A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio**|Caroline Hillairet et.al.|[2603.15369](http://arxiv.org/abs/2603.15369)|null|
 |**2026-03-16**|**At-the-money short-time call-price asymptotics for new classes of exponential Lévy models**|Allen Hoffmeyer et.al.|[2603.14760](http://arxiv.org/abs/2603.14760)|null|
@@ -657,6 +677,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**IQuest-Coder-V1 Technical Report**|Jian Yang et.al.|[2603.16733](http://arxiv.org/abs/2603.16733)|null|
+|**2026-03-17**|**Multi-Agent Reinforcement Learning Counteracts Delayed CSI in Multi-Satellite Systems**|Marios Aristodemou et.al.|[2603.16470](http://arxiv.org/abs/2603.16470)|null|
+|**2026-03-17**|**SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation**|Long Li et.al.|[2603.16161](http://arxiv.org/abs/2603.16161)|null|
+|**2026-03-17**|**Communication-Aware Multi-Agent Reinforcement Learning for Decentralized Cooperative UAV Deployment**|Enguang Fan et.al.|[2603.16141](http://arxiv.org/abs/2603.16141)|null|
+|**2026-03-17**|**Dynamics of particle lane formation in confined viscoelastic fluids under shear**|Hiroto Yokoyama et.al.|[2603.16027](http://arxiv.org/abs/2603.16027)|null|
+|**2026-03-16**|**Prices vs. Quantities: Robust Regulation**|Zi Yang Kang et.al.|[2603.15832](http://arxiv.org/abs/2603.15832)|null|
 |**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Shahil Shaik et.al.|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
 |**2026-03-16**|**SFCoT: Safer Chain-of-Thought via Active Safety Evaluation and Calibration**|Yu Pan et.al.|[2603.15397](http://arxiv.org/abs/2603.15397)|null|
 |**2026-03-16**|**The Price of Universal Temporal Reachability**|Binh-Minh Bui-Xuan et.al.|[2603.15176](http://arxiv.org/abs/2603.15176)|null|
@@ -887,6 +913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-13**|**Synergies, Trade-offs, and Structural Pathways: A Directed Network Approach to SDG Prioritisation**|Gaurav Kottari et.al.|[2603.12699](http://arxiv.org/abs/2603.12699)|null|
 |**2026-03-12**|**Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization**|Ayan Banerjee et.al.|[2603.12369](http://arxiv.org/abs/2603.12369)|null|
 |**2026-02-26**|**FlowFixer: Towards Detail-Preserving Subject-Driven Generation**|Jinyoung Jun et.al.|[2602.21402](http://arxiv.org/abs/2602.21402)|null|
@@ -923,6 +950,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**SseRex: Practical Symbolic Execution of Solana Smart Contracts**|Tobias Cloosters et.al.|[2603.16349](http://arxiv.org/abs/2603.16349)|null|
+|**2026-03-17**|**Systematization of Knowledge: The Design Space of Digital Payment Systems with Potential for CBDC**|Judith Senn et.al.|[2603.16320](http://arxiv.org/abs/2603.16320)|null|
+|**2026-03-17**|**A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems**|Ankit Ghimire et.al.|[2603.16080](http://arxiv.org/abs/2603.16080)|null|
 |**2026-03-16**|**Synergizing a Decentralized Framework with LLM-Assisted Skill and Willingness-Aware Task Assignment for Volunteer Crowdsourcing**|Riya Samanta et.al.|[2603.15095](http://arxiv.org/abs/2603.15095)|null|
 |**2026-03-15**|**A Multi-Scale Graph Learning Framework with Temporal Consistency Constraints for Financial Fraud Detection in Transaction Networks under Non-Stationary Conditions**|Yiming Lei et.al.|[2603.14592](http://arxiv.org/abs/2603.14592)|null|
 |**2026-03-15**|**All-day Multi-scenes Lifelong Vision-and-Language Navigation with Tucker Adaptation**|Xudong Wang et.al.|[2603.14276](http://arxiv.org/abs/2603.14276)|null|
@@ -1060,6 +1090,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables**|Andres Potapczynski et.al.|[2603.15802](http://arxiv.org/abs/2603.15802)|null|
 |**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
 |**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|null|
 |**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
