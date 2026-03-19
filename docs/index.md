@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures**|Young Bin Park et.al.|[2603.17244](http://arxiv.org/abs/2603.17244)|null|
 |**2026-03-04**|**ECHO: Event-Centric Hypergraph Operations via Multi-Agent Collaboration for Multimedia Event Extraction**|Hailong Chu et.al.|[2603.06683](http://arxiv.org/abs/2603.06683)|null|
 |**2026-02-24**|**FinAnchor: Aligned Multi-Model Representations for Financial Prediction**|Zirui He et.al.|[2602.20859](http://arxiv.org/abs/2602.20859)|null|
 |**2026-02-22**|**Evaluation and Benchmarking Suite for Financial Large Language Models and Agents**|Shengyuan Lin et.al.|[2602.19073](http://arxiv.org/abs/2602.19073)|null|
@@ -34,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Adaptive Loss-tolerant Syndrome Measurements**|Yuanjia Wang et.al.|[2603.17988](http://arxiv.org/abs/2603.17988)|null|
+|**2026-03-18**|**Asymptotics of superfluid Bjorken flow**|Alexander Soloviev et.al.|[2603.17985](http://arxiv.org/abs/2603.17985)|null|
+|**2026-03-18**|**Low Energy Phonon Bursts Created By Fast Neutron Damage**|A. Armatol et.al.|[2603.17964](http://arxiv.org/abs/2603.17964)|null|
+|**2026-03-18**|**The chemical DNA of the Magellanic Clouds VI. Origin and evolution of neutron-capture elements in the SMC**|Marco Palla et.al.|[2603.17963](http://arxiv.org/abs/2603.17963)|null|
+|**2026-03-18**|**MQTE: A Measurement-Based Quantum Algorithm for Robust Energy Spectrum Estimation in the NISQ Era**|Qing-Xing Xie et.al.|[2603.17959](http://arxiv.org/abs/2603.17959)|null|
+|**2026-03-18**|**Gender Disambiguation in Machine Translation: Diagnostic Evaluation in Decoder-Only Architectures**|Chiara Manna et.al.|[2603.17952](http://arxiv.org/abs/2603.17952)|null|
+|**2026-03-18**|**Physical Approaches to Metabolic Scaling in Living Systems**|Efe Ilker et.al.|[2603.17950](http://arxiv.org/abs/2603.17950)|null|
+|**2026-03-18**|**CARE: Covariance-Aware and Rank-Enhanced Decomposition for Enabling Multi-Head Latent Attention**|Zhongzhu Zhou et.al.|[2603.17946](http://arxiv.org/abs/2603.17946)|null|
+|**2026-03-18**|**ShapleyLaw: A Game-Theoretic Approach to Multilingual Scaling Laws**|Xuyang Cao et.al.|[2603.17945](http://arxiv.org/abs/2603.17945)|null|
+|**2026-03-18**|**A Real Shafarevich Conjecture for Universal Covers**|Rodolfo Aguilar et.al.|[2603.17939](http://arxiv.org/abs/2603.17939)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**Spatial Causal Tensor Completion for Multiple Exposures and Outcomes: An Application to the Health Effects of PFAS Pollution**|Xiaodan Zhou et.al.|[2603.16854](http://arxiv.org/abs/2603.16854)|null|
 |**2026-03-17**|**Koopman Lifted Finite Memory Identification via Truncated Grunwald Letnikov Kernels**|Navid Mojahed et.al.|[2603.16851](http://arxiv.org/abs/2603.16851)|null|
@@ -369,10 +380,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Robust quasi-convex risk measures and applications**|Francesca Centrone et.al.|[2603.17954](http://arxiv.org/abs/2603.17954)|null|
+|**2026-03-18**|**Multivariate Residual Estimation Risk**|D. J. Manuge et.al.|[2603.17792](http://arxiv.org/abs/2603.17792)|null|
+|**2026-03-18**|**LR-Robot: A Unified Supervised Intelligent Framework for Real-Time Systematic Literature Reviews with Large Language Models**|Wei Wei et.al.|[2603.17723](http://arxiv.org/abs/2603.17723)|null|
+|**2026-03-18**|**Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization**|Joohyoung Jeon et.al.|[2603.17692](http://arxiv.org/abs/2603.17692)|null|
+|**2026-03-18**|**Multivariate GARCH and portfolio variance prediction: A forecast reconciliation perspective**|Massimiliano Caporin et.al.|[2603.17463](http://arxiv.org/abs/2603.17463)|null|
+|**2026-03-17**|**Shallow Representation of Option Implied Information**|Jimin Lin et.al.|[2603.17151](http://arxiv.org/abs/2603.17151)|null|
 |**2026-03-17**|**Discrimination-insensitive pricing**|Kathleen Miao et.al.|[2603.16720](http://arxiv.org/abs/2603.16720)|null|
 |**2026-03-17**|**From Natural Language to Executable Option Strategies via Large Language Models**|Haochen Luo et.al.|[2603.16434](http://arxiv.org/abs/2603.16434)|null|
 |**2026-03-17**|**Open vs. Sealed: Auction Format Choice for Maximal Extractable Value**|Aleksei Adadurov et.al.|[2603.16333](http://arxiv.org/abs/2603.16333)|null|
-|**2026-03-17**|**Short-horizon Duesenberry Equilibrium**|Jaime Alberto Londoño et.al.|[2603.16108](http://arxiv.org/abs/2603.16108)|null|
+|**2026-03-18**|**Short-horizon Duesenberry Equilibrium**|Jaime Alberto Londoño et.al.|[2603.16108](http://arxiv.org/abs/2603.16108)|null|
 |**2026-03-16**|**Heterogeneous Returns and Wealth Tax Neutrality: A Fokker--Planck Framework**|Anders G Frøseth et.al.|[2603.16006](http://arxiv.org/abs/2603.16006)|null|
 |**2026-03-16**|**Flow Taxes, Stock Taxes, and Portfolio Choice: A Generalised Neutrality Result**|Anders G Frøseth et.al.|[2603.15974](http://arxiv.org/abs/2603.15974)|null|
 |**2026-03-16**|**Risk-Based Auto-Deleveraging**|Steven Campbell et.al.|[2603.15963](http://arxiv.org/abs/2603.15963)|null|
@@ -613,6 +630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Improving causal inference in interrupted time series analysis: the triple difference design**|Ariel Linden et.al.|[2603.17281](http://arxiv.org/abs/2603.17281)|null|
 |**2026-03-13**|**Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval**|Susumu Naito et.al.|[2603.12544](http://arxiv.org/abs/2603.12544)|null|
 |**2026-03-12**|**Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data**|Martin Jaraiz et.al.|[2603.12412](http://arxiv.org/abs/2603.12412)|null|
 |**2026-03-12**|**Decorated Cospans at Work: Coupling Heterogeneous Dynamical Systems via Pushouts and Particle Filters**|Wesley Phoa et.al.|[2603.12302](http://arxiv.org/abs/2603.12302)|null|
@@ -677,6 +695,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Actionable Recourse in Competitive Environments: A Dynamic Game of Endogenous Selection**|Ya-Ting Yang et.al.|[2603.17907](http://arxiv.org/abs/2603.17907)|null|
+|**2026-03-18**|**MALLES: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment**|Yusen Wu et.al.|[2603.17694](http://arxiv.org/abs/2603.17694)|null|
+|**2026-03-18**|**A mechanism design overview of Sedna**|Benjamin Marsh et.al.|[2603.17614](http://arxiv.org/abs/2603.17614)|null|
+|**2026-03-18**|**Complex Markets and Mean Field Games: Beyond Basic Models**|Agustín Muñoz González et.al.|[2603.17539](http://arxiv.org/abs/2603.17539)|null|
+|**2026-03-18**|**Multi-stage Flow Scheduling for LLM Serving**|Yijun Sun et.al.|[2603.17456](http://arxiv.org/abs/2603.17456)|null|
+|**2026-03-17**|**Linear-Quadratic Gaussian Games with Distributed Sparse Estimation**|Tianyu Qiu et.al.|[2603.17202](http://arxiv.org/abs/2603.17202)|null|
+|**2026-03-17**|**Learning, Misspecification, and Cognitive Arbitrage in Linear-Quadratic Network Games**|Quanyan Zhu et.al.|[2603.17157](http://arxiv.org/abs/2603.17157)|null|
 |**2026-03-17**|**IQuest-Coder-V1 Technical Report**|Jian Yang et.al.|[2603.16733](http://arxiv.org/abs/2603.16733)|null|
 |**2026-03-17**|**Multi-Agent Reinforcement Learning Counteracts Delayed CSI in Multi-Satellite Systems**|Marios Aristodemou et.al.|[2603.16470](http://arxiv.org/abs/2603.16470)|null|
 |**2026-03-17**|**SQL-ASTRA: Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation**|Long Li et.al.|[2603.16161](http://arxiv.org/abs/2603.16161)|null|
@@ -891,6 +916,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**A Users' Guide to Uncovering Worker and Firm Effects: The ABC of AKM**|Stephane Bonhomme et.al.|[2603.17034](http://arxiv.org/abs/2603.17034)|null|
 |**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
 |**2026-02-24**|**OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents**|Ruicheng Ao et.al.|[2602.19439](http://arxiv.org/abs/2602.19439)|null|
 |**2026-02-20**|**Income Inequality and Economic Growth: A Meta-Analytic Approach**|Lisa Capretti et.al.|[2602.15690](http://arxiv.org/abs/2602.15690)|null|
@@ -950,6 +976,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Informative Semi-Factuals for XAI: The Elaborated Explanations that People Prefer**|Saugat Aryal et.al.|[2603.17534](http://arxiv.org/abs/2603.17534)|null|
+|**2026-03-17**|**On Debreu-Koopmans Theorem: Bridging Neoclassical and Behavioral Economics via Star Quasiconvexity**|Felipe Lara et.al.|[2603.17088](http://arxiv.org/abs/2603.17088)|null|
+|**2026-03-17**|**DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems**|Yasaswini Chebolu et.al.|[2603.17056](http://arxiv.org/abs/2603.17056)|null|
 |**2026-03-17**|**SseRex: Practical Symbolic Execution of Solana Smart Contracts**|Tobias Cloosters et.al.|[2603.16349](http://arxiv.org/abs/2603.16349)|null|
 |**2026-03-17**|**Systematization of Knowledge: The Design Space of Digital Payment Systems with Potential for CBDC**|Judith Senn et.al.|[2603.16320](http://arxiv.org/abs/2603.16320)|null|
 |**2026-03-17**|**A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems**|Ankit Ghimire et.al.|[2603.16080](http://arxiv.org/abs/2603.16080)|null|
@@ -1090,6 +1119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Machine Learning for Network Attacks Classification and Statistical Evaluation of Machine Learning for Network Attacks Classification and Adversarial Learning Methodologies for Synthetic Data Generation**|Iakovos-Christos Zarkadis et.al.|[2603.17717](http://arxiv.org/abs/2603.17717)|null|
 |**2026-03-16**|**Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables**|Andres Potapczynski et.al.|[2603.15802](http://arxiv.org/abs/2603.15802)|null|
 |**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
 |**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|null|
