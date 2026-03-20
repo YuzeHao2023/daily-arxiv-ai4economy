@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Under One Sun: Multi-Object Generative Perception of Materials and Illumination**|Nobuo Yoshii et.al.|[2603.19226](http://arxiv.org/abs/2603.19226)|null|
+|**2026-03-19**|**Spectrally-Guided Diffusion Noise Schedules**|Carlos Esteves et.al.|[2603.19222](http://arxiv.org/abs/2603.19222)|null|
+|**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)|null|
+|**2026-03-19**|**Synthetic Control Misconceptions: Recommendations for Practice**|Robert Pickett et.al.|[2603.19211](http://arxiv.org/abs/2603.19211)|null|
+|**2026-03-19**|**Quantum theory based on real numbers cannot be experimentally falsified**|Timothée Hoffreumon et.al.|[2603.19208](http://arxiv.org/abs/2603.19208)|null|
+|**2026-03-19**|**Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization**|Sérgio Alves et.al.|[2603.19196](http://arxiv.org/abs/2603.19196)|null|
+|**2026-03-19**|**How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation**|Ke-Han Lu et.al.|[2603.19195](http://arxiv.org/abs/2603.19195)|null|
+|**2026-03-19**|**Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment**|Amir Asiaee et.al.|[2603.19186](http://arxiv.org/abs/2603.19186)|null|
+|**2026-03-19**|**Perturbative approach to the infrared gluon propagator in the maximal Abelian gauge**|D. M. van Egmond et.al.|[2603.19174](http://arxiv.org/abs/2603.19174)|null|
+|**2026-03-19**|**Furstenberg-type estimates under mild non-concentration assumptions**|Tuomas Orponen et.al.|[2603.19171](http://arxiv.org/abs/2603.19171)|null|
 |**2026-03-18**|**Adaptive Loss-tolerant Syndrome Measurements**|Yuanjia Wang et.al.|[2603.17988](http://arxiv.org/abs/2603.17988)|null|
 |**2026-03-18**|**Asymptotics of superfluid Bjorken flow**|Alexander Soloviev et.al.|[2603.17985](http://arxiv.org/abs/2603.17985)|null|
 |**2026-03-18**|**Low Energy Phonon Bursts Created By Fast Neutron Damage**|A. Armatol et.al.|[2603.17964](http://arxiv.org/abs/2603.17964)|null|
@@ -380,6 +390,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
+|**2026-03-19**|**Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control**|Mohammad Al Ridhawi et.al.|[2603.19136](http://arxiv.org/abs/2603.19136)|null|
+|**2026-03-19**|**Robust Investment-Driven Insurance Pricing under Correlation Ambiguity**|Shunzhi Pang et.al.|[2603.18969](http://arxiv.org/abs/2603.18969)|null|
+|**2026-03-19**|**Robust Investment-Driven Insurance Pricing and Liquidity Management**|Bingzheng Chen et.al.|[2603.18962](http://arxiv.org/abs/2603.18962)|null|
+|**2026-03-19**|**An Optimised Greedy-Weighted Ensemble Framework for Financial Loan Default Prediction**|Ezekiel Nii Noye Nortey et.al.|[2603.18927](http://arxiv.org/abs/2603.18927)|null|
+|**2026-03-19**|**The multi-objective portfolio model for oil and gas exploration drilling projects selection and its operator-enhanced NSGA-II based solution**|Chao Min et.al.|[2603.18844](http://arxiv.org/abs/2603.18844)|null|
+|**2026-03-19**|**Mapping the Midweek Mountain: The New Geography of Hybrid Work**|Norman Guo et.al.|[2603.18440](http://arxiv.org/abs/2603.18440)|null|
 |**2026-03-18**|**Robust quasi-convex risk measures and applications**|Francesca Centrone et.al.|[2603.17954](http://arxiv.org/abs/2603.17954)|null|
 |**2026-03-18**|**Multivariate Residual Estimation Risk**|D. J. Manuge et.al.|[2603.17792](http://arxiv.org/abs/2603.17792)|null|
 |**2026-03-18**|**LR-Robot: A Unified Supervised Intelligent Framework for Real-Time Systematic Literature Reviews with Large Language Models**|Wei Wei et.al.|[2603.17723](http://arxiv.org/abs/2603.17723)|null|
@@ -630,6 +647,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Fast and Interpretable Autoregressive Estimation with Neural Network Backpropagation**|Anaísa Lucena et.al.|[2603.19041](http://arxiv.org/abs/2603.19041)|null|
+|**2026-03-19**|**AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba**|Yan Li et.al.|[2603.18462](http://arxiv.org/abs/2603.18462)|null|
+|**2026-03-18**|**Spectropolarimetric Constraints on the Maunder Minimum Analog HD 166620: Evidence for Weakened Magnetic Braking**|Federica Chiti et.al.|[2603.18139](http://arxiv.org/abs/2603.18139)|null|
 |**2026-03-18**|**Improving causal inference in interrupted time series analysis: the triple difference design**|Ariel Linden et.al.|[2603.17281](http://arxiv.org/abs/2603.17281)|null|
 |**2026-03-13**|**Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval**|Susumu Naito et.al.|[2603.12544](http://arxiv.org/abs/2603.12544)|null|
 |**2026-03-12**|**Macroeconomic Forecasting from Input-Output Tables Alone: A Darwinian Agent-Based Approach with FIGARO Data**|Martin Jaraiz et.al.|[2603.12412](http://arxiv.org/abs/2603.12412)|null|
@@ -695,6 +715,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Online Learning and Equilibrium Computation with Ranking Feedback**|Mingyang Liu et.al.|[2603.19221](http://arxiv.org/abs/2603.19221)|null|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
+|**2026-03-19**|**Introducing M: A Modular, Modifiable Social Robot**|Victor Nikhil Antony et.al.|[2603.19134](http://arxiv.org/abs/2603.19134)|null|
+|**2026-03-19**|**Physics-grounded Mechanism Design for Spectrum Sharing between Passive and Active Users**|Jiguang Yu et.al.|[2603.18776](http://arxiv.org/abs/2603.18776)|null|
+|**2026-03-19**|**Complexity of Auctions with Interdependence**|Patrick Loiseau et.al.|[2603.18668](http://arxiv.org/abs/2603.18668)|null|
+|**2026-03-19**|**Reasonably reasoning AI agents can avoid game-theoretic failures in zero-shot, provably**|Enoch Hyunwook Kang et.al.|[2603.18563](http://arxiv.org/abs/2603.18563)|null|
+|**2026-03-19**|**Efficient and Versatile Quadrupedal Skating: Optimal Co-design via Reinforcement Learning and Bayesian Optimization**|Hanwen Wang et.al.|[2603.18408](http://arxiv.org/abs/2603.18408)|null|
+|**2026-03-18**|**Trajectory Landscapes for Therapeutic Strategy Design in Agent-Based Tumor Microenvironment Models**|Eric Cramer et.al.|[2603.18333](http://arxiv.org/abs/2603.18333)|null|
 |**2026-03-18**|**Actionable Recourse in Competitive Environments: A Dynamic Game of Endogenous Selection**|Ya-Ting Yang et.al.|[2603.17907](http://arxiv.org/abs/2603.17907)|null|
 |**2026-03-18**|**MALLES: A Multi-agent LLMs-based Economic Sandbox with Consumer Preference Alignment**|Yusen Wu et.al.|[2603.17694](http://arxiv.org/abs/2603.17694)|null|
 |**2026-03-18**|**A mechanism design overview of Sedna**|Benjamin Marsh et.al.|[2603.17614](http://arxiv.org/abs/2603.17614)|null|
@@ -916,6 +944,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Mapping the Midweek Mountain: The New Geography of Hybrid Work**|Norman Guo et.al.|[2603.18440](http://arxiv.org/abs/2603.18440)|null|
 |**2026-03-17**|**A Users' Guide to Uncovering Worker and Firm Effects: The ABC of AKM**|Stephane Bonhomme et.al.|[2603.17034](http://arxiv.org/abs/2603.17034)|null|
 |**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
 |**2026-02-24**|**OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents**|Ruicheng Ao et.al.|[2602.19439](http://arxiv.org/abs/2602.19439)|null|
@@ -976,6 +1005,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**In the Margins: An Empirical Study of Ethereum Inscriptions**|Xihan Xiong et.al.|[2603.19086](http://arxiv.org/abs/2603.19086)|null|
+|**2026-03-18**|**Origin of Edge Currents in Chiral Active Liquids**|Faisal Alsallom et.al.|[2603.18159](http://arxiv.org/abs/2603.18159)|null|
 |**2026-03-18**|**Informative Semi-Factuals for XAI: The Elaborated Explanations that People Prefer**|Saugat Aryal et.al.|[2603.17534](http://arxiv.org/abs/2603.17534)|null|
 |**2026-03-17**|**On Debreu-Koopmans Theorem: Bridging Neoclassical and Behavioral Economics via Star Quasiconvexity**|Felipe Lara et.al.|[2603.17088](http://arxiv.org/abs/2603.17088)|null|
 |**2026-03-17**|**DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems**|Yasaswini Chebolu et.al.|[2603.17056](http://arxiv.org/abs/2603.17056)|null|
@@ -1119,6 +1150,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Synthetic Data Generation for Training Diversified Commonsense Reasoning Models**|Tianhui Zhang et.al.|[2603.18361](http://arxiv.org/abs/2603.18361)|null|
+|**2026-03-18**|**LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**|Athira J. Jacob et.al.|[2603.18356](http://arxiv.org/abs/2603.18356)|null|
 |**2026-03-18**|**Machine Learning for Network Attacks Classification and Statistical Evaluation of Machine Learning for Network Attacks Classification and Adversarial Learning Methodologies for Synthetic Data Generation**|Iakovos-Christos Zarkadis et.al.|[2603.17717](http://arxiv.org/abs/2603.17717)|null|
 |**2026-03-16**|**Time-Aware Prior Fitted Networks for Zero-Shot Forecasting with Exogenous Variables**|Andres Potapczynski et.al.|[2603.15802](http://arxiv.org/abs/2603.15802)|null|
 |**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
