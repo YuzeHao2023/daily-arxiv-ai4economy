@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**DIAL-KG: Schema-Free Incremental Knowledge Graph Construction via Dynamic Schema Induction and Evolution-Intent Assessment**|Weidong Bao et.al.|[2603.20059](http://arxiv.org/abs/2603.20059)|null|
 |**2026-03-18**|**Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures**|Young Bin Park et.al.|[2603.17244](http://arxiv.org/abs/2603.17244)|null|
 |**2026-03-04**|**ECHO: Event-Centric Hypergraph Operations via Multi-Agent Collaboration for Multimedia Event Extraction**|Hailong Chu et.al.|[2603.06683](http://arxiv.org/abs/2603.06683)|null|
 |**2026-02-24**|**FinAnchor: Aligned Multi-Model Representations for Financial Prediction**|Zirui He et.al.|[2602.20859](http://arxiv.org/abs/2602.20859)|null|
@@ -49,6 +50,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Charmonium-Glueball spectroscopy with improved hadron creation operators**|Juan Andrés Urrea-Niño et.al.|[2603.20178](http://arxiv.org/abs/2603.20178)|null|
+|**2026-03-20**|**Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation**|Richard J. Young et.al.|[2603.20172](http://arxiv.org/abs/2603.20172)|null|
+|**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
+|**2026-03-20**|**The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**|Jiyu Lim et.al.|[2603.20164](http://arxiv.org/abs/2603.20164)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**When Cubic Is Not Isotropic: Phonon-Exciton Decoupling in CuInSnS $_4$ Single Crystals**|Lara Kim Linke et.al.|[2603.20159](http://arxiv.org/abs/2603.20159)|null|
+|**2026-03-20**|**Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder**|Ahmed Abuali et.al.|[2603.20157](http://arxiv.org/abs/2603.20157)|null|
+|**2026-03-20**|**Entanglement metrics for $B$ Meson system**|Aashish Joshi et.al.|[2603.20154](http://arxiv.org/abs/2603.20154)|null|
+|**2026-03-20**|**Design-OS: A Specification-Driven Framework for Engineering System Design with a Control-Systems Design Case**|H. Sinan Bank et.al.|[2603.20151](http://arxiv.org/abs/2603.20151)|null|
+|**2026-03-20**|**Binary colloidal mixtures in near-critical binary solvents**|Nima Farahmand Bafi et.al.|[2603.20137](http://arxiv.org/abs/2603.20137)|null|
 |**2026-03-19**|**Under One Sun: Multi-Object Generative Perception of Materials and Illumination**|Nobuo Yoshii et.al.|[2603.19226](http://arxiv.org/abs/2603.19226)|null|
 |**2026-03-19**|**Spectrally-Guided Diffusion Noise Schedules**|Carlos Esteves et.al.|[2603.19222](http://arxiv.org/abs/2603.19222)|null|
 |**2026-03-19**|**Constitutive vs. Corrective: A Causal Taxonomy of Human Runtime Involvement in AI Systems**|Kevin Baum et.al.|[2603.19213](http://arxiv.org/abs/2603.19213)|null|
@@ -406,6 +417,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-20**|**If Not Now, Then When? Model Risk in the Optimal Exercise of American Options**|Luna Rigby et.al.|[2603.19984](http://arxiv.org/abs/2603.19984)|null|
+|**2026-03-20**|**Large Language Models and Stock Investing: Is the Human Factor Required?**|Ricardo Crisostomo et.al.|[2603.19944](http://arxiv.org/abs/2603.19944)|null|
+|**2026-03-20**|**Optimal Hedge Ratio for Delta-Neutral Liquidity Provision under Liquidation Constraints**|Atsushi Hane et.al.|[2603.19716](http://arxiv.org/abs/2603.19716)|null|
+|**2026-03-19**|**Dynamic Pareto Optima in Multi-Period Pure-Exchange Economies**|Brandon Tam et.al.|[2603.19414](http://arxiv.org/abs/2603.19414)|null|
+|**2026-03-19**|**Survivorship Bias in Emerging Market Small-Cap Indices: Evidence from India's NIFTY Smallcap 250**|Harjot Singh Ranse et.al.|[2603.19380](http://arxiv.org/abs/2603.19380)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
 |**2026-03-19**|**Adaptive Regime-Aware Stock Price Prediction Using Autoencoder-Gated Dual Node Transformers with Reinforcement Learning Control**|Mohammad Al Ridhawi et.al.|[2603.19136](http://arxiv.org/abs/2603.19136)|null|
 |**2026-03-19**|**Robust Investment-Driven Insurance Pricing under Correlation Ambiguity**|Shunzhi Pang et.al.|[2603.18969](http://arxiv.org/abs/2603.18969)|null|
@@ -735,6 +752,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**UniBioTransfer: A Unified Framework for Multiple Biometrics Transfer**|Caiyi Sun et.al.|[2603.19637](http://arxiv.org/abs/2603.19637)|null|
+|**2026-03-19**|**Stochastic Sequential Decision Making over Expanding Networks with Graph Filtering**|Zhan Gao et.al.|[2603.19501](http://arxiv.org/abs/2603.19501)|null|
 |**2026-03-19**|**Online Learning and Equilibrium Computation with Ranking Feedback**|Mingyang Liu et.al.|[2603.19221](http://arxiv.org/abs/2603.19221)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
 |**2026-03-19**|**Introducing M: A Modular, Modifiable Social Robot**|Victor Nikhil Antony et.al.|[2603.19134](http://arxiv.org/abs/2603.19134)|null|
@@ -1031,6 +1050,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Optimal Hedge Ratio for Delta-Neutral Liquidity Provision under Liquidation Constraints**|Atsushi Hane et.al.|[2603.19716](http://arxiv.org/abs/2603.19716)|null|
 |**2026-03-19**|**In the Margins: An Empirical Study of Ethereum Inscriptions**|Xihan Xiong et.al.|[2603.19086](http://arxiv.org/abs/2603.19086)|null|
 |**2026-03-18**|**Origin of Edge Currents in Chiral Active Liquids**|Faisal Alsallom et.al.|[2603.18159](http://arxiv.org/abs/2603.18159)|null|
 |**2026-03-18**|**Informative Semi-Factuals for XAI: The Elaborated Explanations that People Prefer**|Saugat Aryal et.al.|[2603.17534](http://arxiv.org/abs/2603.17534)|null|
@@ -1178,6 +1198,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|null|
 |**2026-03-18**|**Synthetic Data Generation for Training Diversified Commonsense Reasoning Models**|Tianhui Zhang et.al.|[2603.18361](http://arxiv.org/abs/2603.18361)|null|
 |**2026-03-18**|**LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**|Athira J. Jacob et.al.|[2603.18356](http://arxiv.org/abs/2603.18356)|null|
 |**2026-03-18**|**Machine Learning for Network Attacks Classification and Statistical Evaluation of Machine Learning for Network Attacks Classification and Adversarial Learning Methodologies for Synthetic Data Generation**|Iakovos-Christos Zarkadis et.al.|[2603.17717](http://arxiv.org/abs/2603.17717)|null|
