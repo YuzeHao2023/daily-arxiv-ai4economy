@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**CN-Buzz2Portfolio: A Chinese-Market Dataset and Benchmark for LLM-Based Macro and Sector Asset Allocation from Daily Trending Financial News**|Liyuan Chen et.al.|[2603.22305](http://arxiv.org/abs/2603.22305)|null|
 |**2026-03-20**|**DIAL-KG: Schema-Free Incremental Knowledge Graph Construction via Dynamic Schema Induction and Evolution-Intent Assessment**|Weidong Bao et.al.|[2603.20059](http://arxiv.org/abs/2603.20059)|null|
 |**2026-03-18**|**Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures**|Young Bin Park et.al.|[2603.17244](http://arxiv.org/abs/2603.17244)|null|
 |**2026-03-04**|**ECHO: Event-Centric Hypergraph Operations via Multi-Agent Collaboration for Multimedia Event Extraction**|Hailong Chu et.al.|[2603.06683](http://arxiv.org/abs/2603.06683)|null|
@@ -36,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage**|Ufaq Khan et.al.|[2603.23501](http://arxiv.org/abs/2603.23501)|null|
+|**2026-03-24**|**Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers**|Yuhan Liu et.al.|[2603.23494](http://arxiv.org/abs/2603.23494)|null|
+|**2026-03-24**|**Tunable Floquet selection rules in a driven Ising chain**|Rishi Paresh Joshi et.al.|[2603.23493](http://arxiv.org/abs/2603.23493)|null|
+|**2026-03-24**|**Universal and Parameter-free Gradient Sliding for Composite Optimization**|Yan Wu et.al.|[2603.23492](http://arxiv.org/abs/2603.23492)|null|
+|**2026-03-24**|**Index-Based Scheduling for a Resource-Constrained Quantum Switch**|Subhankar Banerjee et.al.|[2603.23476](http://arxiv.org/abs/2603.23476)|null|
+|**2026-03-24**|**Information-Theoretic Scaling Laws of Neural Quantum States**|Yiming Lu et.al.|[2603.23468](http://arxiv.org/abs/2603.23468)|null|
+|**2026-03-24**|**Smoothness results for the schemes of special divisors on general k-gonal curves**|Marc Coppens et.al.|[2603.23451](http://arxiv.org/abs/2603.23451)|null|
+|**2026-03-24**|**Code Review Agent Benchmark**|Yuntong Zhang et.al.|[2603.23448](http://arxiv.org/abs/2603.23448)|null|
+|**2026-03-24**|**Structural Chart of Copper-Silver Nanoalloys through machine learning**|Manoj Settem et.al.|[2603.23442](http://arxiv.org/abs/2603.23442)|null|
+|**2026-03-24**|**Tensor network influence functionals for open quantum systems with general Gaussian bosonic baths**|Valentin Link et.al.|[2603.23432](http://arxiv.org/abs/2603.23432)|null|
 |**2026-03-23**|**End-to-End Training for Unified Tokenization and Latent Denoising**|Shivam Duggal et.al.|[2603.22283](http://arxiv.org/abs/2603.22283)|null|
 |**2026-03-23**|**Little Red and Blue Dots: simply stratified Broad Line Regions**|J. Scholtz et.al.|[2603.22277](http://arxiv.org/abs/2603.22277)|null|
 |**2026-03-23**|**Computational modeling of RNA-protein binding interactions under an external force**|Danielle Wampler et.al.|[2603.22269](http://arxiv.org/abs/2603.22269)|null|
@@ -411,6 +422,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Designing Agentic AI-Based Screening for Portfolio Investment**|Mehmet Caner et.al.|[2603.23300](http://arxiv.org/abs/2603.23300)|null|
+|**2026-03-24**|**Unlocking AI's Potential in Agriculture: The Critical Role of Data**|K. B. Vedamurthy et.al.|[2603.23289](http://arxiv.org/abs/2603.23289)|null|
+|**2026-03-24**|**Block Coordinate Descent for Dynamic Portfolio Optimization on Finite-Precision Coherent Ising Machines**|Keming He et.al.|[2603.23200](http://arxiv.org/abs/2603.23200)|null|
+|**2026-03-24**|**High-Resolution Tensor-Network Fourier Methods for Exponentially Compressed Non-Gaussian Aggregate Distributions**|Juan José Rodríguez-Aldavero et.al.|[2603.23106](http://arxiv.org/abs/2603.23106)|null|
+|**2026-03-24**|**Conditionally Identifiable Latent Representation for Multivariate Time Series with Structural Dynamics**|Minkey Chang et.al.|[2603.22886](http://arxiv.org/abs/2603.22886)|null|
+|**2026-03-24**|**Portfolio Optimization under Recursive Utility via Reinforcement Learning**|Minkey Chang et.al.|[2603.22880](http://arxiv.org/abs/2603.22880)|null|
+|**2026-03-24**|**Option pricing model under the G-expectation framework**|Ziting Pei et.al.|[2603.22831](http://arxiv.org/abs/2603.22831)|null|
+|**2026-03-23**|**Proxy-Reliance Control in Conformal Recalibration of One-Sided Value-at-Risk**|Tenghan Zhong et.al.|[2603.22569](http://arxiv.org/abs/2603.22569)|null|
 |**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126](http://arxiv.org/abs/2603.22126)|null|
 |**2026-03-23**|**Mean Field Equilibrium Asset Pricing Models With Exponential Utility**|Masashi Sekine et.al.|[2603.22058](http://arxiv.org/abs/2603.22058)|null|
 |**2026-03-23**|**Here, there and everywhere: state-dependent time-inconsistent stochastic control**|Dylan Possamaï et.al.|[2603.22022](http://arxiv.org/abs/2603.22022)|null|
@@ -755,6 +774,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Separating Diagnosis from Control: Auditable Policy Adaptation in Agent-Based Simulations with LLM-Based Diagnostics**|Shaoxin Zhong et.al.|[2603.22904](http://arxiv.org/abs/2603.22904)|null|
+|**2026-03-24**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846](http://arxiv.org/abs/2603.22846)|null|
+|**2026-03-23**|**Maximum Entropy Relaxation of Multi-Way Cardinality Constraints for Synthetic Population Generation**|François Pachet et.al.|[2603.22558](http://arxiv.org/abs/2603.22558)|null|
 |**2026-03-23**|**Strategic Infrastructure Design via Multi-Agent Congestion Games with Joint Placement and Pricing**|Niloofar Aminikalibar et.al.|[2603.21691](http://arxiv.org/abs/2603.21691)|null|
 |**2026-03-23**|**Adaptive Robust Estimator for Multi-Agent Reinforcement Learning**|Zhongyi Li et.al.|[2603.21574](http://arxiv.org/abs/2603.21574)|null|
 |**2026-03-22**|**Personality-Driven Student Agent-Based Modeling in Mathematics Education: How Well Do Student Agents Align with Human Learners?**|Bushi Xiao et.al.|[2603.21358](http://arxiv.org/abs/2603.21358)|null|
@@ -1019,6 +1041,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-15**|**Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks**|Srideepika Jayaraman et.al.|[2603.22294](http://arxiv.org/abs/2603.22294)|null|
 |**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-13**|**Synergies, Trade-offs, and Structural Pathways: A Directed Network Approach to SDG Prioritisation**|Gaurav Kottari et.al.|[2603.12699](http://arxiv.org/abs/2603.12699)|null|
 |**2026-03-12**|**Human Knowledge Integrated Multi-modal Learning for Single Source Domain Generalization**|Ayan Banerjee et.al.|[2603.12369](http://arxiv.org/abs/2603.12369)|null|
@@ -1056,6 +1079,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Stablecoins as Dry Powder: A Copula-Based Risk Analysis of Cryptocurrency Markets**|Elliot Jones et.al.|[2603.23480](http://arxiv.org/abs/2603.23480)|null|
+|**2026-03-24**|**MuSe: a Mutation Testing Plugin for the Remix IDE**|Gerardo Iuliano et.al.|[2603.23441](http://arxiv.org/abs/2603.23441)|null|
+|**2026-03-24**|**Symmetric Mass Generation Transition and its Nonequilibrium Critical Dynamics in a Bilayer Honeycomb Lattice Model**|Zhi-Xuan Li et.al.|[2603.22736](http://arxiv.org/abs/2603.22736)|null|
 |**2026-03-23**|**Albank -- a case study on the use of ethereum blockchain technology and smart contracts for secure decentralized bank application**|Shkelqim Sherifi et.al.|[2603.21894](http://arxiv.org/abs/2603.21894)|null|
 |**2026-03-22**|**Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains**|Octavian Untila et.al.|[2603.21149](http://arxiv.org/abs/2603.21149)|null|
 |**2026-03-22**|**Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training**|Minghao Hu et.al.|[2603.21058](http://arxiv.org/abs/2603.21058)|null|
@@ -1205,12 +1231,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
 |**2026-03-23**|**SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection**|Kexian Tang et.al.|[2603.22213](http://arxiv.org/abs/2603.22213)|null|
 |**2026-03-23**|**SynSym: A Synthetic Data Generation Framework for Psychiatric Symptom Identification**|Migyeong Kang et.al.|[2603.21529](http://arxiv.org/abs/2603.21529)|null|
 |**2026-03-22**|**Does Mechanistic Interpretability Transfer Across Data Modalities? A Cross-Domain Causal Circuit Analysis of Variational Autoencoders**|Dip Roy et.al.|[2603.21236](http://arxiv.org/abs/2603.21236)|null|
 |**2026-03-21**|**NextSense: A Semi-Synthetic Sensing Data generation Platform**|David Rico Menéndez et.al.|[2603.20789](http://arxiv.org/abs/2603.20789)|null|
 |**2026-03-18**|**Transparent Fragments Contour Estimation via Visual-Tactile Fusion for Autonomous Reassembly**|Qihao Lin et.al.|[2603.20290](http://arxiv.org/abs/2603.20290)|null|
-|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|null|
+|**2026-03-24**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|null|
 |**2026-03-18**|**Synthetic Data Generation for Training Diversified Commonsense Reasoning Models**|Tianhui Zhang et.al.|[2603.18361](http://arxiv.org/abs/2603.18361)|null|
 |**2026-03-18**|**LGESynthNet: Controlled Scar Synthesis for Improved Scar Segmentation in Cardiac LGE-MRI Imaging**|Athira J. Jacob et.al.|[2603.18356](http://arxiv.org/abs/2603.18356)|null|
 |**2026-03-18**|**Machine Learning for Network Attacks Classification and Statistical Evaluation of Machine Learning for Network Attacks Classification and Adversarial Learning Methodologies for Synthetic Data Generation**|Iakovos-Christos Zarkadis et.al.|[2603.17717](http://arxiv.org/abs/2603.17717)|null|
@@ -1312,6 +1339,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Computational Arbitrage in AI Model Markets**|Ricardo Olmedo et.al.|[2603.22404](http://arxiv.org/abs/2603.22404)|null|
 |**2026-03-21**|**Strategy-proof Market Segmentation against Price Discrimination**|Zhonghong Kuang et.al.|[2603.20609](http://arxiv.org/abs/2603.20609)|null|
 |**2026-02-25**|**Huge-Scale Assortment Optimization with Customer Choice: A Parallel Primal-Dual Approach**|Donghao Zhu et.al.|[2602.22421](http://arxiv.org/abs/2602.22421)|null|
 |**2026-02-24**|**PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization**|Shuzhi Cao et.al.|[2602.20676](http://arxiv.org/abs/2602.20676)|null|
