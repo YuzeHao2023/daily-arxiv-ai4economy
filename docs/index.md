@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
+|**2026-03-26**|**Krylov-space anatomy and spread complexity of a disordered quantum spin chain**|Bikram Pain et.al.|[2603.25724](http://arxiv.org/abs/2603.25724)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|
+|**2026-03-26**|**Iterated beta integrals**|Minoru Hirose et.al.|[2603.25717](http://arxiv.org/abs/2603.25717)|null|
+|**2026-03-26**|**Perturbative unitarity of fractional field theories and gravity**|Gianluca Calcagni et.al.|[2603.25709](http://arxiv.org/abs/2603.25709)|null|
+|**2026-03-26**|**Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance**|Wouter Lueks et.al.|[2603.25695](http://arxiv.org/abs/2603.25695)|null|
+|**2026-03-26**|**Interpretation of 21 cm Auto Power Spectrum Measurement at $z\sim 1$ by the Canadian Hydrogen Intensity Mapping Experiment**|CHIME Collaboration et.al.|[2603.25680](http://arxiv.org/abs/2603.25680)|null|
+|**2026-03-26**|**Concentration And Distribution of Container Flows In Mauritania's Maritime System (2019-2022)**|Mohamed Bouka et.al.|[2603.25678](http://arxiv.org/abs/2603.25678)|null|
 |**2026-03-25**|**Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method**|Arthur Jacot et.al.|[2603.24594](http://arxiv.org/abs/2603.24594)|null|
 |**2026-03-25**|**Comparing Developer and LLM Biases in Code Evaluation**|Aditya Mittal et.al.|[2603.24586](http://arxiv.org/abs/2603.24586)|null|
 |**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584](http://arxiv.org/abs/2603.24584)|null|
@@ -432,6 +442,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Particle method for a nonlinear multimarginal optimal transport problem**|Adrien Cances et.al.|[2603.25584](http://arxiv.org/abs/2603.25584)|null|
+|**2026-03-26**|**System Design for Maintaining Internal State Consistency in Long-Horizon Robotic Tabletop Games**|Guangyu Zhao et.al.|[2603.25405](http://arxiv.org/abs/2603.25405)|null|
+|**2026-03-26**|**Optimal Dividend, Reinsurance, and Capital Injection for Collaborating Business Lines under Model Uncertainty**|Tim J. Boonen et.al.|[2603.25350](http://arxiv.org/abs/2603.25350)|null|
+|**2026-03-26**|**Optimal threshold resetting in collective diffusive search**|Arup Biswas et.al.|[2603.25338](http://arxiv.org/abs/2603.25338)|null|
+|**2026-03-26**|**Semi-Static Variance-Optimal Hedging of Covariance Risk in Multi-Asset Derivatives**|Konstantinos Chatziandreou et.al.|[2603.25320](http://arxiv.org/abs/2603.25320)|null|
+|**2026-03-26**|**Shifting Correlations: How Trade Policy Uncertainty Alters stock-T bill Relationships**|Demetrio Lacava et.al.|[2603.25285](http://arxiv.org/abs/2603.25285)|null|
+|**2026-03-26**|**Modeling and Forecasting Tail Risk Spillovers: A Component-Based CAViaR Approach**|Demetrio Lacava et.al.|[2603.25217](http://arxiv.org/abs/2603.25217)|null|
 |**2026-03-25**|**Robust risk measures: an averaging approach**|Marcelo Righi et.al.|[2603.24349](http://arxiv.org/abs/2603.24349)|null|
 |**2026-03-25**|**S $^{3}$ G: Stock State Space Graph for Enhanced Stock Trend Prediction**|Yao Lu et.al.|[2603.24236](http://arxiv.org/abs/2603.24236)|null|
 |**2026-03-25**|**Adapting Altman's bankruptcy prediction model to the compositional data methodology**|Fatemeh Keivani et.al.|[2603.24215](http://arxiv.org/abs/2603.24215)|null|
@@ -723,6 +740,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|[2603.25530](http://arxiv.org/abs/2603.25530)|null|
+|**2026-03-25**|**Multiple-group (Controlled) Interrupted Time Series Analysis with Higher-Order Autoregressive Errors: A Simulation Study Comparing Newey-West and Prais-Winsten Methods**|Ariel Linden et.al.|[2603.24814](http://arxiv.org/abs/2603.24814)|null|
 |**2026-03-25**|**The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems**|Martin Jaraiz et.al.|[2603.24559](http://arxiv.org/abs/2603.24559)|null|
 |**2026-03-23**|**ANCHOR: Adaptive Network based on Cascaded Harmonic Offset Routing**|Wangye Jiang et.al.|[2603.21718](http://arxiv.org/abs/2603.21718)|null|
 |**2026-03-23**|**INTRYGUE: Induction-Aware Entropy Gating for Reliable RAG Uncertainty Estimation**|Alexandra Bazarova et.al.|[2603.21607](http://arxiv.org/abs/2603.21607)|null|
@@ -795,6 +814,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Cooperative Deep Reinforcement Learning for Fair RIS Allocation**|Martin Mark Zan et.al.|[2603.25572](http://arxiv.org/abs/2603.25572)|null|
+|**2026-03-26**|**COIN: Collaborative Interaction-Aware Multi-Agent Reinforcement Learning for Self-Driving Systems**|Yifeng Zhang et.al.|[2603.24931](http://arxiv.org/abs/2603.24931)|null|
+|**2026-03-25**|**Learning to Staff: Offline Reinforcement Learning and Fine-Tuned LLMs for Warehouse Staffing Optimization**|Kalle Kujanpää et.al.|[2603.24883](http://arxiv.org/abs/2603.24883)|null|
+|**2026-03-25**|**Decentralized Task Scheduling in Distributed Systems: A Deep Reinforcement Learning Approach**|Daniel Benniah John et.al.|[2603.24738](http://arxiv.org/abs/2603.24738)|null|
 |**2026-03-25**|**MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination**|Zhuo Li et.al.|[2603.24579](http://arxiv.org/abs/2603.24579)|null|
 |**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
 |**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
@@ -1070,6 +1093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents**|Linxiao Li et.al.|[2603.25498](http://arxiv.org/abs/2603.25498)|null|
 |**2026-03-15**|**Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks**|Srideepika Jayaraman et.al.|[2603.22294](http://arxiv.org/abs/2603.22294)|null|
 |**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-13**|**Synergies, Trade-offs, and Structural Pathways: A Directed Network Approach to SDG Prioritisation**|Gaurav Kottari et.al.|[2603.12699](http://arxiv.org/abs/2603.12699)|null|
@@ -1108,6 +1132,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**On the Vulnerability of Deep Automatic Modulation Classifiers to Explainable Backdoor Threats**|Younes Salmi et.al.|[2603.25310](http://arxiv.org/abs/2603.25310)|null|
+|**2026-03-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|[2603.25255](http://arxiv.org/abs/2603.25255)|null|
+|**2026-03-26**|**From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies**|Anbang Ruan et.al.|[2603.25100](http://arxiv.org/abs/2603.25100)|null|
+|**2026-03-25**|**SolRugDetector: Investigating Rug Pulls on Solana**|Jiaxin Chen et.al.|[2603.24625](http://arxiv.org/abs/2603.24625)|null|
 |**2026-03-24**|**BXRL: Behavior-Explainable Reinforcement Learning**|Ram Rachum et.al.|[2603.23738](http://arxiv.org/abs/2603.23738)|null|
 |**2026-03-24**|**LineMVGNN: Anti-Money Laundering with Line-Graph-Assisted Multi-View Graph Neural Networks**|Chung-Hoo Poon et.al.|[2603.23584](http://arxiv.org/abs/2603.23584)|null|
 |**2026-03-24**|**Stablecoins as Dry Powder: A Copula-Based Risk Analysis of Cryptocurrency Markets**|Elliot Jones et.al.|[2603.23480](http://arxiv.org/abs/2603.23480)|null|
@@ -1262,6 +1290,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
+|**2026-03-26**|**Knowledge-Guided Retrieval-Augmented Generation for Zero-Shot Psychiatric Data: Privacy Preserving Synthetic Data Generation**|Adam Jakobsen et.al.|[2603.25186](http://arxiv.org/abs/2603.25186)|null|
+|**2026-03-25**|**Post-selection inference in generalized linear models via parametric programming**|Qinyan Shen et.al.|[2603.24875](http://arxiv.org/abs/2603.24875)|null|
+|**2026-03-25**|**Synthetic Rewriting as a Quality Multiplier: Evidence from Portuguese Continued Pretraining**|Thales Sales Almeida et.al.|[2603.24826](http://arxiv.org/abs/2603.24826)|null|
+|**2026-03-25**|**Saranga: MilliWatt Ultrasound for Navigation in Visually Degraded Environments on Palm-Sized Aerial Robots**|Manoj Velmurugan et.al.|[2603.24699](http://arxiv.org/abs/2603.24699)|null|
 |**2026-03-25**|**A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula**|Cansu Sancaktar et.al.|[2603.24202](http://arxiv.org/abs/2603.24202)|null|
 |**2026-03-25**|**CVPD at QIAS 2026: RAG-Guided LLM Reasoning for Al-Mawarith Share Computation and Heir Allocation**|Wassim Swaileh et.al.|[2603.24012](http://arxiv.org/abs/2603.24012)|null|
 |**2026-03-25**|**GARP-EFM: Improving Foundation Models with Revealed Preference Structure**|Victor H. Aguiar et.al.|[2603.23993](http://arxiv.org/abs/2603.23993)|null|
