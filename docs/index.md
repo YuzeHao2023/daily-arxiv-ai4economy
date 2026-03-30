@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**|Zehai He et.al.|[2603.26648](http://arxiv.org/abs/2603.26648)|null|
+|**2026-03-27**|**Universality of Halo Shape and its Morphological Evolution across Cosmic Time**|Ayan Nanda et.al.|[2603.26640](http://arxiv.org/abs/2603.26640)|null|
+|**2026-03-27**|**Machine Learning Transferability for Malware Detection**|César Vieira et.al.|[2603.26632](http://arxiv.org/abs/2603.26632)|null|
+|**2026-03-27**|**Context-specific Credibility-aware Multimodal Fusion with Conditional Probabilistic Circuits**|Pranuthi Tenali et.al.|[2603.26629](http://arxiv.org/abs/2603.26629)|null|
+|**2026-03-27**|**Stability of nonlinear dissipative systems with applications in fluid dynamics**|Javier Gonzalez-Conde et.al.|[2603.26627](http://arxiv.org/abs/2603.26627)|null|
+|**2026-03-27**|**Light and strange quark masses with $N_f = 2 + 1$ Wilson fermions**|Gregorio Herdoíza et.al.|[2603.26623](http://arxiv.org/abs/2603.26623)|null|
+|**2026-03-27**|**Optimal Parlay Wagering and Whitrow Asymptotics: A State-Price and Implicit-Cash Treatment**|Christopher D. Long et.al.|[2603.26620](http://arxiv.org/abs/2603.26620)|null|
+|**2026-03-27**|**Statistical inference for extremal directions in high-dimensional spaces**|Lucas Butsch et.al.|[2603.26618](http://arxiv.org/abs/2603.26618)|null|
+|**2026-03-27**|**Scaling Laws for Thermodiffusively Unstable Lean Premixed Turbulent Hydrogen-Air Flames**|M. Gauding T. Lehmann et.al.|[2603.26607](http://arxiv.org/abs/2603.26607)|null|
+|**2026-03-27**|**PQuantML: A Tool for End-to-End Hardware-aware Model Compression**|Roope Niemi et.al.|[2603.26595](http://arxiv.org/abs/2603.26595)|null|
 |**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|
@@ -442,6 +452,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Optimal Parlay Wagering and Whitrow Asymptotics: A State-Price and Implicit-Cash Treatment**|Christopher D. Long et.al.|[2603.26620](http://arxiv.org/abs/2603.26620)|null|
+|**2026-03-27**|**Rough volatility dynamics in commodity markets**|Roberto Daluiso et.al.|[2603.26514](http://arxiv.org/abs/2603.26514)|null|
+|**2026-03-27**|**Capital-Allocation-Induced Risk Sharing**|Wing Fung Chong et.al.|[2603.26491](http://arxiv.org/abs/2603.26491)|null|
+|**2026-03-27**|**STN-GPR: A Singularity Tensor Network Framework for Efficient Option Pricing**|Dominic Gribben et.al.|[2603.26318](http://arxiv.org/abs/2603.26318)|null|
+|**2026-03-27**|**Semi-structured multi-state delinquency model for mortgage default**|Victor Medina-Olivares et.al.|[2603.26309](http://arxiv.org/abs/2603.26309)|null|
+|**2026-03-27**|**Monotone 2D Integration Scheme for Mean-CVaR Optimization via Fourier-Trained Transition Kernels**|Duy-Minh Dang et.al.|[2603.26291](http://arxiv.org/abs/2603.26291)|null|
+|**2026-03-27**|**PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion**|Yixin Cao et.al.|[2603.26290](http://arxiv.org/abs/2603.26290)|null|
+|**2026-03-27**|**Eliciting Von Neumann-Morgenstern utility from discrete choices with response error**|Bo Chen et.al.|[2603.26065](http://arxiv.org/abs/2603.26065)|null|
 |**2026-03-26**|**Particle method for a nonlinear multimarginal optimal transport problem**|Adrien Cances et.al.|[2603.25584](http://arxiv.org/abs/2603.25584)|null|
 |**2026-03-26**|**System Design for Maintaining Internal State Consistency in Long-Horizon Robotic Tabletop Games**|Guangyu Zhao et.al.|[2603.25405](http://arxiv.org/abs/2603.25405)|null|
 |**2026-03-26**|**Optimal Dividend, Reinsurance, and Capital Injection for Collaborating Business Lines under Model Uncertainty**|Tim J. Boonen et.al.|[2603.25350](http://arxiv.org/abs/2603.25350)|null|
@@ -1132,6 +1150,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence**|Eziyo Ehsani et.al.|[2603.26603](http://arxiv.org/abs/2603.26603)|null|
+|**2026-03-27**|**Reentrancy Detection in the Age of LLMs**|Dalila Ressi et.al.|[2603.26497](http://arxiv.org/abs/2603.26497)|null|
+|**2026-03-27**|**Auditing Blockchain Innovations: Technical Challenges Beyond Traditional Finance**|Shayan Eskandari et.al.|[2603.26361](http://arxiv.org/abs/2603.26361)|null|
+|**2026-03-27**|**Microscopic Structure and Dynamics of Interfacial Water at Fluorinated vs Nonfluorinated Surfaces -- Insights from Ab-Initio Simulations and IR Spectroscopy**|Maximilian R. Becker et.al.|[2603.26300](http://arxiv.org/abs/2603.26300)|null|
+|**2026-03-27**|**Bitcoin Smart Accounts: Trust-Minimized Native Bitcoin DeFi Infrastructure**|Cian Lalor et.al.|[2603.26293](http://arxiv.org/abs/2603.26293)|null|
+|**2026-03-27**|**PEB Separation and State Migration: Unmasking the New Frontiers of DeFi AML Evasion**|Yixin Cao et.al.|[2603.26290](http://arxiv.org/abs/2603.26290)|null|
+|**2026-03-27**|**Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization**|Ziqiao Kong et.al.|[2603.26270](http://arxiv.org/abs/2603.26270)|null|
 |**2026-03-26**|**On the Vulnerability of Deep Automatic Modulation Classifiers to Explainable Backdoor Threats**|Younes Salmi et.al.|[2603.25310](http://arxiv.org/abs/2603.25310)|null|
 |**2026-03-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|[2603.25255](http://arxiv.org/abs/2603.25255)|null|
 |**2026-03-26**|**From Logic Monopoly to Social Contract: Separation of Power and the Institutional Foundations for Autonomous Agent Economies**|Anbang Ruan et.al.|[2603.25100](http://arxiv.org/abs/2603.25100)|null|
@@ -1290,13 +1315,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**Physics-Informed Neural Networks and Sequence Encoder: Application to heating and early cooling of thermo-stamping process**|Mouad Elaarabi et.al.|[2603.26245](http://arxiv.org/abs/2603.26245)|null|
+|**2026-03-26**|**Seeing Through Smoke: Surgical Desmoking for Improved Visual Perception**|Jingpei Lu et.al.|[2603.25867](http://arxiv.org/abs/2603.25867)|null|
 |**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725](http://arxiv.org/abs/2603.25725)|null|
 |**2026-03-26**|**Knowledge-Guided Retrieval-Augmented Generation for Zero-Shot Psychiatric Data: Privacy Preserving Synthetic Data Generation**|Adam Jakobsen et.al.|[2603.25186](http://arxiv.org/abs/2603.25186)|null|
 |**2026-03-25**|**Post-selection inference in generalized linear models via parametric programming**|Qinyan Shen et.al.|[2603.24875](http://arxiv.org/abs/2603.24875)|null|
 |**2026-03-25**|**Synthetic Rewriting as a Quality Multiplier: Evidence from Portuguese Continued Pretraining**|Thales Sales Almeida et.al.|[2603.24826](http://arxiv.org/abs/2603.24826)|null|
 |**2026-03-25**|**Saranga: MilliWatt Ultrasound for Navigation in Visually Degraded Environments on Palm-Sized Aerial Robots**|Manoj Velmurugan et.al.|[2603.24699](http://arxiv.org/abs/2603.24699)|null|
 |**2026-03-25**|**A Deep Dive into Scaling RL for Code Generation with Synthetic Data and Curricula**|Cansu Sancaktar et.al.|[2603.24202](http://arxiv.org/abs/2603.24202)|null|
-|**2026-03-25**|**CVPD at QIAS 2026: RAG-Guided LLM Reasoning for Al-Mawarith Share Computation and Heir Allocation**|Wassim Swaileh et.al.|[2603.24012](http://arxiv.org/abs/2603.24012)|null|
+|**2026-03-27**|**CVPD at QIAS 2026: RAG-Guided LLM Reasoning for Al-Mawarith Share Computation and Heir Allocation**|Wassim Swaileh et.al.|[2603.24012](http://arxiv.org/abs/2603.24012)|null|
 |**2026-03-25**|**GARP-EFM: Improving Foundation Models with Revealed Preference Structure**|Victor H. Aguiar et.al.|[2603.23993](http://arxiv.org/abs/2603.23993)|null|
 |**2026-03-24**|**CDMT-EHR: A Continuous-Time Diffusion Framework for Generating Mixed-Type Time-Series Electronic Health Records**|Shaonan Liu et.al.|[2603.23719](http://arxiv.org/abs/2603.23719)|null|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|null|
