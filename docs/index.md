@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Reward-Based Online LLM Routing via NeuralUCB**|Ming-Hua Tsai et.al.|[2603.30035](http://arxiv.org/abs/2603.30035)|null|
+|**2026-03-31**|**EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method**|Yanting Wang et.al.|[2603.30034](http://arxiv.org/abs/2603.30034)|null|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025](http://arxiv.org/abs/2603.30025)|null|
+|**2026-03-31**|**Role of the equivalence principle in gauge and axial symmetries of Yukawa coupling, and the strong CP problem**|Konstantin V. Grigorishin et.al.|[2603.30024](http://arxiv.org/abs/2603.30024)|null|
+|**2026-03-31**|**Asymptotic stability of heteroclinic cycles of type Y**|Olga Podvigina et.al.|[2603.30011](http://arxiv.org/abs/2603.30011)|null|
+|**2026-03-31**|**Tracking Equivalent Mechanistic Interpretations Across Neural Networks**|Alan Sun et.al.|[2603.30002](http://arxiv.org/abs/2603.30002)|null|
+|**2026-03-31**|**Pattern Expansion of Spin Glasses**|Mutian Shen et.al.|[2603.29984](http://arxiv.org/abs/2603.29984)|null|
+|**2026-03-31**|**Structural Feature Engineering for Generative Engine Optimization: How Content Structure Shapes Citation Behavior**|Junwei Yu et.al.|[2603.29979](http://arxiv.org/abs/2603.29979)|null|
+|**2026-03-31**|**Do covariates explain why these groups differ? The choice of reference group can reverse conclusions in the Oaxaca-Blinder decomposition**|Manuel Quintero et.al.|[2603.29972](http://arxiv.org/abs/2603.29972)|null|
+|**2026-03-31**|**Trimodal Deep Learning for Glioma Survival Prediction: A Feasibility Study Integrating Histopathology, Gene Expression, and MRI**|Iain Swift et.al.|[2603.29968](http://arxiv.org/abs/2603.29968)|null|
 |**2026-03-30**|**Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**|N Alex Cayco Gajic et.al.|[2603.28764](http://arxiv.org/abs/2603.28764)|null|
 |**2026-03-30**|**Iran's January 2026 Internet Shutdown: Public Data, Censorship Methods, and Circumvention Techniques**|Giuseppe Aceto et.al.|[2603.28753](http://arxiv.org/abs/2603.28753)|null|
 |**2026-03-30**|**Topological Optical Chirality Dichroism**|Wojciech J. Jankowski et.al.|[2603.28752](http://arxiv.org/abs/2603.28752)|null|
@@ -462,6 +472,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Bridging Stochastic Control and Deep Hedging: Structural Priors for No-Transaction Band Networks**|Jules Arzel et.al.|[2603.29994](http://arxiv.org/abs/2603.29994)|null|
+|**2026-03-31**|**Option Pricing on Automated Market Maker Tokens**|Philip Z. Maymin et.al.|[2603.29763](http://arxiv.org/abs/2603.29763)|null|
+|**2026-03-31**|**Common Risk Factors in Decentralized AI Subnets**|Philip Z. Maymin et.al.|[2603.29751](http://arxiv.org/abs/2603.29751)|null|
+|**2026-03-31**|**Be Water: An Evolutionary Proof for Trend-Following**|Yijia Chen et.al.|[2603.29593](http://arxiv.org/abs/2603.29593)|null|
+|**2026-03-31**|**Ultra-short-term volatility surfaces**|Federico M. Bandi et.al.|[2603.29430](http://arxiv.org/abs/2603.29430)|null|
+|**2026-03-30**|**Realistic Market Impact Modeling for Reinforcement Learning Trading Environments**|Lucas Riera Abbade et.al.|[2603.29086](http://arxiv.org/abs/2603.29086)|null|
+|**2026-03-30**|**Scaling Limits for Exponential Hedging in Trinomial Models**|Yan Dolinsky et.al.|[2603.28948](http://arxiv.org/abs/2603.28948)|null|
+|**2026-03-30**|**Model Predictive Control For Trade Execution**|Thomas P. McAuliffe et.al.|[2603.28898](http://arxiv.org/abs/2603.28898)|null|
 |**2026-03-30**|**Nonlinear Factor Decomposition via Kolmogorov-Arnold Networks: A Spectral Approach to Asset Return Analysis**|David Breazu et.al.|[2603.28257](http://arxiv.org/abs/2603.28257)|null|
 |**2026-03-30**|**Contingent Claim Valuation under Increasing Profit, Strong Arbitrage, and Arbitrage of the First Kind**|Yukihiro Tsuzuki et.al.|[2603.28256](http://arxiv.org/abs/2603.28256)|null|
 |**2026-03-30**|**Policy-Controlled Generalized Share: A General Framework with a Transformer Instantiation for Strictly Online Switching-Oracle Tracking**|Hongkai Hu et.al.|[2603.28198](http://arxiv.org/abs/2603.28198)|null|
@@ -777,12 +795,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
 |**2026-03-30**|**Time Series Correlations and Kolmogorov Complexity: A Hausdorff Dimension Perspective**|Boumediene Hamzi et.al.|[2603.28375](http://arxiv.org/abs/2603.28375)|null|
 |**2026-03-28**|**Bayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data**|Amuche Ibenegbu et.al.|[2603.27142](http://arxiv.org/abs/2603.27142)|null|
 |**2026-03-26**|**Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|[2603.25530](http://arxiv.org/abs/2603.25530)|null|
 |**2026-03-25**|**Multiple-group (Controlled) Interrupted Time Series Analysis with Higher-Order Autoregressive Errors: A Simulation Study Comparing Newey-West and Prais-Winsten Methods**|Ariel Linden et.al.|[2603.24814](http://arxiv.org/abs/2603.24814)|null|
 |**2026-03-25**|**The Free-Market Algorithm: Self-Organizing Optimization for Open-Ended Complex Systems**|Martin Jaraiz et.al.|[2603.24559](http://arxiv.org/abs/2603.24559)|null|
-|**2026-03-23**|**ANCHOR: Adaptive Network based on Cascaded Harmonic Offset Routing**|Wangye Jiang et.al.|[2603.21718](http://arxiv.org/abs/2603.21718)|null|
+|**2026-03-31**|**ANCHOR: Adaptive Network based on Cascaded Harmonic Offset Routing**|Wangye Jiang et.al.|[2603.21718](http://arxiv.org/abs/2603.21718)|null|
 |**2026-03-23**|**INTRYGUE: Induction-Aware Entropy Gating for Reliable RAG Uncertainty Estimation**|Alexandra Bazarova et.al.|[2603.21607](http://arxiv.org/abs/2603.21607)|null|
 |**2026-03-22**|**Neural Inference Functions for Margins for Time Series Copula Models**|Daniel Fynn et.al.|[2603.21075](http://arxiv.org/abs/2603.21075)|null|
 |**2026-03-19**|**Fast and Interpretable Autoregressive Estimation with Neural Network Backpropagation**|Anaísa Lucena et.al.|[2603.19041](http://arxiv.org/abs/2603.19041)|null|
@@ -853,6 +872,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**|Shuang Chen et.al.|[2603.29620](http://arxiv.org/abs/2603.29620)|null|
+|**2026-03-31**|**Be Water: An Evolutionary Proof for Trend-Following**|Yijia Chen et.al.|[2603.29593](http://arxiv.org/abs/2603.29593)|null|
+|**2026-03-31**|**Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning**|Jiaao Ma et.al.|[2603.29426](http://arxiv.org/abs/2603.29426)|null|
+|**2026-03-30**|**Robust Multi-Agent Reinforcement Learning for Small UAS Separation Assurance under GPS Degradation and Spoofing**|Alex Zongo et.al.|[2603.28900](http://arxiv.org/abs/2603.28900)|null|
 |**2026-03-30**|**Learning Partial Action Replacement in Offline MARL**|Yue Jin et.al.|[2603.28573](http://arxiv.org/abs/2603.28573)|null|
 |**2026-03-30**|**Privacy as Commodity: MFG-RegretNet for Large-Scale Privacy Trading in Federated Learning**|Kangkang Sun et.al.|[2603.28329](http://arxiv.org/abs/2603.28329)|null|
 |**2026-03-30**|**Corruption-robust Offline Multi-agent Reinforcement Learning From Human Feedback**|Andi Nika et.al.|[2603.28281](http://arxiv.org/abs/2603.28281)|null|
@@ -1116,6 +1141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Optimizing Donor Outreach for Blood Collection Sessions: A Scalable Decision Support Framework**|André Carneiro et.al.|[2603.29643](http://arxiv.org/abs/2603.29643)|null|
 |**2026-03-19**|**Mapping the Midweek Mountain: The New Geography of Hybrid Work**|Norman Guo et.al.|[2603.18440](http://arxiv.org/abs/2603.18440)|null|
 |**2026-03-17**|**A Users' Guide to Uncovering Worker and Firm Effects: The ABC of AKM**|Stephane Bonhomme et.al.|[2603.17034](http://arxiv.org/abs/2603.17034)|null|
 |**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
@@ -1181,6 +1207,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets**|Jinwook Kim et.al.|[2603.29278](http://arxiv.org/abs/2603.29278)|null|
+|**2026-03-30**|**Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations**|Ryan Babbush et.al.|[2603.28846](http://arxiv.org/abs/2603.28846)|null|
 |**2026-03-30**|**Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools**|Nuno Braz et.al.|[2603.28705](http://arxiv.org/abs/2603.28705)|null|
 |**2026-03-30**|**Democratizing Federated Learning with Blockchain and Multi-Task Peer Prediction**|Leon Witt et.al.|[2603.28434](http://arxiv.org/abs/2603.28434)|null|
 |**2026-03-30**|**FairGC: Fairness-aware Graph Condensation**|Yihan Gao et.al.|[2603.28321](http://arxiv.org/abs/2603.28321)|null|
@@ -1352,6 +1380,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection**|Rosario Leonardi et.al.|[2603.29733](http://arxiv.org/abs/2603.29733)|null|
 |**2026-03-27**|**Material Identification using Multi-Modal Intrinsic Radiation and Radiography**|Khoa Nguyen et.al.|[2603.27036](http://arxiv.org/abs/2603.27036)|null|
 |**2026-03-27**|**Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II**|Vera Schmitt et.al.|[2603.26983](http://arxiv.org/abs/2603.26983)|null|
 |**2026-03-27**|**Synthesizing the Counterfactual: A CTGAN-Augmented Causal Evaluation of Palliative Care on Spousal Depression**|Pietro Grassi et.al.|[2603.26913](http://arxiv.org/abs/2603.26913)|null|
