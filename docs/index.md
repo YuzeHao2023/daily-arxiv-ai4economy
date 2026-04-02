@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**On Generalised Discrete Torsion**|Philip Boyle Smith et.al.|[2604.01225](http://arxiv.org/abs/2604.01225)|null|
+|**2026-04-01**|**Information content of JWST transmission spectroscopy of the exoplanet HAT-P-12b from the optical to the mid-infrared**|L. Heinke et.al.|[2604.01219](http://arxiv.org/abs/2604.01219)|null|
+|**2026-04-01**|**Beaming of polarized radiation in subcritical X-ray pulsars**|I. D. Markozov et.al.|[2604.01218](http://arxiv.org/abs/2604.01218)|null|
+|**2026-04-01**|**A Posteriori Error Analysis of Runge-Kutta Discontinuous Galerkin Schemes with SIAC Post-Processing for Nonlinear Convection-Diffusion Systems**|Jan Giesselmann et.al.|[2604.01200](http://arxiv.org/abs/2604.01200)|null|
+|**2026-04-01**|**A high-order, structure preserving scheme for the stochastic Galerkin shallow water equations -- unification and two-dimensional extension**|Philipp Öffner et.al.|[2604.01199](http://arxiv.org/abs/2604.01199)|null|
+|**2026-04-01**|**Delayed Radio Flares in Neutrino-associated Blazars: The Case of TXS 0506+056**|S. I. Stathopoulos et.al.|[2604.01196](http://arxiv.org/abs/2604.01196)|null|
+|**2026-04-01**|**Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability**|Léa Delance et.al.|[2604.01185](http://arxiv.org/abs/2604.01185)|null|
+|**2026-04-01**|**Assessing Affective Objectives for Communicative Visualizations**|Elsie Lee-Robbins et.al.|[2604.01183](http://arxiv.org/abs/2604.01183)|null|
+|**2026-04-01**|**True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies**|Graziano Blasilli et.al.|[2604.01181](http://arxiv.org/abs/2604.01181)|null|
+|**2026-04-01**|**Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning**|Cai Zhou et.al.|[2604.01170](http://arxiv.org/abs/2604.01170)|null|
 |**2026-03-31**|**Reward-Based Online LLM Routing via NeuralUCB**|Ming-Hua Tsai et.al.|[2603.30035](http://arxiv.org/abs/2603.30035)|null|
 |**2026-03-31**|**EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method**|Yanting Wang et.al.|[2603.30034](http://arxiv.org/abs/2603.30034)|null|
 |**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025](http://arxiv.org/abs/2603.30025)|null|
@@ -472,6 +482,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Property-Level Flood Risk Assessment Using AI-Enabled Street-View Lowest Floor Elevation Extraction and ML Imputation Across Texas**|Xiangpeng Li et.al.|[2604.01153](http://arxiv.org/abs/2604.01153)|null|
+|**2026-04-01**|**HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation**|Hongyang Yang et.al.|[2604.00556](http://arxiv.org/abs/2604.00556)|null|
+|**2026-04-01**|**Valuation of variable annuities under the Volterra mortality and rough Heston models**|Wenyuan Li et.al.|[2604.00472](http://arxiv.org/abs/2604.00472)|null|
+|**2026-04-01**|**Dynamic Weight Optimization for Double Linear Policy: A Stochastic Model Predictive Control Approach**|Tan Chin Hong et.al.|[2604.00415](http://arxiv.org/abs/2604.00415)|null|
+|**2026-04-01**|**Pricing Lookback Options on a Quantum Computer**|Florence Paquette et.al.|[2604.00389](http://arxiv.org/abs/2604.00389)|null|
+|**2026-04-01**|**Forecasting duration in high-frequency financial data using a self-exciting flexible residual point process**|Kyungsub Lee et.al.|[2604.00346](http://arxiv.org/abs/2604.00346)|null|
+|**2026-03-31**|**Lévy-Flow Models: Heavy-Tail-Aware Normalizing Flows for Financial Risk Management**|Rachid Drissi et.al.|[2604.00195](http://arxiv.org/abs/2604.00195)|null|
+|**2026-03-31**|**Stratified adaptive sampling for derivative-free stochastic trust-region optimization**|Giovanni Amici et.al.|[2604.00178](http://arxiv.org/abs/2604.00178)|null|
+|**2026-03-31**|**Beyond Symbolic Control: Societal Consequences of AI-Driven Workforce Displacement and the Imperative for Genuine Human Oversight Architectures**|Richard J. Mitchell et.al.|[2604.00081](http://arxiv.org/abs/2604.00081)|null|
 |**2026-03-31**|**Bridging Stochastic Control and Deep Hedging: Structural Priors for No-Transaction Band Networks**|Jules Arzel et.al.|[2603.29994](http://arxiv.org/abs/2603.29994)|null|
 |**2026-03-31**|**Option Pricing on Automated Market Maker Tokens**|Philip Z. Maymin et.al.|[2603.29763](http://arxiv.org/abs/2603.29763)|null|
 |**2026-03-31**|**Common Risk Factors in Decentralized AI Subnets**|Philip Z. Maymin et.al.|[2603.29751](http://arxiv.org/abs/2603.29751)|null|
@@ -796,7 +815,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
-|**2026-03-30**|**Time Series Correlations and Kolmogorov Complexity: A Hausdorff Dimension Perspective**|Boumediene Hamzi et.al.|[2603.28375](http://arxiv.org/abs/2603.28375)|null|
+|**2026-04-01**|**Time Series Correlations and Kolmogorov Complexity: A Hausdorff Dimension Perspective**|Boumediene Hamzi et.al.|[2603.28375](http://arxiv.org/abs/2603.28375)|null|
 |**2026-03-28**|**Bayes-MICE: A Bayesian Approach to Multiple Imputation for Time Series Data**|Amuche Ibenegbu et.al.|[2603.27142](http://arxiv.org/abs/2603.27142)|null|
 |**2026-03-26**|**Adaptive Subspace Modeling With Functional Tucker Decomposition**|Noah Steidle et.al.|[2603.25530](http://arxiv.org/abs/2603.25530)|null|
 |**2026-03-25**|**Multiple-group (Controlled) Interrupted Time Series Analysis with Higher-Order Autoregressive Errors: A Simulation Study Comparing Newey-West and Prais-Winsten Methods**|Ariel Linden et.al.|[2603.24814](http://arxiv.org/abs/2603.24814)|null|
@@ -872,9 +891,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**LangMARL: Natural Language Multi-Agent Reinforcement Learning**|Huaiyuan Yao et.al.|[2604.00722](http://arxiv.org/abs/2604.00722)|null|
+|**2026-04-01**|**Battery Electric Truck Infrastructure Co-design via Joint Optimization and Agent-based Simulation**|Juan Pablo Bertucci et.al.|[2604.00659](http://arxiv.org/abs/2604.00659)|null|
+|**2026-04-01**|**CASCADE: Cascaded Scoped Communication for Multi-Agent Re-planning in Disrupted Industrial Environments**|Mingjie Bi et.al.|[2604.00451](http://arxiv.org/abs/2604.00451)|null|
+|**2026-04-01**|**Internal State-Based Policy Gradient Methods for Partially Observable Markov Potential Games**|Wonseok Yang et.al.|[2604.00433](http://arxiv.org/abs/2604.00433)|null|
+|**2026-04-01**|**Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning**|Eric Hanchen Jiang et.al.|[2604.00344](http://arxiv.org/abs/2604.00344)|null|
+|**2026-03-31**|**Approximating Gains-from-Trade in Matching Markets**|Moshe Babaioff et.al.|[2604.00129](http://arxiv.org/abs/2604.00129)|null|
 |**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
-|**2026-03-31**|**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**|Shuang Chen et.al.|[2603.29620](http://arxiv.org/abs/2603.29620)|null|
+|**2026-04-01**|**Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis**|Shuang Chen et.al.|[2603.29620](http://arxiv.org/abs/2603.29620)|null|
 |**2026-03-31**|**Be Water: An Evolutionary Proof for Trend-Following**|Yijia Chen et.al.|[2603.29593](http://arxiv.org/abs/2603.29593)|null|
 |**2026-03-31**|**Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning**|Jiaao Ma et.al.|[2603.29426](http://arxiv.org/abs/2603.29426)|null|
 |**2026-03-30**|**Robust Multi-Agent Reinforcement Learning for Small UAS Separation Assurance under GPS Degradation and Spoofing**|Alex Zongo et.al.|[2603.28900](http://arxiv.org/abs/2603.28900)|null|
@@ -1141,6 +1166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**A Rank-Based Information Fusion Framework for Comparing Clustered Multivariate Socioeconomic Outcomes**|Dhrubajyoti Ghosh et.al.|[2604.00330](http://arxiv.org/abs/2604.00330)|null|
 |**2026-03-31**|**Optimizing Donor Outreach for Blood Collection Sessions: A Scalable Decision Support Framework**|André Carneiro et.al.|[2603.29643](http://arxiv.org/abs/2603.29643)|null|
 |**2026-03-19**|**Mapping the Midweek Mountain: The New Geography of Hybrid Work**|Norman Guo et.al.|[2603.18440](http://arxiv.org/abs/2603.18440)|null|
 |**2026-03-17**|**A Users' Guide to Uncovering Worker and Firm Effects: The ABC of AKM**|Stephane Bonhomme et.al.|[2603.17034](http://arxiv.org/abs/2603.17034)|null|
@@ -1207,6 +1233,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Waiting time distribution of solar flares from a global perspective**|Yue Zhang et.al.|[2604.00877](http://arxiv.org/abs/2604.00877)|null|
+|**2026-04-01**|**SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph**|Xiaoqi Li et.al.|[2604.00687](http://arxiv.org/abs/2604.00687)|null|
+|**2026-04-01**|**LibScan: Smart Contract Library Misuse Detection with Iterative Feedback and Static Verification**|Yishun Wang et.al.|[2604.00657](http://arxiv.org/abs/2604.00657)|null|
 |**2026-03-31**|**A Regulatory Compliance Protocol for Asset Interoperability Between Traditional and Decentralized Finance in Tokenized Capital Markets**|Jinwook Kim et.al.|[2603.29278](http://arxiv.org/abs/2603.29278)|null|
 |**2026-03-30**|**Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations**|Ryan Babbush et.al.|[2603.28846](http://arxiv.org/abs/2603.28846)|null|
 |**2026-03-30**|**Binary Decisions in DAOs: Accountability and Belief Aggregation via Linear Opinion Pools**|Nuno Braz et.al.|[2603.28705](http://arxiv.org/abs/2603.28705)|null|
@@ -1380,6 +1409,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Optimsyn: Influence-Guided Rubrics Optimization for Synthetic Data Generation**|Zhiting Fan et.al.|[2604.00536](http://arxiv.org/abs/2604.00536)|null|
+|**2026-03-31**|**SANA I2I: A Text Free Flow Matching Framework for Paired Image to Image Translation with a Case Study in Fetal MRI Artifact Reduction**|Italo Felix Santos et.al.|[2604.00298](http://arxiv.org/abs/2604.00298)|null|
 |**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
 |**2026-03-31**|**Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection**|Rosario Leonardi et.al.|[2603.29733](http://arxiv.org/abs/2603.29733)|null|
 |**2026-03-27**|**Material Identification using Multi-Modal Intrinsic Radiation and Radiography**|Khoa Nguyen et.al.|[2603.27036](http://arxiv.org/abs/2603.27036)|null|
