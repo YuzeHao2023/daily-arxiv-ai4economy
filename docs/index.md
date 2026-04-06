@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**UNIONS-3500 Weak Lensing: II. B-mode validation for cosmic shear**|C. Daley et.al.|[2604.03227](http://arxiv.org/abs/2604.03227)|null|
+|**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
+|**2026-04-03**|**Nelson's Stochastic Mechanics: Measurement, Nonlocality, and the Classical Limit**|Partha Ghose et.al.|[2604.03214](http://arxiv.org/abs/2604.03214)|null|
+|**2026-04-03**|**Help Converts Newcomers, Not Veterans: Generalized Reciprocity and Platform Engagement on Stack Overflow**|Lenard Strahringer et.al.|[2604.03209](http://arxiv.org/abs/2604.03209)|null|
+|**2026-04-03**|**Reflective Context Learning: Studying the Optimization Primitives of Context Space**|Nikita Vassilyev et.al.|[2604.03189](http://arxiv.org/abs/2604.03189)|null|
+|**2026-04-03**|**Asymptotic self-similar blow-up for the regularized Saint-Venant equations**|Yunjoo Kim et.al.|[2604.03188](http://arxiv.org/abs/2604.03188)|null|
+|**2026-04-03**|**SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection**|Wenfeng Zhang et.al.|[2604.03176](http://arxiv.org/abs/2604.03176)|null|
+|**2026-04-03**|**Exclusive and Shared Electric Flying Taxis: Evidence on Modal Shares, Stated Reasons, and Modal Shifts**|Nael Alsaleh et.al.|[2604.03166](http://arxiv.org/abs/2604.03166)|null|
+|**2026-04-03**|**Lipschitz saturation of toric singularities in any dimension**|François Bernard et.al.|[2604.03164](http://arxiv.org/abs/2604.03164)|null|
+|**2026-04-03**|**Cosmological Constraints from GW-FRB Associations without Redshift Measurements for LIGO-Virgo and Cosmic Explorer**|Jiaming Zhuge et.al.|[2604.03163](http://arxiv.org/abs/2604.03163)|null|
 |**2026-04-02**|**Loop-level surrogate modeling of dopant-distribution effects in Ba(Zr,Ti)O $_3$**|Heiko Röthl et.al.|[2604.02325](http://arxiv.org/abs/2604.02325)|null|
 |**2026-04-02**|**No Single Best Model for Diversity: Learning a Router for Sample Diversity**|Yuhan Liu et.al.|[2604.02319](http://arxiv.org/abs/2604.02319)|null|
 |**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen et.al.|[2604.02307](http://arxiv.org/abs/2604.02307)|null|
@@ -492,6 +502,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Debiasing LLMs by Fine-tuning**|Zhenyu Gao et.al.|[2604.02921](http://arxiv.org/abs/2604.02921)|null|
+|**2026-04-03**|**Scalable Mean-Variance Portfolio Optimization via Subspace Embeddings and GPU-Friendly Nesterov-Accelerated Projected Gradient**|Yi-Shuai Niu et.al.|[2604.02917](http://arxiv.org/abs/2604.02917)|null|
+|**2026-04-03**|**Concave Continuation: Linking Routing to Arbitrage**|Ruichao Jiang et.al.|[2604.02909](http://arxiv.org/abs/2604.02909)|null|
+|**2026-04-03**|**When cooperation is beneficial to all agents**|Alessandro Doldi et.al.|[2604.02862](http://arxiv.org/abs/2604.02862)|null|
+|**2026-04-03**|**Transfer Learning for Loan Recovery Prediction under Distribution Shifts with Heterogeneous Feature Spaces**|Christopher Gerling et.al.|[2604.02832](http://arxiv.org/abs/2604.02832)|null|
+|**2026-04-03**|**On options-driven realized volatility forecasting: Information gains via rough volatility model**|Zheqi Fan et.al.|[2604.02743](http://arxiv.org/abs/2604.02743)|null|
+|**2026-04-02**|**Financial Anomaly Detection for the Canadian Market**|Luigi Caputi et.al.|[2604.02549](http://arxiv.org/abs/2604.02549)|null|
 |**2026-04-02**|**The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management**|Andrew Ang et.al.|[2604.02279](http://arxiv.org/abs/2604.02279)|null|
 |**2026-04-02**|**Hedging market risk and uncertainty via a robust portfolio approach**|Adele Ravagnani et.al.|[2604.02126](http://arxiv.org/abs/2604.02126)|null|
 |**2026-04-02**|**Quantitative Universal Approximation for Noisy Quantum Neural Networks**|Lukas Gonon et.al.|[2604.02064](http://arxiv.org/abs/2604.02064)|null|
@@ -910,6 +927,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Digital Twin-Assisted In-Network and Edge Collaboration for Joint User Association, Task Offloading, and Resource Allocation in the Metaverse**|Ibrahim Aliyu et.al.|[2604.02938](http://arxiv.org/abs/2604.02938)|null|
+|**2026-04-03**|**Random Reshuffling-Based Distributed Nash Equilibrium Seeking**|Jun Hu et.al.|[2604.02858](http://arxiv.org/abs/2604.02858)|null|
+|**2026-04-03**|**Deception Equilibrium Analysis for Three-Party Stackelberg Game with Insider**|Xiaoyu Xin et.al.|[2604.02807](http://arxiv.org/abs/2604.02807)|null|
+|**2026-04-03**|**Fully Byzantine-Resilient Distributed Multi-Agent Q-Learning**|Haejoon Lee et.al.|[2604.02791](http://arxiv.org/abs/2604.02791)|null|
+|**2026-04-03**|**Optimal Pricing with Unreliable Signals**|Zhihao Gavin Tang et.al.|[2604.02758](http://arxiv.org/abs/2604.02758)|null|
+|**2026-04-03**|**Multi-agent Reinforcement Learning-based Joint Design of Low-Carbon P2P Market and Bidding Strategy in Microgrids**|Junhao Ren et.al.|[2604.02728](http://arxiv.org/abs/2604.02728)|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|
 |**2026-04-02**|**Free Information Disrupts Even Bayesian Crowds**|Jonas Stein et.al.|[2604.01838](http://arxiv.org/abs/2604.01838)|null|
 |**2026-04-01**|**LangMARL: Natural Language Multi-Agent Reinforcement Learning**|Huaiyuan Yao et.al.|[2604.00722](http://arxiv.org/abs/2604.00722)|null|
@@ -1187,6 +1210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**UK Income Inequality and Taxation, 2000--2023: A $κ$ -generalised Distribution Analysis**|Samuel Forbes et.al.|[2604.03025](http://arxiv.org/abs/2604.03025)|null|
+|**2026-04-02**|**Measuring What Cannot Be Surveyed: LLMs as Instruments for Latent Cognitive Variables in Labor Economics**|Cristian Espinal Maya et.al.|[2604.02403](http://arxiv.org/abs/2604.02403)|null|
 |**2026-04-01**|**A Rank-Based Information Fusion Framework for Comparing Clustered Multivariate Socioeconomic Outcomes**|Dhrubajyoti Ghosh et.al.|[2604.00330](http://arxiv.org/abs/2604.00330)|null|
 |**2026-03-31**|**Optimizing Donor Outreach for Blood Collection Sessions: A Scalable Decision Support Framework**|André Carneiro et.al.|[2603.29643](http://arxiv.org/abs/2603.29643)|null|
 |**2026-03-19**|**Mapping the Midweek Mountain: The New Geography of Hybrid Work**|Norman Guo et.al.|[2603.18440](http://arxiv.org/abs/2603.18440)|null|
@@ -1255,6 +1280,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Extracting Money Laundering Transactions from Quasi-Temporal Graph Representation**|Haseeb Tariq et.al.|[2604.02899](http://arxiv.org/abs/2604.02899)|null|
+|**2026-04-03**|**ContractShield: Bridging Semantic-Structural Gaps via Hierarchical Cross-Modal Fusion for Multi-Label Vulnerability Detection in Obfuscated Smart Contracts**|Minh-Dai Tran-Duong et.al.|[2604.02771](http://arxiv.org/abs/2604.02771)|null|
 |**2026-04-02**|**Label Shift Estimation With Incremental Prior Update**|Yunrui Zhang et.al.|[2604.01651](http://arxiv.org/abs/2604.01651)|null|
 |**2026-04-01**|**Waiting time distribution of solar flares from a global perspective**|Yue Zhang et.al.|[2604.00877](http://arxiv.org/abs/2604.00877)|null|
 |**2026-04-01**|**SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph**|Xiaoqi Li et.al.|[2604.00687](http://arxiv.org/abs/2604.00687)|null|
@@ -1432,6 +1459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Mitigating Data Scarcity in Spaceflight Applications for Offline Reinforcement Learning Using Physics-Informed Deep Generative Models**|Alex E. Ballentine et.al.|[2604.02438](http://arxiv.org/abs/2604.02438)|null|
 |**2026-04-02**|**SEAL: An Open, Auditable, and Fair Data Generation Framework for AI-Native 6G Networks**|Sunder Ali Khowaja et.al.|[2604.02128](http://arxiv.org/abs/2604.02128)|null|
 |**2026-04-02**|**ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking**|Lukas Bergs et.al.|[2604.02109](http://arxiv.org/abs/2604.02109)|null|
 |**2026-04-02**|**Training-Free Private Synthesis with Validation: A New Frontier for Practical Educational Data Sharing**|Hibiki Ito et.al.|[2604.01821](http://arxiv.org/abs/2604.01821)|null|
