@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -38,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers**|Wei Huang et.al.|[2604.06163](http://arxiv.org/abs/2604.06163)|null|
+|**2026-04-07**|**A Large-Scale Empirical Comparison of Meta-Learners and Causal Forests for Heterogeneous Treatment Effect Estimation in Marketing Uplift Modeling**|Aman Singh et.al.|[2604.06123](http://arxiv.org/abs/2604.06123)|null|
+|**2026-04-07**|**Investigating ACS/WFC Amp-to-Amp Sensitivities**|Gagandeep S. Anand et.al.|[2604.06108](http://arxiv.org/abs/2604.06108)|null|
+|**2026-04-07**|**The SUSY reach of Higgs Factories in the most challenging scenario: scalar $τ$ -leptons with lowest cross section and small mass differences**|Maria Teresa Núñez Pardo de Vera et.al.|[2604.06103](http://arxiv.org/abs/2604.06103)|null|
+|**2026-04-07**|**Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning**|Samira Kamali Poorazad et.al.|[2604.06101](http://arxiv.org/abs/2604.06101)|null|
+|**2026-04-07**|**JUÁ - A Benchmark for Information Retrieval in Brazilian Legal Text Collections**|Jayr Pereira et.al.|[2604.06098](http://arxiv.org/abs/2604.06098)|null|
+|**2026-04-07**|**Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles**|Ben Wigler et.al.|[2604.06071](http://arxiv.org/abs/2604.06071)|null|
+|**2026-04-07**|**HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning**|Jiyao Zhang et.al.|[2604.06067](http://arxiv.org/abs/2604.06067)|null|
+|**2026-04-07**|**$ξRφ^2$ non-minimal coupling, and the long range gravitational potential for different spin fields from 2-2 scattering amplitudes**|Avijit Sen Majumder et.al.|[2604.06062](http://arxiv.org/abs/2604.06062)|null|
+|**2026-04-07**|**Fine-Grained Power and Energy Attribution on AMD GPU/APU-Based Exascale Nodes**|Adam McDaniel et.al.|[2604.06056](http://arxiv.org/abs/2604.06056)|null|
 |**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-04-06**|**Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection**|Yang Li et.al.|[2604.04932](http://arxiv.org/abs/2604.04932)|null|
 |**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
@@ -513,6 +523,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Sequential Audit Sampling with Statistical Guarantees**|Masahiro Kato et.al.|[2604.06116](http://arxiv.org/abs/2604.06116)|null|
+|**2026-04-07**|**Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models**|Karmanpartap Singh Sidhu et.al.|[2604.06068](http://arxiv.org/abs/2604.06068)|null|
+|**2026-04-07**|**Tail copula representation of path-based maximal tail dependence**|Takaaki Koike et.al.|[2604.05985](http://arxiv.org/abs/2604.05985)|null|
+|**2026-04-07**|**Priced risk in corporate bonds**|Alexander Dickerson et.al.|[2604.05699](http://arxiv.org/abs/2604.05699)|null|
+|**2026-04-07**|**From Incomplete Architecture to Quantified Risk: Multimodal LLM-Driven Security Assessment for Cyber-Physical Systems**|Shaofei Huang et.al.|[2604.05674](http://arxiv.org/abs/2604.05674)|null|
+|**2026-04-07**|**Improved space-time tradeoff for TSP via extremal set systems**|Justin Dallant et.al.|[2604.05645](http://arxiv.org/abs/2604.05645)|null|
+|**2026-04-07**|**An Actor-Critic Framework for Continuous-Time Jump-Diffusion Controls with Normalizing Flows**|Liya Guo et.al.|[2604.05398](http://arxiv.org/abs/2604.05398)|null|
+|**2026-04-06**|**EAGLE: Edge-Aware Graph Learning for Proactive Delivery Delay Prediction in Smart Logistics Networks**|Zhiming Xue et.al.|[2604.05254](http://arxiv.org/abs/2604.05254)|null|
+|**2026-04-06**|**From Governance Norms to Enforceable Controls: A Layered Translation Method for Runtime Guardrails in Agentic AI**|Christopher Koch et.al.|[2604.05229](http://arxiv.org/abs/2604.05229)|null|
+|**2026-04-06**|**Generative Path-Law Jump-Diffusion: Sequential MMD-Gradient Flows and Generalisation Bounds in Marcus-Signature RKHS**|Daniel Bloch et.al.|[2604.05008](http://arxiv.org/abs/2604.05008)|null|
 |**2026-04-06**|**Anticipatory Reinforcement Learning: From Generative Path-Laws to Distributional Value Functions**|Daniel Bloch et.al.|[2604.04662](http://arxiv.org/abs/2604.04662)|null|
 |**2026-04-06**|**$α$ -robust utility maximization with intractable claims: A quantile optimization approach**|Xinyu Chen et.al.|[2604.04649](http://arxiv.org/abs/2604.04649)|null|
 |**2026-04-06**|**Dividend ratcheting and capital injection under the Cramér-Lundberg model: Strong solution and optimal strategy**|Chonghu Guan et.al.|[2604.04641](http://arxiv.org/abs/2604.04641)|null|
@@ -948,6 +968,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Lexicographic Robustness and the Efficiency of Optimal Mechanisms**|Ashwin Kambhampati et.al.|[2604.06105](http://arxiv.org/abs/2604.06105)|null|
+|**2026-04-07**|**A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization**|Aastha Mishra et.al.|[2604.06025](http://arxiv.org/abs/2604.06025)|null|
+|**2026-04-07**|**Adaptive Incentive Design with Regret Minimization**|Georgios Vasileiou et.al.|[2604.05977](http://arxiv.org/abs/2604.05977)|null|
+|**2026-04-07**|**MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning**|Maria Nesterova et.al.|[2604.05943](http://arxiv.org/abs/2604.05943)|null|
+|**2026-04-07**|**From Pixels to Personas: Tracking the Evolution of Anime Characters**|Rongze Liu et.al.|[2604.05507](http://arxiv.org/abs/2604.05507)|null|
+|**2026-04-07**|**Can We Trust a Black-box LLM? LLM Untrustworthy Boundary Detection via Bias-Diffusion and Multi-Agent Reinforcement Learning**|Xiaotian Zhou et.al.|[2604.05483](http://arxiv.org/abs/2604.05483)|null|
+|**2026-04-07**|**Breakthrough the Suboptimal Stable Point in Value-Factorization-Based Multi-Agent Reinforcement Learning**|Lesong Tao et.al.|[2604.05297](http://arxiv.org/abs/2604.05297)|null|
+|**2026-04-06**|**Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors**|Hieu Le et.al.|[2604.05165](http://arxiv.org/abs/2604.05165)|null|
+|**2026-04-06**|**Bypassing the CSI Bottleneck: MARL-Driven Spatial Control for Reflector Arrays**|Hieu Le et.al.|[2604.05162](http://arxiv.org/abs/2604.05162)|null|
 |**2026-04-06**|**Cheap Talk, Empty Promise: Frontier LLMs easily break public promises for self-interest**|Jerick Shi et.al.|[2604.04782](http://arxiv.org/abs/2604.04782)|null|
 |**2026-04-06**|**Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering**|Byeolhee Kim et.al.|[2604.04593](http://arxiv.org/abs/2604.04593)|null|
 |**2026-04-06**|**Statistical Model Checking of the Island Model: An Established Economic Agent-Based Model of Endogenous Growth**|Stefano Blando et.al.|[2604.04543](http://arxiv.org/abs/2604.04543)|null|
@@ -1241,7 +1270,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-06**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
+|**2026-04-07**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
 |**2026-04-03**|**UK Income Inequality and Taxation, 2000--2023: A $κ$ -generalised Distribution Analysis**|Samuel Forbes et.al.|[2604.03025](http://arxiv.org/abs/2604.03025)|null|
 |**2026-04-02**|**Measuring What Cannot Be Surveyed: LLMs as Instruments for Latent Cognitive Variables in Labor Economics**|Cristian Espinal Maya et.al.|[2604.02403](http://arxiv.org/abs/2604.02403)|null|
 |**2026-04-01**|**A Rank-Based Information Fusion Framework for Comparing Clustered Multivariate Socioeconomic Outcomes**|Dhrubajyoti Ghosh et.al.|[2604.00330](http://arxiv.org/abs/2604.00330)|null|
@@ -1270,6 +1299,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Semantic Communication with an LLM-enabled Knowledge Base**|Wuxia Hu et.al.|[2604.05504](http://arxiv.org/abs/2604.05504)|null|
 |**2026-04-03**|**Earth Embeddings Reveal Diverse Urban Signals from Space**|Wenjing Gong et.al.|[2604.03456](http://arxiv.org/abs/2604.03456)|null|
 |**2026-04-02**|**Training-Free Private Synthesis with Validation: A New Frontier for Practical Educational Data Sharing**|Hibiki Ito et.al.|[2604.01821](http://arxiv.org/abs/2604.01821)|null|
 |**2026-03-30**|**Decoupling Wavelet Sub-bands for Single Source Domain Generalization in Fundus Image Segmentation**|Shramana Dey et.al.|[2603.28463](http://arxiv.org/abs/2603.28463)|null|
@@ -1495,6 +1525,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization**|Yanis Labrak et.al.|[2604.06138](http://arxiv.org/abs/2604.06138)|null|
+|**2026-04-06**|**Learning to Unscramble Feynman Loop Integrals with SAILIR**|David Shih et.al.|[2604.05034](http://arxiv.org/abs/2604.05034)|null|
 |**2026-04-05**|**How Long short-term memory artificial neural network, synthetic data, and fine-tuning improve the classification of raw EEG data**|Albert Nasybullin et.al.|[2604.04316](http://arxiv.org/abs/2604.04316)|null|
 |**2026-04-05**|**Stable and Privacy-Preserving Synthetic Educational Data with Empirical Marginals: A Copula-Based Approach**|Gabriel Diaz Ramos et.al.|[2604.04195](http://arxiv.org/abs/2604.04195)|null|
 |**2026-04-05**|**Jellyfish: Zero-Shot Federated Unlearning Scheme with Knowledge Disentanglement**|Houzhe Wang et.al.|[2604.04030](http://arxiv.org/abs/2604.04030)|null|
@@ -1630,7 +1662,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-06**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
+|**2026-04-07**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
 |**2026-03-29**|**Carbon Regulation and Competition in the European Airline Industry**|Ertian Chen et.al.|[2603.27724](http://arxiv.org/abs/2603.27724)|null|
 |**2026-03-23**|**Computational Arbitrage in AI Model Markets**|Ricardo Olmedo et.al.|[2603.22404](http://arxiv.org/abs/2603.22404)|null|
 |**2026-03-21**|**Strategy-proof Market Segmentation against Price Discrimination**|Zhonghong Kuang et.al.|[2603.20609](http://arxiv.org/abs/2603.20609)|null|
