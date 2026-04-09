@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -38,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior**|Pietro Borchia et.al.|[2604.07346](http://arxiv.org/abs/2604.07346)|null|
+|**2026-04-08**|**Spectral Difference Method with a Posteriori Limiting: III- Navier-Stokes Equations with Arbitrary High-Order Accuracy**|David A. Velasco-Romero et.al.|[2604.07339](http://arxiv.org/abs/2604.07339)|null|
+|**2026-04-08**|**Gaussian Approximation for Asynchronous Q-learning**|Artemy Rubtsov et.al.|[2604.07323](http://arxiv.org/abs/2604.07323)|null|
+|**2026-04-08**|**Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction**|Jackson Petty et.al.|[2604.07320](http://arxiv.org/abs/2604.07320)|null|
+|**2026-04-08**|**Robots that learn to evaluate models of collective behavior**|Mathis Hocke et.al.|[2604.07303](http://arxiv.org/abs/2604.07303)|null|
+|**2026-04-08**|**Mapping Child Malnutrition and Measuring Efficiency of Community Healthcare Workers through Location Based Games in India**|Arka Majhi et.al.|[2604.07299](http://arxiv.org/abs/2604.07299)|null|
+|**2026-04-08**|**Groenewold-Moyal twists, integrable spin-chains and AdS/CFT**|Riccardo Borsato et.al.|[2604.07291](http://arxiv.org/abs/2604.07291)|null|
+|**2026-04-08**|**Are Face Embeddings Compatible Across Deep Neural Network Models?**|Fizza Rubab et.al.|[2604.07282](http://arxiv.org/abs/2604.07282)|null|
+|**2026-04-08**|**Spin-Valley Relaxation of Rydberg Excitons**|V. Jindal et.al.|[2604.07280](http://arxiv.org/abs/2604.07280)|null|
+|**2026-04-08**|**Multiple Planted Structures Below $\sqrt{n}$ : An SoS Integrality Gap and an SQ Lower Bound**|Matvey Mosievskiy et.al.|[2604.07278](http://arxiv.org/abs/2604.07278)|null|
 |**2026-04-07**|**Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers**|Wei Huang et.al.|[2604.06163](http://arxiv.org/abs/2604.06163)|null|
 |**2026-04-07**|**A Large-Scale Empirical Comparison of Meta-Learners and Causal Forests for Heterogeneous Treatment Effect Estimation in Marketing Uplift Modeling**|Aman Singh et.al.|[2604.06123](http://arxiv.org/abs/2604.06123)|null|
 |**2026-04-07**|**Investigating ACS/WFC Amp-to-Amp Sensitivities**|Gagandeep S. Anand et.al.|[2604.06108](http://arxiv.org/abs/2604.06108)|null|
@@ -523,6 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**SoK of RWA Tokenization: A Systematization of Concepts, Architectures, and Legal Interoperability**|Junliang Luo et.al.|[2604.06608](http://arxiv.org/abs/2604.06608)|null|
 |**2026-04-07**|**Sequential Audit Sampling with Statistical Guarantees**|Masahiro Kato et.al.|[2604.06116](http://arxiv.org/abs/2604.06116)|null|
 |**2026-04-07**|**Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models**|Karmanpartap Singh Sidhu et.al.|[2604.06068](http://arxiv.org/abs/2604.06068)|null|
 |**2026-04-07**|**Tail copula representation of path-based maximal tail dependence**|Takaaki Koike et.al.|[2604.05985](http://arxiv.org/abs/2604.05985)|null|
@@ -890,6 +901,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Private Federated Learning for High-dimensional Time Series**|Kejun Chen et.al.|[2604.07135](http://arxiv.org/abs/2604.07135)|null|
+|**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537](http://arxiv.org/abs/2604.06537)|null|
 |**2026-04-01**|**Nonlinear Methods for Analyzing Pose in Behavioral Research**|Carter Sale et.al.|[2604.01453](http://arxiv.org/abs/2604.01453)|null|
 |**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
 |**2026-04-01**|**Time Series Correlations and Kolmogorov Complexity: A Hausdorff Dimension Perspective**|Boumediene Hamzi et.al.|[2603.28375](http://arxiv.org/abs/2603.28375)|null|
@@ -968,6 +981,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation**|Philipp D. Siedler et.al.|[2604.07028](http://arxiv.org/abs/2604.07028)|null|
+|**2026-04-08**|**Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems**|Charbel Bou Chaaya et.al.|[2604.06914](http://arxiv.org/abs/2604.06914)|null|
+|**2026-04-08**|**VertAX: a differentiable vertex model for learning epithelial tissue mechanics**|Alessandro Pasqui et.al.|[2604.06896](http://arxiv.org/abs/2604.06896)|null|
+|**2026-04-08**|**Personalization as a Game: Equilibrium-Guided Generative Modeling for Physician Behavior in Pharmaceutical Engagement**|Suyash Mishra et.al.|[2604.06860](http://arxiv.org/abs/2604.06860)|null|
+|**2026-04-08**|**FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling**|Shivanshu Shekhar et.al.|[2604.06779](http://arxiv.org/abs/2604.06779)|null|
+|**2026-04-08**|**KD-MARL: Resource-Aware Knowledge Distillation in Multi-Agent Reinforcement Learning**|Monirul Islam Pavel et.al.|[2604.06691](http://arxiv.org/abs/2604.06691)|null|
+|**2026-04-08**|**TwinLoop: Simulation-in-the-Loop Digital Twins for Online Multi-Agent Reinforcement Learning**|Nan Zhang et.al.|[2604.06610](http://arxiv.org/abs/2604.06610)|null|
+|**2026-04-08**|**Train-Small Deploy-Large: Leveraging Diffusion-Based Multi-Robot Planning**|Siddharth Singh et.al.|[2604.06598](http://arxiv.org/abs/2604.06598)|null|
 |**2026-04-07**|**Lexicographic Robustness and the Efficiency of Optimal Mechanisms**|Ashwin Kambhampati et.al.|[2604.06105](http://arxiv.org/abs/2604.06105)|null|
 |**2026-04-07**|**A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization**|Aastha Mishra et.al.|[2604.06025](http://arxiv.org/abs/2604.06025)|null|
 |**2026-04-07**|**Adaptive Incentive Design with Regret Minimization**|Georgios Vasileiou et.al.|[2604.05977](http://arxiv.org/abs/2604.05977)|null|
@@ -1299,6 +1320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**Bi-Level Optimization for Single Domain Generalization**|Marzi Heidari et.al.|[2604.06349](http://arxiv.org/abs/2604.06349)|null|
 |**2026-04-07**|**Semantic Communication with an LLM-enabled Knowledge Base**|Wuxia Hu et.al.|[2604.05504](http://arxiv.org/abs/2604.05504)|null|
 |**2026-04-03**|**Earth Embeddings Reveal Diverse Urban Signals from Space**|Wenjing Gong et.al.|[2604.03456](http://arxiv.org/abs/2604.03456)|null|
 |**2026-04-02**|**Training-Free Private Synthesis with Validation: A New Frontier for Practical Educational Data Sharing**|Hibiki Ito et.al.|[2604.01821](http://arxiv.org/abs/2604.01821)|null|
@@ -1343,6 +1365,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**CAFP: A Post-Processing Framework for Group Fairness via Counterfactual Model Averaging**|Irina Arévalo et.al.|[2604.07009](http://arxiv.org/abs/2604.07009)|null|
+|**2026-04-08**|**AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power**|Anbang Ruan et.al.|[2604.07007](http://arxiv.org/abs/2604.07007)|null|
+|**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
 |**2026-04-06**|**RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups**|Zhenhang Shang et.al.|[2604.04748](http://arxiv.org/abs/2604.04748)|null|
 |**2026-04-05**|**Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring**|Ali Akarma et.al.|[2604.04265](http://arxiv.org/abs/2604.04265)|null|
 |**2026-04-04**|**LiquiLM: Bridging the Semantic Gap in Liquidity Flaw Audit via DCN and LLMs**|Zekai Liu et.al.|[2604.03860](http://arxiv.org/abs/2604.03860)|null|
@@ -1525,6 +1550,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
+|**2026-04-08**|**Dynamic Context Evolution for Scalable Synthetic Data Generation**|Ryan Lingo et.al.|[2604.07147](http://arxiv.org/abs/2604.07147)|null|
+|**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Zhijun Li et.al.|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
 |**2026-04-07**|**Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization**|Yanis Labrak et.al.|[2604.06138](http://arxiv.org/abs/2604.06138)|null|
 |**2026-04-06**|**Learning to Unscramble Feynman Loop Integrals with SAILIR**|David Shih et.al.|[2604.05034](http://arxiv.org/abs/2604.05034)|null|
 |**2026-04-05**|**How Long short-term memory artificial neural network, synthetic data, and fine-tuning improve the classification of raw EEG data**|Albert Nasybullin et.al.|[2604.04316](http://arxiv.org/abs/2604.04316)|null|
