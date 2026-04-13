@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System**|Wenxiao Zhang et.al.|[2604.08597](http://arxiv.org/abs/2604.08597)|null|
 |**2026-04-04**|**VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with LLMs**|Shu Chen et.al.|[2604.03855](http://arxiv.org/abs/2604.03855)|null|
 |**2026-03-18**|**CN-Buzz2Portfolio: A Chinese-Market Dataset and Benchmark for LLM-Based Macro and Sector Asset Allocation from Daily Trending Financial News**|Liyuan Chen et.al.|[2603.22305](http://arxiv.org/abs/2603.22305)|null|
 |**2026-03-20**|**DIAL-KG: Schema-Free Incremental Knowledge Graph Construction via Dynamic Schema Induction and Evolution-Intent Assessment**|Weidong Bao et.al.|[2603.20059](http://arxiv.org/abs/2603.20059)|null|
@@ -38,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Explicit Block Encoding of Difference-of-Gaussian Operators on a Periodic Grid**|Jishnu Mahmud et.al.|[2604.09538](http://arxiv.org/abs/2604.09538)|null|
+|**2026-04-10**|**Modular curves and bad reduction**|Adam Logan et.al.|[2604.09536](http://arxiv.org/abs/2604.09536)|null|
+|**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Zibin Geng et.al.|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
+|**2026-04-10**|**Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment**|Anthony T. Nixon et.al.|[2604.09521](http://arxiv.org/abs/2604.09521)|null|
+|**2026-04-10**|**An Improved Bipartition Cover Bound for the Multispecies Coalescent Model**|Zachary McNulty et.al.|[2604.09509](http://arxiv.org/abs/2604.09509)|null|
+|**2026-04-10**|**Enhancing the accuracy of under-resolved numerical simulations of atmospheric flows with super resolution**|Armin Sheidani et.al.|[2604.09505](http://arxiv.org/abs/2604.09505)|null|
+|**2026-04-10**|**New Scheme Adaption Strategy for Hyperbolic Conservation Laws**|Shaoshuai Chu et.al.|[2604.09498](http://arxiv.org/abs/2604.09498)|null|
+|**2026-04-10**|**Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts**|Valentin Pelloin et.al.|[2604.09472](http://arxiv.org/abs/2604.09472)|null|
+|**2026-04-10**|**Fundamental fields in the deformed $W$ -algebras**|Hicham Assakaf et.al.|[2604.09471](http://arxiv.org/abs/2604.09471)|null|
+|**2026-04-10**|**Silence and Noise: Self-censorship and Opinion Expression on Social Media**|Xinyu Wang et.al.|[2604.09465](http://arxiv.org/abs/2604.09465)|null|
 |**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**Disentangling cosmic distance tensions with early and late dark energy**|Tanisha Jhaveri et.al.|[2604.08530](http://arxiv.org/abs/2604.08530)|null|
 |**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|
@@ -543,6 +554,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Optimal Annuitization Time under a Mortality Shock**|Matteo Buttarazzi et.al.|[2604.09342](http://arxiv.org/abs/2604.09342)|null|
+|**2026-04-10**|**The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty**|Benjamin Leroy et.al.|[2604.09187](http://arxiv.org/abs/2604.09187)|null|
+|**2026-04-10**|**Hagenberg Risk Management Process (Part 3): Operationalization, Probabilities, and Causal Analysis**|Eckehard Hermann et.al.|[2604.09153](http://arxiv.org/abs/2604.09153)|null|
+|**2026-04-09**|**Reliability-Aware ETF Tail-Risk Monitoring**|Tenghan Zhong et.al.|[2604.08765](http://arxiv.org/abs/2604.08765)|null|
+|**2026-04-09**|**PRAGMA: Revolut Foundation Model**|Maxim Ostroukhov et.al.|[2604.08649](http://arxiv.org/abs/2604.08649)|null|
 |**2026-04-09**|**Measuring Strategy-Decay Risk: Minimum Regime Performance and the Durability of Systematic Investing**|Nolan Alexander et.al.|[2604.08356](http://arxiv.org/abs/2604.08356)|null|
 |**2026-04-09**|**Quantum Computing for Financial Transformation: A Review of Optimisation, Pricing, Risk, Machine Learning, and Post-Quantum Security**|Hui Gong et.al.|[2604.08180](http://arxiv.org/abs/2604.08180)|null|
 |**2026-04-09**|**The Corporate Bond Factor Replication Crisis**|Alexander Dickerson et.al.|[2604.07880](http://arxiv.org/abs/2604.07880)|null|
@@ -917,8 +933,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-09**|**QARIMA: A Quantum Approach To Classical Time Series Analysis**|Nishikanta Mohanty et.al.|[2604.08277](http://arxiv.org/abs/2604.08277)|null|
-|**2026-04-09**|**Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps**|Mohammad Daouk et.al.|[2604.07936](http://arxiv.org/abs/2604.07936)|null|
+|**2026-04-10**|**QARIMA: A Quantum Approach To Classical Time Series Analysis**|Nishikanta Mohanty et.al.|[2604.08277](http://arxiv.org/abs/2604.08277)|null|
+|**2026-04-10**|**Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps**|Mohammad Daouk et.al.|[2604.07936](http://arxiv.org/abs/2604.07936)|null|
 |**2026-04-08**|**Private Federated Learning for High-dimensional Time Series**|Kejun Chen et.al.|[2604.07135](http://arxiv.org/abs/2604.07135)|null|
 |**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537](http://arxiv.org/abs/2604.06537)|null|
 |**2026-04-01**|**Nonlinear Methods for Analyzing Pose in Behavioral Research**|Carter Sale et.al.|[2604.01453](http://arxiv.org/abs/2604.01453)|null|
@@ -999,6 +1015,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL**|Igor Jankowski et.al.|[2604.09523](http://arxiv.org/abs/2604.09523)|null|
+|**2026-04-10**|**Improved Matlab code for Lyapunov exponents of fractional order systems**|Marius-F. Danca et.al.|[2604.09334](http://arxiv.org/abs/2604.09334)|null|
+|**2026-04-10**|**Multi-agent Reinforcement Learning for Low-Carbon P2P Energy Trading among Self-Interested Microgrids**|Junhao Ren et.al.|[2604.08973](http://arxiv.org/abs/2604.08973)|null|
+|**2026-04-10**|**Delve into the Applicability of Advanced Optimizers for Multi-Task Learning**|Zhipeng Zhou et.al.|[2604.08939](http://arxiv.org/abs/2604.08939)|null|
+|**2026-04-09**|**Development of the New Optical Sensor for IceCube-Gen2**|Delaney Butterfield et.al.|[2604.08785](http://arxiv.org/abs/2604.08785)|null|
+|**2026-04-09**|**Wireless Communication Enhanced Value Decomposition for Multi-Agent Reinforcement Learning**|Diyi Hu et.al.|[2604.08728](http://arxiv.org/abs/2604.08728)|null|
+|**2026-04-09**|**LEGO: Latent-space Exploration for Geometry-aware Optimization of Humanoid Kinematic Design**|Jihwan Yoon et.al.|[2604.08636](http://arxiv.org/abs/2604.08636)|null|
 |**2026-04-09**|**Value-Guidance MeanFlow for Offline Multi-Agent Reinforcement Learning**|Teng Pang et.al.|[2604.08174](http://arxiv.org/abs/2604.08174)|null|
 |**2026-04-09**|**Reinforcement learning with reputation-based adaptive exploration promotes the evolution of cooperation**|An Li et.al.|[2604.08103](http://arxiv.org/abs/2604.08103)|null|
 |**2026-04-09**|**Parameter-free non-ergodic extragradient algorithms for solving monotone variational inequalities**|Lingqing Shen et.al.|[2604.07662](http://arxiv.org/abs/2604.07662)|null|
@@ -1388,6 +1411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**PRAGMA: Revolut Foundation Model**|Maxim Ostroukhov et.al.|[2604.08649](http://arxiv.org/abs/2604.08649)|null|
 |**2026-04-09**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952](http://arxiv.org/abs/2604.07952)|null|
 |**2026-04-08**|**CAFP: A Post-Processing Framework for Group Fairness via Counterfactual Model Averaging**|Irina Arévalo et.al.|[2604.07009](http://arxiv.org/abs/2604.07009)|null|
 |**2026-04-08**|**AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power**|Anbang Ruan et.al.|[2604.07007](http://arxiv.org/abs/2604.07007)|null|
@@ -1574,6 +1598,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|null|
+|**2026-04-10**|**SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data**|Qingwen Zhang et.al.|[2604.09411](http://arxiv.org/abs/2604.09411)|null|
+|**2026-04-10**|**Synthesizing real-world distributions from high-dimensional Gaussian Noise with Fully Connected Neural Network**|Joanna Komorniczak et.al.|[2604.09091](http://arxiv.org/abs/2604.09091)|null|
+|**2026-04-10**|**BlendFusion -- Scalable Synthetic Data Generation for Diffusion Model Training**|Thejas Venkatesh et.al.|[2604.09022](http://arxiv.org/abs/2604.09022)|null|
+|**2026-04-10**|**Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya**|Jimmy Bach et.al.|[2604.08902](http://arxiv.org/abs/2604.08902)|null|
+|**2026-04-09**|**Deep Learning-Based Tracking and Lineage Reconstruction of Ligament Breakup**|Vrushank Ahire et.al.|[2604.08711](http://arxiv.org/abs/2604.08711)|null|
 |**2026-04-09**|**Synthetic Data for any Differentiable Target**|Tristan Thrush et.al.|[2604.08423](http://arxiv.org/abs/2604.08423)|null|
 |**2026-04-09**|**Revise: A Framework for Revising OCRed text in Practical Information Systems with Data Contamination Strategy**|Gyuho Shim et.al.|[2604.08115](http://arxiv.org/abs/2604.08115)|null|
 |**2026-04-09**|**Reinforcement-Guided Synthetic Data Generation for Privacy-Sensitive Identity Recognition**|Xuemei Jia et.al.|[2604.07884](http://arxiv.org/abs/2604.07884)|null|
