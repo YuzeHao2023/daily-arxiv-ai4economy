@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Diffusing diffusivity model with dichotomous noise**|Dongho Lee et.al.|[2604.11800](http://arxiv.org/abs/2604.11800)|null|
+|**2026-04-13**|**Many-Body Super- and Subradiance in Ordered Atomic Arrays**|Alec Douglas et.al.|[2604.11795](http://arxiv.org/abs/2604.11795)|null|
+|**2026-04-13**|**The nature of tilted supercritical accretion discs**|P. Chris Fragile et.al.|[2604.11794](http://arxiv.org/abs/2604.11794)|null|
+|**2026-04-13**|**A Mechanistic Analysis of Looped Reasoning Language Models**|Hugh Blayney et.al.|[2604.11791](http://arxiv.org/abs/2604.11791)|null|
+|**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
+|**2026-04-13**|**Autonomous Diffractometry Enabled by Visual Reinforcement Learning**|J. Oppliger et.al.|[2604.11773](http://arxiv.org/abs/2604.11773)|null|
+|**2026-04-13**|**Retrieval Is Not Enough: Why Organizational AI Needs Epistemic Infrastructure**|Federico Bottino et.al.|[2604.11759](http://arxiv.org/abs/2604.11759)|null|
+|**2026-04-13**|**Trapped bosons in mean field QED, nonlinear resonance cascades and dynamical BEC formation**|Thomas Chen et.al.|[2604.11756](http://arxiv.org/abs/2604.11756)|null|
+|**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|Keyang Zhong et.al.|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
+|**2026-04-13**|**An active soft condensed matter approach to the Physics of living systems**|Nitin Kumar et.al.|[2604.11740](http://arxiv.org/abs/2604.11740)|null|
 |**2026-04-10**|**Explicit Block Encoding of Difference-of-Gaussian Operators on a Periodic Grid**|Jishnu Mahmud et.al.|[2604.09538](http://arxiv.org/abs/2604.09538)|null|
 |**2026-04-10**|**Modular curves and bad reduction**|Adam Logan et.al.|[2604.09536](http://arxiv.org/abs/2604.09536)|null|
 |**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Zibin Geng et.al.|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
@@ -554,6 +564,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**A Comparative Study of Hybrid Quantum and Classical Genetic Algorithms in Portfolio Optimization**|Romeu Rossi Junior et.al.|[2604.11667](http://arxiv.org/abs/2604.11667)|null|
+|**2026-04-13**|**Risk-Constrained Kelly for Mutually Exclusive Outcomes: CRRA Support Invariance and Logarithmic One-Dimensional Calibration**|Christopher D. Long et.al.|[2604.11577](http://arxiv.org/abs/2604.11577)|null|
+|**2026-04-13**|**A Counterfactual Diagnostic Framework for Explaining KS Deterioration in Credit Risk Model Validation**|Yiqing Wang et.al.|[2604.11561](http://arxiv.org/abs/2604.11561)|null|
+|**2026-04-13**|**OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems**|Kun Liu et.al.|[2604.11477](http://arxiv.org/abs/2604.11477)|null|
+|**2026-04-13**|**A Herding-Based Model of Technological Transfer and Economic Convergence: Evidence from Central and Eastern Europe**|Vygintas Gontis et.al.|[2604.11413](http://arxiv.org/abs/2604.11413)|null|
+|**2026-04-13**|**Temperature Anomalies and Climate Physical Risk in Portfolio Construction**|Michele Azzone et.al.|[2604.11143](http://arxiv.org/abs/2604.11143)|null|
+|**2026-04-13**|**Reducing Hallucination in Enterprise AI Workflows via Hybrid Utility Minimum Bayes Risk (HUMBR)**|Chenhao Fang et.al.|[2604.11141](http://arxiv.org/abs/2604.11141)|null|
+|**2026-04-13**|**Mechanism Design for Investment Regulation under Herding**|Huisheng Wang et.al.|[2604.11100](http://arxiv.org/abs/2604.11100)|null|
+|**2026-04-12**|**Investing Is Compression**|Oscar Stiffelman et.al.|[2604.10758](http://arxiv.org/abs/2604.10758)|null|
+|**2026-04-12**|**Lambda R{é}nyi entropic value-at-risk**|Zhenfeng Zou et.al.|[2604.10657](http://arxiv.org/abs/2604.10657)|null|
 |**2026-04-10**|**Optimal Annuitization Time under a Mortality Shock**|Matteo Buttarazzi et.al.|[2604.09342](http://arxiv.org/abs/2604.09342)|null|
 |**2026-04-10**|**The Geoeconomics of Venture Capital An Economic Complexity Approach to Emerging Technological Sovereignty**|Benjamin Leroy et.al.|[2604.09187](http://arxiv.org/abs/2604.09187)|null|
 |**2026-04-10**|**Hagenberg Risk Management Process (Part 3): Operationalization, Probabilities, and Causal Analysis**|Eckehard Hermann et.al.|[2604.09153](http://arxiv.org/abs/2604.09153)|null|
@@ -933,6 +953,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-11**|**On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk**|Nolan Alexander et.al.|[2604.10375](http://arxiv.org/abs/2604.10375)|null|
+|**2026-04-11**|**Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**|Ezequiel Albentosa-Ruiz et.al.|[2604.10287](http://arxiv.org/abs/2604.10287)|null|
 |**2026-04-10**|**QARIMA: A Quantum Approach To Classical Time Series Analysis**|Nishikanta Mohanty et.al.|[2604.08277](http://arxiv.org/abs/2604.08277)|null|
 |**2026-04-10**|**Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps**|Mohammad Daouk et.al.|[2604.07936](http://arxiv.org/abs/2604.07936)|null|
 |**2026-04-08**|**Private Federated Learning for High-dimensional Time Series**|Kejun Chen et.al.|[2604.07135](http://arxiv.org/abs/2604.07135)|null|
@@ -1015,6 +1037,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al.|[2604.11440](http://arxiv.org/abs/2604.11440)|null|
+|**2026-04-13**|**Mechanism Design for Investment Regulation under Herding**|Huisheng Wang et.al.|[2604.11100](http://arxiv.org/abs/2604.11100)|null|
+|**2026-04-13**|**EvoNash-MARL: A Closed-Loop Multi-Agent Reinforcement Learning Framework for Medium-Horizon Equity Allocation**|Chongliu Jia et.al.|[2604.10911](http://arxiv.org/abs/2604.10911)|null|
+|**2026-04-12**|**FEDBUD: Joint Incentive and Privacy Optimization for Resource-Constrained Federated Learning**|Tao Liu et.al.|[2604.10499](http://arxiv.org/abs/2604.10499)|null|
+|**2026-04-11**|**Emergence of Stereotypes and Affective Polarization from Belief Network Dynamics**|Ozgur Can Seckin et.al.|[2604.10251](http://arxiv.org/abs/2604.10251)|null|
+|**2026-04-11**|**Distributed Optimization-Learning with Graph Transformers for Terahertz Cell-Free Integrated Sensing and Communication Systems**|Guangchen Wang et.al.|[2604.09981](http://arxiv.org/abs/2604.09981)|null|
+|**2026-04-10**|**Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward**|Weiyang Guo et.al.|[2604.09748](http://arxiv.org/abs/2604.09748)|null|
 |**2026-04-10**|**Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL**|Igor Jankowski et.al.|[2604.09523](http://arxiv.org/abs/2604.09523)|null|
 |**2026-04-10**|**Improved Matlab code for Lyapunov exponents of fractional order systems**|Marius-F. Danca et.al.|[2604.09334](http://arxiv.org/abs/2604.09334)|null|
 |**2026-04-10**|**Multi-agent Reinforcement Learning for Low-Carbon P2P Energy Trading among Self-Interested Microgrids**|Junhao Ren et.al.|[2604.08973](http://arxiv.org/abs/2604.08973)|null|
@@ -1336,6 +1365,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-11**|**The Pareto principle in Sports and Economics in view of Runs Scored by Batters in the Indian Premier League**|Soumendra Nath Ruz et.al.|[2604.10049](http://arxiv.org/abs/2604.10049)|null|
 |**2026-04-07**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
 |**2026-04-03**|**UK Income Inequality and Taxation, 2000--2023: A $κ$ -generalised Distribution Analysis**|Samuel Forbes et.al.|[2604.03025](http://arxiv.org/abs/2604.03025)|null|
 |**2026-04-02**|**Measuring What Cannot Be Surveyed: LLMs as Instruments for Latent Cognitive Variables in Labor Economics**|Cristian Espinal Maya et.al.|[2604.02403](http://arxiv.org/abs/2604.02403)|null|
@@ -1411,11 +1441,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa**|Isabel Agadagba et.al.|[2604.11566](http://arxiv.org/abs/2604.11566)|null|
+|**2026-04-11**|**Emergent Topological Universality and Marginal Replica Symmetry Breaking in Gauge-Correlated Spin Glasses**|Alok Yadav et.al.|[2604.10309](http://arxiv.org/abs/2604.10309)|null|
+|**2026-04-11**|**GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship**|Hongxu Su et.al.|[2604.10160](http://arxiv.org/abs/2604.10160)|null|
 |**2026-04-09**|**PRAGMA: Revolut Foundation Model**|Maxim Ostroukhov et.al.|[2604.08649](http://arxiv.org/abs/2604.08649)|null|
 |**2026-04-09**|**Fraud Detection System for Banking Transactions**|Ranya Batsyas et.al.|[2604.07952](http://arxiv.org/abs/2604.07952)|null|
 |**2026-04-08**|**CAFP: A Post-Processing Framework for Group Fairness via Counterfactual Model Averaging**|Irina Arévalo et.al.|[2604.07009](http://arxiv.org/abs/2604.07009)|null|
 |**2026-04-08**|**AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power**|Anbang Ruan et.al.|[2604.07007](http://arxiv.org/abs/2604.07007)|null|
-|**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
+|**2026-04-13**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
 |**2026-04-06**|**RegGuard: Legitimacy and Fairness Enforcement for Optimistic Rollups**|Zhenhang Shang et.al.|[2604.04748](http://arxiv.org/abs/2604.04748)|null|
 |**2026-04-05**|**Governance-Constrained Agentic AI: Blockchain-Enforced Human Oversight for Safety-Critical Wildfire Monitoring**|Ali Akarma et.al.|[2604.04265](http://arxiv.org/abs/2604.04265)|null|
 |**2026-04-04**|**LiquiLM: Bridging the Semantic Gap in Liquidity Flaw Audit via DCN and LLMs**|Zekai Liu et.al.|[2604.03860](http://arxiv.org/abs/2604.03860)|null|
@@ -1598,6 +1631,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation**|Lester James V. Miranda et.al.|[2604.11290](http://arxiv.org/abs/2604.11290)|null|
+|**2026-04-11**|**CircuitSynth: Reliable Synthetic Data Generation**|Zehua Cheng et.al.|[2604.10114](http://arxiv.org/abs/2604.10114)|null|
+|**2026-04-11**|**Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models**|Yu Jiang et.al.|[2604.10095](http://arxiv.org/abs/2604.10095)|null|
+|**2026-04-10**|**BLPR: Robust License Plate Recognition under Viewpoint and Illumination Variations via Confidence-Driven VLM Fallback**|Guillermo Auza Banegas et.al.|[2604.09927](http://arxiv.org/abs/2604.09927)|null|
 |**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|null|
 |**2026-04-10**|**SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data**|Qingwen Zhang et.al.|[2604.09411](http://arxiv.org/abs/2604.09411)|null|
 |**2026-04-10**|**Synthesizing real-world distributions from high-dimensional Gaussian Noise with Fully Connected Neural Network**|Joanna Komorniczak et.al.|[2604.09091](http://arxiv.org/abs/2604.09091)|null|
