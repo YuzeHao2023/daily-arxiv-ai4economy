@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
+|**2026-04-14**|**Partial majorization and Schur concave functions on the sets of quantum and classical states**|M. E. Shirokov et.al.|[2604.13033](http://arxiv.org/abs/2604.13033)|null|
+|**2026-04-14**|**Obscured at the Core: Evidence for Nuclear Dust in Reddened Type-1 AGN**|Miguel A. Montalvo Hernandez et.al.|[2604.13031](http://arxiv.org/abs/2604.13031)|null|
+|**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
+|**2026-04-14**|**Visual Preference Optimization with Rubric Rewards**|Ya-Qi Yu et.al.|[2604.13029](http://arxiv.org/abs/2604.13029)|null|
+|**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
+|**2026-04-14**|**Reassessing planetary composition: Evidence of rock-dominated envelopes in Uranus and Neptune**|Vanesa Ramirez et.al.|[2604.13020](http://arxiv.org/abs/2604.13020)|null|
+|**2026-04-14**|**Finite element approximation of an anisotropic porous medium equation with fractional pressure**|Stefano Fronzoni et.al.|[2604.13014](http://arxiv.org/abs/2604.13014)|null|
+|**2026-04-14**|**Cosmologically viable non-polynomial quasi-topological gravity: explicit models, $Λ$ CDM limit and observational constraints**|Emmanuel N. Saridakis et.al.|[2604.13002](http://arxiv.org/abs/2604.13002)|null|
+|**2026-04-14**|**Agentic Discovery with Active Hypothesis Exploration for Visual Recognition**|Jaywon Koo et.al.|[2604.12999](http://arxiv.org/abs/2604.12999)|null|
 |**2026-04-13**|**Diffusing diffusivity model with dichotomous noise**|Dongho Lee et.al.|[2604.11800](http://arxiv.org/abs/2604.11800)|null|
 |**2026-04-13**|**Many-Body Super- and Subradiance in Ordered Atomic Arrays**|Alec Douglas et.al.|[2604.11795](http://arxiv.org/abs/2604.11795)|null|
 |**2026-04-13**|**The nature of tilted supercritical accretion discs**|P. Chris Fragile et.al.|[2604.11794](http://arxiv.org/abs/2604.11794)|null|
@@ -564,6 +574,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Forecasting Oil Prices Across the Distribution: A Quantile VAR Approach**|Hilde C. Bjornland et.al.|[2604.12927](http://arxiv.org/abs/2604.12927)|null|
+|**2026-04-14**|**From quantum to quantum-inspired: the LogQ algorithm as a non-linear continuous relaxation of variables method**|Jérémie Messud et.al.|[2604.12925](http://arxiv.org/abs/2604.12925)|null|
+|**2026-04-14**|**Emergence of Statistical Financial Factors by a Diffusion Process**|Jose Negrete et.al.|[2604.12197](http://arxiv.org/abs/2604.12197)|null|
+|**2026-04-13**|**A Decomposition Method for LQ Conditional McKean-Vlasov Control Problems with Random Coefficients**|Onésime Hounkpe et.al.|[2604.12114](http://arxiv.org/abs/2604.12114)|null|
+|**2026-04-13**|**When Forecast Accuracy Fails: Rank Correlation and Decision Quality in Multi-Market Battery Storage Optimization**|Alessandro Falezza et.al.|[2604.12082](http://arxiv.org/abs/2604.12082)|null|
 |**2026-04-13**|**A Comparative Study of Hybrid Quantum and Classical Genetic Algorithms in Portfolio Optimization**|Romeu Rossi Junior et.al.|[2604.11667](http://arxiv.org/abs/2604.11667)|null|
 |**2026-04-13**|**Risk-Constrained Kelly for Mutually Exclusive Outcomes: CRRA Support Invariance and Logarithmic One-Dimensional Calibration**|Christopher D. Long et.al.|[2604.11577](http://arxiv.org/abs/2604.11577)|null|
 |**2026-04-13**|**A Counterfactual Diagnostic Framework for Explaining KS Deterioration in Credit Risk Model Validation**|Yiqing Wang et.al.|[2604.11561](http://arxiv.org/abs/2604.11561)|null|
@@ -953,6 +968,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
+|**2026-04-13**|**Karhunen Loève Expansions of Hilbert Space-Valued Random Elements**|Trajan Murphy et.al.|[2604.12042](http://arxiv.org/abs/2604.12042)|null|
 |**2026-04-11**|**On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk**|Nolan Alexander et.al.|[2604.10375](http://arxiv.org/abs/2604.10375)|null|
 |**2026-04-11**|**Full-polarization millimeter wavelength variability of Sagittarius A* during the 2018 EHT campaign**|Ezequiel Albentosa-Ruiz et.al.|[2604.10287](http://arxiv.org/abs/2604.10287)|null|
 |**2026-04-10**|**QARIMA: A Quantum Approach To Classical Time Series Analysis**|Nishikanta Mohanty et.al.|[2604.08277](http://arxiv.org/abs/2604.08277)|null|
@@ -1037,9 +1054,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-13**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al.|[2604.11440](http://arxiv.org/abs/2604.11440)|null|
+|**2026-04-14**|**MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games**|Shufang Lin et.al.|[2604.12700](http://arxiv.org/abs/2604.12700)|null|
+|**2026-04-14**|**Two Sequence-Form Interior-Point Differentiable Path-Following Method to Compute Nash Equilibria**|Yuqing Hou et.al.|[2604.12558](http://arxiv.org/abs/2604.12558)|null|
+|**2026-04-14**|**A Heterogeneous Dual-Network Framework for Emergency Delivery UAVs: Communication Assurance and Path Planning Coordination**|Ping Huang et.al.|[2604.12501](http://arxiv.org/abs/2604.12501)|null|
+|**2026-04-14**|**How memory can affect collective and cooperative behaviors in an LLM-Based Social Particle Swarm**|Taisei Hishiki et.al.|[2604.12250](http://arxiv.org/abs/2604.12250)|null|
+|**2026-04-14**|**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**|Qiang Wan et.al.|[2604.11440](http://arxiv.org/abs/2604.11440)|null|
 |**2026-04-13**|**Mechanism Design for Investment Regulation under Herding**|Huisheng Wang et.al.|[2604.11100](http://arxiv.org/abs/2604.11100)|null|
-|**2026-04-13**|**EvoNash-MARL: A Closed-Loop Multi-Agent Reinforcement Learning Framework for Medium-Horizon Equity Allocation**|Chongliu Jia et.al.|[2604.10911](http://arxiv.org/abs/2604.10911)|null|
+|**2026-04-14**|**EvoNash-MARL: A Closed-Loop Multi-Agent Reinforcement Learning Framework for Medium-Horizon Equity Allocation**|Chongliu Jia et.al.|[2604.10911](http://arxiv.org/abs/2604.10911)|null|
 |**2026-04-12**|**FEDBUD: Joint Incentive and Privacy Optimization for Resource-Constrained Federated Learning**|Tao Liu et.al.|[2604.10499](http://arxiv.org/abs/2604.10499)|null|
 |**2026-04-11**|**Emergence of Stereotypes and Affective Polarization from Belief Network Dynamics**|Ozgur Can Seckin et.al.|[2604.10251](http://arxiv.org/abs/2604.10251)|null|
 |**2026-04-11**|**Distributed Optimization-Learning with Graph Transformers for Terahertz Cell-Free Integrated Sensing and Communication Systems**|Guangchen Wang et.al.|[2604.09981](http://arxiv.org/abs/2604.09981)|null|
@@ -1441,6 +1462,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains**|Shuyi Miao et.al.|[2604.12329](http://arxiv.org/abs/2604.12329)|null|
+|**2026-04-14**|**BlazingAML: High-Throughput Anti-Money Laundering (AML) via Multi-Stage Graph Mining**|Haojie Ye et.al.|[2604.12241](http://arxiv.org/abs/2604.12241)|null|
 |**2026-04-13**|**A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa**|Isabel Agadagba et.al.|[2604.11566](http://arxiv.org/abs/2604.11566)|null|
 |**2026-04-11**|**Emergent Topological Universality and Marginal Replica Symmetry Breaking in Gauge-Correlated Spin Glasses**|Alok Yadav et.al.|[2604.10309](http://arxiv.org/abs/2604.10309)|null|
 |**2026-04-11**|**GasLiteAA: Optimizing ERC-4337 for Efficient and Secure Gas Sponsorship**|Hongxu Su et.al.|[2604.10160](http://arxiv.org/abs/2604.10160)|null|
@@ -1631,6 +1654,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding**|Tanzila Rahman et.al.|[2604.12335](http://arxiv.org/abs/2604.12335)|null|
+|**2026-04-14**|**An Empirical Comparison of Methods for Quantifying the Similarity of Numeric Datasets**|Marieke Stolte et.al.|[2604.12327](http://arxiv.org/abs/2604.12327)|null|
 |**2026-04-13**|**Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation**|Lester James V. Miranda et.al.|[2604.11290](http://arxiv.org/abs/2604.11290)|null|
 |**2026-04-11**|**CircuitSynth: Reliable Synthetic Data Generation**|Zehua Cheng et.al.|[2604.10114](http://arxiv.org/abs/2604.10114)|null|
 |**2026-04-11**|**Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models**|Yu Jiang et.al.|[2604.10095](http://arxiv.org/abs/2604.10095)|null|
