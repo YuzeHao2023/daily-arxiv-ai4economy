@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Using reasoning LLMs to extract SDOH events from clinical notes**|Ertan Doganl et.al.|[2604.13502](http://arxiv.org/abs/2604.13502)|null|
 |**2026-04-07**|**STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System**|Wenxiao Zhang et.al.|[2604.08597](http://arxiv.org/abs/2604.08597)|null|
 |**2026-04-04**|**VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with LLMs**|Shu Chen et.al.|[2604.03855](http://arxiv.org/abs/2604.03855)|null|
 |**2026-03-18**|**CN-Buzz2Portfolio: A Chinese-Market Dataset and Benchmark for LLM-Based Macro and Sector Asset Allocation from Daily Trending Financial News**|Liyuan Chen et.al.|[2603.22305](http://arxiv.org/abs/2603.22305)|null|
@@ -39,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data**|Zhong-Bo Kang et.al.|[2604.14133](http://arxiv.org/abs/2604.14133)|null|
+|**2026-04-15**|**Time delay as a probe of multiple photon spheres**|Kajol Paithankar et.al.|[2604.14132](http://arxiv.org/abs/2604.14132)|null|
+|**2026-04-15**|**Rhetorical Questions in LLM Representations: A Linear Probing Study**|Louie Hong Yao et.al.|[2604.14128](http://arxiv.org/abs/2604.14128)|null|
+|**2026-04-15**|**Sub-micromolar imaging of intrinsic chromophores by two-photon photothermal microscopy captures mitochondrial response to chemotherapy**|Nathaniel Hai et.al.|[2604.14120](http://arxiv.org/abs/2604.14120)|null|
+|**2026-04-15**|**Single Plane Spatial Mode Sorter**|Khen Cohen et.al.|[2604.14119](http://arxiv.org/abs/2604.14119)|null|
+|**2026-04-15**|**Interpretable Stylistic Variation in Human and LLM Writing Across Genres, Models, and Decoding Strategies**|Swati Rallapalli et.al.|[2604.14111](http://arxiv.org/abs/2604.14111)|null|
+|**2026-04-15**|**Simultaneous TRACERS and THEMIS Observations of Reversed Cusp Ion Dispersions and Dual-Lobe Reconnection**|M. Øieroset et.al.|[2604.14104](http://arxiv.org/abs/2604.14104)|null|
+|**2026-04-15**|**Persistent Iterators with Value Semantics**|Yihe Li et.al.|[2604.14072](http://arxiv.org/abs/2604.14072)|null|
+|**2026-04-15**|**Observation of light production by charged particles in WLS fibers**|I. Alekseev et.al.|[2604.14060](http://arxiv.org/abs/2604.14060)|null|
+|**2026-04-15**|**Specific heat of thermally driven chains**|Michiel Gautama et.al.|[2604.14056](http://arxiv.org/abs/2604.14056)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
 |**2026-04-14**|**Partial majorization and Schur concave functions on the sets of quantum and classical states**|M. E. Shirokov et.al.|[2604.13033](http://arxiv.org/abs/2604.13033)|null|
 |**2026-04-14**|**Obscured at the Core: Evidence for Nuclear Dust in Reddened Type-1 AGN**|Miguel A. Montalvo Hernandez et.al.|[2604.13031](http://arxiv.org/abs/2604.13031)|null|
@@ -574,6 +585,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Higher-order ATM asymptotics for the CGMY model via the characteristic function**|Allen Hoffmeyer et.al.|[2604.13798](http://arxiv.org/abs/2604.13798)|null|
+|**2026-04-15**|**Testing Alpha in High-Dimensional Conditional Time-Varying Factor Models with Dependent Observations**|Long Feng et.al.|[2604.13772](http://arxiv.org/abs/2604.13772)|null|
+|**2026-04-15**|**RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management**|Renqi Chen et.al.|[2604.13531](http://arxiv.org/abs/2604.13531)|null|
+|**2026-04-15**|**Interpretable Systematic Risk around the Clock**|Songrun He et.al.|[2604.13458](http://arxiv.org/abs/2604.13458)|null|
+|**2026-04-14**|**Against a Universal Trading Strategy: No-Arbitrage, No-Free-Lunch, and Adversarial Cantor Diagonalization**|Karl Svozil et.al.|[2604.13334](http://arxiv.org/abs/2604.13334)|null|
+|**2026-04-14**|**Topological Complexity and Phase Space Stability: A Persistent Homology Approach to Cryptocurrency Risk**|Gabriel Santana et.al.|[2604.13311](http://arxiv.org/abs/2604.13311)|null|
+|**2026-04-14**|**Which Voices Move Markets? Speaker Identity and the Cross-Section of Post-Earnings Returns**|Karmanpartap Singh Sidhu et.al.|[2604.13260](http://arxiv.org/abs/2604.13260)|null|
 |**2026-04-14**|**Forecasting Oil Prices Across the Distribution: A Quantile VAR Approach**|Hilde C. Bjornland et.al.|[2604.12927](http://arxiv.org/abs/2604.12927)|null|
 |**2026-04-14**|**From quantum to quantum-inspired: the LogQ algorithm as a non-linear continuous relaxation of variables method**|Jérémie Messud et.al.|[2604.12925](http://arxiv.org/abs/2604.12925)|null|
 |**2026-04-14**|**Emergence of Statistical Financial Factors by a Diffusion Process**|Jose Negrete et.al.|[2604.12197](http://arxiv.org/abs/2604.12197)|null|
@@ -1054,6 +1072,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus**|Zijian Zhao et.al.|[2604.13472](http://arxiv.org/abs/2604.13472)|null|
 |**2026-04-14**|**MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games**|Shufang Lin et.al.|[2604.12700](http://arxiv.org/abs/2604.12700)|null|
 |**2026-04-14**|**Two Sequence-Form Interior-Point Differentiable Path-Following Method to Compute Nash Equilibria**|Yuqing Hou et.al.|[2604.12558](http://arxiv.org/abs/2604.12558)|null|
 |**2026-04-14**|**A Heterogeneous Dual-Network Framework for Emergency Delivery UAVs: Communication Assurance and Path Planning Coordination**|Ping Huang et.al.|[2604.12501](http://arxiv.org/abs/2604.12501)|null|
@@ -1416,6 +1435,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Edge-Side Residual Timing and Frequency Control for Software-Defined Ground Stations in 5G NTN Uplinks**|Longji He et.al.|[2604.13984](http://arxiv.org/abs/2604.13984)|null|
 |**2026-04-09**|**The Sustainability Gap in Robotics: A Large-Scale Survey of Sustainability Awareness in 50,000 Research Articles**|Antun Skuric et.al.|[2604.07921](http://arxiv.org/abs/2604.07921)|null|
 |**2026-04-07**|**Bi-Level Optimization for Single Domain Generalization**|Marzi Heidari et.al.|[2604.06349](http://arxiv.org/abs/2604.06349)|null|
 |**2026-04-07**|**Semantic Communication with an LLM-enabled Knowledge Base**|Wuxia Hu et.al.|[2604.05504](http://arxiv.org/abs/2604.05504)|null|
@@ -1462,6 +1482,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**Making AI Compliance Evidence Machine-Readable**|Rodrigo Cilla Ugarte et.al.|[2604.13767](http://arxiv.org/abs/2604.13767)|null|
+|**2026-04-15**|**V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution**|Jingwen Zhang et.al.|[2604.13611](http://arxiv.org/abs/2604.13611)|null|
+|**2026-04-13**|**Synthetic Tabular Generators Fail to Preserve Behavioral Fraud Patterns: A Benchmark on Temporal, Velocity, and Multi-Account Signals**|Bhavana Sajja et.al.|[2604.13125](http://arxiv.org/abs/2604.13125)|null|
 |**2026-04-14**|**UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains**|Shuyi Miao et.al.|[2604.12329](http://arxiv.org/abs/2604.12329)|null|
 |**2026-04-14**|**BlazingAML: High-Throughput Anti-Money Laundering (AML) via Multi-Stage Graph Mining**|Haojie Ye et.al.|[2604.12241](http://arxiv.org/abs/2604.12241)|null|
 |**2026-04-13**|**A Cross-Country Evaluation of Sentiment Toward Digital Payment Systems in Africa**|Isabel Agadagba et.al.|[2604.11566](http://arxiv.org/abs/2604.11566)|null|
@@ -1654,6 +1678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
 |**2026-04-14**|**All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding**|Tanzila Rahman et.al.|[2604.12335](http://arxiv.org/abs/2604.12335)|null|
 |**2026-04-14**|**An Empirical Comparison of Methods for Quantifying the Similarity of Numeric Datasets**|Marieke Stolte et.al.|[2604.12327](http://arxiv.org/abs/2604.12327)|null|
 |**2026-04-13**|**Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation**|Lester James V. Miranda et.al.|[2604.11290](http://arxiv.org/abs/2604.11290)|null|
