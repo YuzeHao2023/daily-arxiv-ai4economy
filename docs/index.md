@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
+|**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|
+|**2026-04-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al.|[2604.15291](http://arxiv.org/abs/2604.15291)|null|
+|**2026-04-16**|**Matrices over Finite Fields of Characteristic 2 as Sums of Diagonalizable and Square-Zero Matrices**|Peter Danchev et.al.|[2604.15286](http://arxiv.org/abs/2604.15286)|null|
+|**2026-04-16**|**How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations**|Nouhaila Innan et.al.|[2604.15273](http://arxiv.org/abs/2604.15273)|null|
+|**2026-04-16**|**Taming the Aretakis instability: extremal black holes with multi-degenerate horizons**|Shreyansh Agrawal et.al.|[2604.15260](http://arxiv.org/abs/2604.15260)|null|
+|**2026-04-16**|**Studies of the Modular COsmic Ray Detector (MCORD) using an automatic temperature control loop to maintain constant gain parameters of semiconductor SiPM photomultipliers**|M. Bielewicz et.al.|[2604.15250](http://arxiv.org/abs/2604.15250)|null|
+|**2026-04-16**|**Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark**|Quentin Schaeverbeke et.al.|[2604.15213](http://arxiv.org/abs/2604.15213)|null|
+|**2026-04-16**|**Tracing evolutionary pathways of bar-driven quenching in local Universe disc galaxies**|D Renu et.al.|[2604.15208](http://arxiv.org/abs/2604.15208)|null|
+|**2026-04-16**|**$L^p$ -Hodge decomposition and global integral estimates on the Cartan group**|Annalisa Baldi et.al.|[2604.15206](http://arxiv.org/abs/2604.15206)|null|
 |**2026-04-15**|**AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data**|Zhong-Bo Kang et.al.|[2604.14133](http://arxiv.org/abs/2604.14133)|null|
 |**2026-04-15**|**Time delay as a probe of multiple photon spheres**|Kajol Paithankar et.al.|[2604.14132](http://arxiv.org/abs/2604.14132)|null|
 |**2026-04-15**|**Rhetorical Questions in LLM Representations: A Linear Probing Study**|Louie Hong Yao et.al.|[2604.14128](http://arxiv.org/abs/2604.14128)|null|
@@ -585,6 +595,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
+|**2026-04-16**|**LR-Robot: An Human-in-the-Loop LLM Framework for Systematic Literature Reviews with Applications in Financial Research**|Wei Wei et.al.|[2604.14793](http://arxiv.org/abs/2604.14793)|null|
+|**2026-04-16**|**The Acoustic Camouflage Phenomenon: Re-evaluating Speech Features for Financial Risk Prediction**|Dhruvin Dungrani et.al.|[2604.14619](http://arxiv.org/abs/2604.14619)|null|
+|**2026-04-16**|**From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention**|Fernando Spadea et.al.|[2604.14583](http://arxiv.org/abs/2604.14583)|null|
+|**2026-04-16**|**Improving Machine Learning Performance with Synthetic Augmentation**|Mel Sohm et.al.|[2604.14498](http://arxiv.org/abs/2604.14498)|null|
 |**2026-04-15**|**Higher-order ATM asymptotics for the CGMY model via the characteristic function**|Allen Hoffmeyer et.al.|[2604.13798](http://arxiv.org/abs/2604.13798)|null|
 |**2026-04-15**|**Testing Alpha in High-Dimensional Conditional Time-Varying Factor Models with Dependent Observations**|Long Feng et.al.|[2604.13772](http://arxiv.org/abs/2604.13772)|null|
 |**2026-04-15**|**RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management**|Renqi Chen et.al.|[2604.13531](http://arxiv.org/abs/2604.13531)|null|
@@ -1072,6 +1087,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Decoupling Identity from Utility: Privacy-by-Design Frameworks for Financial Ecosystems**|Ifayoyinsola Ibikunle et.al.|[2604.14495](http://arxiv.org/abs/2604.14495)|null|
+|**2026-04-15**|**Optimistic Policy Learning under Pessimistic Adversaries with Regret and Violation Guarantees**|Sourav Ganguly et.al.|[2604.14243](http://arxiv.org/abs/2604.14243)|null|
+|**2026-04-15**|**Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making**|Pramudita Satria Palar et.al.|[2604.14240](http://arxiv.org/abs/2604.14240)|null|
 |**2026-04-15**|**Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus**|Zijian Zhao et.al.|[2604.13472](http://arxiv.org/abs/2604.13472)|null|
 |**2026-04-14**|**MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games**|Shufang Lin et.al.|[2604.12700](http://arxiv.org/abs/2604.12700)|null|
 |**2026-04-14**|**Two Sequence-Form Interior-Point Differentiable Path-Following Method to Compute Nash Equilibria**|Yuqing Hou et.al.|[2604.12558](http://arxiv.org/abs/2604.12558)|null|
@@ -1482,6 +1500,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|null|
+|**2026-04-16**|**From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention**|Fernando Spadea et.al.|[2604.14583](http://arxiv.org/abs/2604.14583)|null|
+|**2026-04-14**|**Graph-Based Fraud Detection with Dual-Path Graph Filtering**|Wei He et.al.|[2604.14235](http://arxiv.org/abs/2604.14235)|null|
+|**2026-04-14**|**Shapley Value-Guided Adaptive Ensemble Learning for Explainable Financial Fraud Detection with U.S. Regulatory Compliance Validation**|Mohammad Nasir Uddin et.al.|[2604.14231](http://arxiv.org/abs/2604.14231)|null|
 |**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
 |**2026-04-15**|**Making AI Compliance Evidence Machine-Readable**|Rodrigo Cilla Ugarte et.al.|[2604.13767](http://arxiv.org/abs/2604.13767)|null|
 |**2026-04-15**|**V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution**|Jingwen Zhang et.al.|[2604.13611](http://arxiv.org/abs/2604.13611)|null|
@@ -1678,6 +1700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Discovering Novel LLM Experts via Task-Capability Coevolution**|Andrew Dai et.al.|[2604.14969](http://arxiv.org/abs/2604.14969)|null|
+|**2026-04-16**|**Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning**|Thanh Linh Nguyen et.al.|[2604.14886](http://arxiv.org/abs/2604.14886)|null|
+|**2026-04-16**|**Generative Modeling of Complex-Valued Brain MRI Data**|Marco Schlimbach et.al.|[2604.14800](http://arxiv.org/abs/2604.14800)|null|
+|**2026-04-15**|**Digital Guardians: The Past and The Future of Cyber-Physical Resilience**|Saurabh Bagchi et.al.|[2604.14360](http://arxiv.org/abs/2604.14360)|null|
 |**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
 |**2026-04-14**|**All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding**|Tanzila Rahman et.al.|[2604.12335](http://arxiv.org/abs/2604.12335)|null|
 |**2026-04-14**|**An Empirical Comparison of Methods for Quantifying the Similarity of Numeric Datasets**|Marieke Stolte et.al.|[2604.12327](http://arxiv.org/abs/2604.12327)|null|
