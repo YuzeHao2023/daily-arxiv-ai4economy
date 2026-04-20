@@ -54,6 +54,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**TTV-Not-So-Fast: Uniqueness and Degeneracy in Perturbing Planet Parameters**|Caleb Lammers et.al.|[2604.16297](http://arxiv.org/abs/2604.16297)|null|
+|**2026-04-17**|**Bounded cohomology classes from differential forms**|Gian Maria Dall'Ara et.al.|[2604.16289](http://arxiv.org/abs/2604.16289)|null|
+|**2026-04-17**|**ASMR-Bench: Auditing for Sabotage in ML Research**|Eric Gan et.al.|[2604.16286](http://arxiv.org/abs/2604.16286)|null|
+|**2026-04-17**|**No Universal Courtesy: A Cross-Linguistic, Multi-Model Study of Politeness Effects on LLMs Using the PLUM Corpus**|Hitesh Mehta et.al.|[2604.16275](http://arxiv.org/abs/2604.16275)|null|
+|**2026-04-17**|**FL-MHSM: Spatially-adaptive Fusion and Ensemble Learning for Flood-Landslide Multi-Hazard Susceptibility Mapping at Regional Scale**|Aswathi Mundayatt et.al.|[2604.16265](http://arxiv.org/abs/2604.16265)|null|
+|**2026-04-17**|**Information Router for Mitigating Modality Dominance in Vision-Language Models**|Seulgi Kim et.al.|[2604.16264](http://arxiv.org/abs/2604.16264)|null|
+|**2026-04-17**|**Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap**|Yige Xu et.al.|[2604.16256](http://arxiv.org/abs/2604.16256)|null|
+|**2026-04-17**|**Prebiotic Chemistry Insights for Dragonfly II: Thermodynamic Favorability of Nucleobases, Ribose, and Fatty Acids in Selk Crater on Titan**|Ishaan Madan et.al.|[2604.16249](http://arxiv.org/abs/2604.16249)|null|
+|**2026-04-17**|**Adaptive multi-fidelity optimization with fast learning rates**|Come Fiegel et.al.|[2604.16239](http://arxiv.org/abs/2604.16239)|null|
+|**2026-04-17**|**TRON: Trainable, architecture-reconfigurable random optical neural networks**|Ziao Wang et.al.|[2604.16228](http://arxiv.org/abs/2604.16228)|null|
 |**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|null|
 |**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|
 |**2026-04-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al.|[2604.15291](http://arxiv.org/abs/2604.15291)|null|
@@ -611,6 +621,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Optimal Insurance Menu Design under the Expected-Value Premium Principle**|Xia Han et.al.|[2604.15881](http://arxiv.org/abs/2604.15881)|null|
+|**2026-04-17**|**Scattered Hypothesis Generation for Open-Ended Event Forecasting**|He Chang et.al.|[2604.15788](http://arxiv.org/abs/2604.15788)|null|
+|**2026-04-16**|**Spurious Predictability in Financial Machine Learning**|Sotirios D. Nikolopoulos et.al.|[2604.15531](http://arxiv.org/abs/2604.15531)|null|
+|**2026-04-16**|**Broken Symmetry, Conservation Law, and Scaling in Accumulated Stock Returns -- a Modified Jones-Faddy Skew t-Distribution Perspective**|Arshia Ghasemi et.al.|[2604.15519](http://arxiv.org/abs/2604.15519)|null|
+|**2026-04-16**|**Risk-Sensitive Investment Management via Free Energy-Entropy Duality**|Sebastien Lleo et.al.|[2604.15463](http://arxiv.org/abs/2604.15463)|null|
 |**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
 |**2026-04-16**|**LR-Robot: An Human-in-the-Loop LLM Framework for Systematic Literature Reviews with Applications in Financial Research**|Wei Wei et.al.|[2604.14793](http://arxiv.org/abs/2604.14793)|null|
 |**2026-04-16**|**The Acoustic Camouflage Phenomenon: Re-evaluating Speech Features for Financial Risk Prediction**|Dhruvin Dungrani et.al.|[2604.14619](http://arxiv.org/abs/2604.14619)|null|
@@ -1019,6 +1034,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**MF-toolkit: A High-Performance Python Library for Multifractal Analysis with Automated Crossover Detection, Source Identification and Application to Gravitational Waves Data**|Nahuel Mendez et.al.|[2604.16257](http://arxiv.org/abs/2604.16257)|null|
+|**2026-04-17**|**Modern Structure-Aware Simplicial Spatiotemporal Neural Network**|Zhaobo Hu et.al.|[2604.15833](http://arxiv.org/abs/2604.15833)|null|
 |**2026-04-14**|**ESN-DAGMM: A Lightweight Framework for Unsupervised Time-Series Data Monitoring in 5G O-RAN Networks**|Andrew J Chen et.al.|[2604.12972](http://arxiv.org/abs/2604.12972)|null|
 |**2026-04-13**|**Karhunen Loève Expansions of Hilbert Space-Valued Random Elements**|Trajan Murphy et.al.|[2604.12042](http://arxiv.org/abs/2604.12042)|null|
 |**2026-04-11**|**On the Structure of Risk Contribution: A Leave-One-Out Decomposition into Inherent and Correlation Risk**|Nolan Alexander et.al.|[2604.10375](http://arxiv.org/abs/2604.10375)|null|
@@ -1107,8 +1124,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Zero-Shot Scalable Resilience in UAV Swarms: A Decentralized Imitation Learning Framework with Physics-Informed Graph Interactions**|Huan Lin et.al.|[2604.15762](http://arxiv.org/abs/2604.15762)|null|
+|**2026-04-17**|**KWBench: Measuring Unprompted Problem Recognition in Knowledge Work**|Ankit Maloo et.al.|[2604.15760](http://arxiv.org/abs/2604.15760)|null|
+|**2026-04-17**|**The Price of Paranoia: Robust Risk-Sensitive Cooperation in Non-Stationary Multi-Agent Reinforcement Learning**|Deep Kumar Ganguly et.al.|[2604.15695](http://arxiv.org/abs/2604.15695)|null|
+|**2026-04-17**|**Contact-Aware Planning and Control of Continuum Robots in Highly Constrained Environments**|Aedan Mangan et.al.|[2604.15638](http://arxiv.org/abs/2604.15638)|null|
 |**2026-04-16**|**Decoupling Identity from Utility: Privacy-by-Design Frameworks for Financial Ecosystems**|Ifayoyinsola Ibikunle et.al.|[2604.14495](http://arxiv.org/abs/2604.14495)|null|
-|**2026-04-15**|**Optimistic Policy Learning under Pessimistic Adversaries with Regret and Violation Guarantees**|Sourav Ganguly et.al.|[2604.14243](http://arxiv.org/abs/2604.14243)|null|
+|**2026-04-17**|**Optimistic Policy Learning under Pessimistic Adversaries with Regret and Violation Guarantees**|Sourav Ganguly et.al.|[2604.14243](http://arxiv.org/abs/2604.14243)|null|
 |**2026-04-15**|**Interpretable and Explainable Surrogate Modeling for Simulations: A State-of-the-Art Survey and Perspectives on Explainable AI for Decision-Making**|Pramudita Satria Palar et.al.|[2604.14240](http://arxiv.org/abs/2604.14240)|null|
 |**2026-04-15**|**Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus**|Zijian Zhao et.al.|[2604.13472](http://arxiv.org/abs/2604.13472)|null|
 |**2026-04-14**|**MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games**|Shufang Lin et.al.|[2604.12700](http://arxiv.org/abs/2604.12700)|null|
@@ -1526,6 +1547,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Early Detection of Acute Myeloid Leukemia (AML) Using YOLOv12 Deep Learning Model**|Enas E. Ahmed et.al.|[2604.16082](http://arxiv.org/abs/2604.16082)|null|
+|**2026-04-17**|**Evidence Sufficiency Under Delayed Ground Truth: Proxy Monitoring for Risk Decision Systems**|Oleg Solozobov et.al.|[2604.15740](http://arxiv.org/abs/2604.15740)|null|
+|**2026-04-17**|**BlockRaFT: A Distributed Framework for Fault-Tolerant and Scalable Blockchain Nodes**|Manaswini Piduguralla et.al.|[2604.15731](http://arxiv.org/abs/2604.15731)|null|
+|**2026-04-16**|**Evaluating LLM Simulators as Differentially Private Data Generators**|Nassima M. Bouzid et.al.|[2604.15461](http://arxiv.org/abs/2604.15461)|null|
 |**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|null|
 |**2026-04-16**|**From Risk to Rescue: An Agentic Survival Analysis Framework for Liquidation Prevention**|Fernando Spadea et.al.|[2604.14583](http://arxiv.org/abs/2604.14583)|null|
 |**2026-04-14**|**Graph-Based Fraud Detection with Dual-Path Graph Filtering**|Wei He et.al.|[2604.14235](http://arxiv.org/abs/2604.14235)|null|
@@ -1728,6 +1753,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Evaluating quality in synthetic data generation for large tabular health datasets**|Jean-Baptiste Escudié et.al.|[2604.15961](http://arxiv.org/abs/2604.15961)|null|
+|**2026-04-17**|**C-Mining: Unsupervised Discovery of Seeds for Cultural Data Synthesis via Geometric Misalignment**|Pufan Zeng et.al.|[2604.15675](http://arxiv.org/abs/2604.15675)|null|
 |**2026-04-16**|**Discovering Novel LLM Experts via Task-Capability Coevolution**|Andrew Dai et.al.|[2604.14969](http://arxiv.org/abs/2604.14969)|null|
 |**2026-04-16**|**Cooperate to Compete: Strategic Data Generation and Incentivization Framework for Coopetitive Cross-Silo Federated Learning**|Thanh Linh Nguyen et.al.|[2604.14886](http://arxiv.org/abs/2604.14886)|null|
 |**2026-04-16**|**Generative Modeling of Complex-Valued Brain MRI Data**|Marco Schlimbach et.al.|[2604.14800](http://arxiv.org/abs/2604.14800)|null|
