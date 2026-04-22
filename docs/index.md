@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**IndiaFinBench: An Evaluation Benchmark for Large Language Model Performance on Indian Financial Regulatory Text**|Rajveer Singh Pall et.al.|[2604.19298](http://arxiv.org/abs/2604.19298)|null|
+|**2026-04-21**|**SAHM: A Benchmark for Arabic Financial and Shari'ah-Compliant Reasoning**|Rania Elbadry et.al.|[2604.19098](http://arxiv.org/abs/2604.19098)|null|
 |**2026-04-15**|**Using reasoning LLMs to extract SDOH events from clinical notes**|Ertan Doganl et.al.|[2604.13502](http://arxiv.org/abs/2604.13502)|null|
 |**2026-04-07**|**STIndex: A Context-Aware Multi-Dimensional Spatiotemporal Information Extraction System**|Wenxiao Zhang et.al.|[2604.08597](http://arxiv.org/abs/2604.08597)|null|
 |**2026-04-04**|**VectraFlow: Long-Horizon Semantic Processing over Data and Event Streams with LLMs**|Shu Chen et.al.|[2604.03855](http://arxiv.org/abs/2604.03855)|null|
@@ -40,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Phase Transitions in the Fluctuations of Functionals of Random Neural Networks**|Simmaco Di Lillo et.al.|[2604.19738](http://arxiv.org/abs/2604.19738)|null|
+|**2026-04-21**|**Juniper Green and the Gallai-Edmonds Decomposition**|Tony Zeng et.al.|[2604.19721](http://arxiv.org/abs/2604.19721)|null|
+|**2026-04-21**|**Networked Tracking of Multiple Moving Targets in 6G Network**|Yanmo Hu et.al.|[2604.19709](http://arxiv.org/abs/2604.19709)|null|
+|**2026-04-21**|**Proximal Discontinuous Galerkin Methods for Variational Inequalities**|Alexandre Ern et.al.|[2604.19708](http://arxiv.org/abs/2604.19708)|null|
+|**2026-04-21**|**Recent Advances in Causal Analysis of the Stochastic Frontier Model**|Samuele Centorrino et.al.|[2604.19693](http://arxiv.org/abs/2604.19693)|null|
+|**2026-04-21**|**Is the `Known' Enough? An Integrated Machine Learning Framework for Eclipsing Binary Classification and Parameter Estimation Based on Well-Characterized Systems**|Burak Ulaş et.al.|[2604.19690](http://arxiv.org/abs/2604.19690)|null|
+|**2026-04-21**|**PREF-XAI: Preference-Based Personalized Rule Explanations of Black-Box Machine Learning Models**|Salvatore Greco et.al.|[2604.19684](http://arxiv.org/abs/2604.19684)|null|
+|**2026-04-21**|**Explicit counting of ideals in number fields of arbitrary degree**|Anton Fehnker et.al.|[2604.19681](http://arxiv.org/abs/2604.19681)|null|
+|**2026-04-21**|**Resolved UV-Optical HST Imaging and Spectral Energy Distribution Modeling of Nearby BAT Active Galactic Nuclei**|Connor Auge et.al.|[2604.19674](http://arxiv.org/abs/2604.19674)|null|
+|**2026-04-21**|**From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems**|Quang-Huy Nguyen et.al.|[2604.19663](http://arxiv.org/abs/2604.19663)|null|
 |**2026-04-20**|**Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs**|Kevin Murphy et.al.|[2604.18576](http://arxiv.org/abs/2604.18576)|null|
 |**2026-04-20**|**Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale**|A. Sophia Koepke et.al.|[2604.18572](http://arxiv.org/abs/2604.18572)|null|
 |**2026-04-20**|**Revisiting Active Sequential Prediction-Powered Mean Estimation**|Maria-Eleni Sfyraki et.al.|[2604.18569](http://arxiv.org/abs/2604.18569)|null|
@@ -615,6 +627,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Tuning in to Frequencies: How Global Assets Align U.S. Put-Call Parity Residuals**|Useong Shin et.al.|[2604.19605](http://arxiv.org/abs/2604.19605)|null|
+|**2026-04-21**|**The Cost of a Free Lunch: Evidence from U.S. Derivatives Markets**|Useong Shin et.al.|[2604.19604](http://arxiv.org/abs/2604.19604)|null|
+|**2026-04-21**|**Probabilistic Forecasting for Day-ahead Electricity Prices, Battery Trading Strategies and the Economic Evaluation of Predictive Accuracy**|Simon Hirsch et.al.|[2604.19580](http://arxiv.org/abs/2604.19580)|null|
+|**2026-04-21**|**Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity**|Farbod Zorriassatine et.al.|[2604.19538](http://arxiv.org/abs/2604.19538)|null|
+|**2026-04-21**|**Cross-Stock Predictability via LLM-Augmented Semantic Networks**|Yikuan Huang et.al.|[2604.19476](http://arxiv.org/abs/2604.19476)|null|
+|**2026-04-21**|**Orthogonal reparametrization of the Nelson-Siegel-Svensson interest rate curve model: conditioning, diagnostics, and identifiability**|Robert Flassig et.al.|[2604.19290](http://arxiv.org/abs/2604.19290)|null|
+|**2026-04-21**|**Structural Dynamics of G5 Stock Markets During Exogenous Shocks: A Random Matrix Theory-Based Complexity Gap Approach**|Kundan Mukhia et.al.|[2604.19107](http://arxiv.org/abs/2604.19107)|null|
+|**2026-04-20**|**Spatial Extremes at Scale: A Case Study of Surface Skin Temperature and Heat Risk in the United States**|Ben Seiyon Lee et.al.|[2604.18840](http://arxiv.org/abs/2604.18840)|null|
+|**2026-04-20**|**Evaluating Structured Strategy Backtests: Peer Benchmarks, Regime Timing, and Live Performance**|Chang Liu et.al.|[2604.18821](http://arxiv.org/abs/2604.18821)|null|
 |**2026-04-20**|**QRAFTI: An Agentic Framework for Empirical Research in Quantitative Finance**|Terence Lim et.al.|[2604.18500](http://arxiv.org/abs/2604.18500)|null|
 |**2026-04-20**|**Dissecting AI Trading: Behavioral Finance and Market Bubbles**|Shumiao Ouyang et.al.|[2604.18373](http://arxiv.org/abs/2604.18373)|null|
 |**2026-04-20**|**On the market-consistent valuation of health insurance liabilities**|Simon Hochgerner et.al.|[2604.18243](http://arxiv.org/abs/2604.18243)|null|
@@ -1036,6 +1057,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Time Series Augmented Generation for Financial Applications**|Anton Kolonin et.al.|[2604.19633](http://arxiv.org/abs/2604.19633)|null|
+|**2026-04-21**|**Positivity of a Hadamard Product**|Roger A. Horn et.al.|[2604.19602](http://arxiv.org/abs/2604.19602)|null|
+|**2026-04-21**|**Energy Efficient LSTM Accelerators for Embedded FPGAs through Parameterised Architecture Design**|Chao Qian et.al.|[2604.19293](http://arxiv.org/abs/2604.19293)|null|
+|**2026-04-19**|**On Solving the Multiple Variable Gapped Longest Common Subsequence Problem**|Marko Djukanović et.al.|[2604.18645](http://arxiv.org/abs/2604.18645)|null|
 |**2026-04-20**|**Recurrence analysis of quantum many-body dynamics**|Tomasz Szołdra et.al.|[2604.18446](http://arxiv.org/abs/2604.18446)|null|
 |**2026-04-17**|**MF-toolkit: A High-Performance Python Library for Multifractal Analysis with Automated Crossover Detection, Source Identification and Application to Gravitational Waves Data**|Nahuel Mendez et.al.|[2604.16257](http://arxiv.org/abs/2604.16257)|null|
 |**2026-04-17**|**Modern Structure-Aware Simplicial Spatiotemporal Neural Network**|Zhaobo Hu et.al.|[2604.15833](http://arxiv.org/abs/2604.15833)|null|
@@ -1125,6 +1150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Opinion polarization from compression-based decision making where agents optimize local complexity and global simplicity**|Alina Dubovskaya et.al.|[2604.18755](http://arxiv.org/abs/2604.18755)|null|
 |**2026-04-20**|**Beyond Pattern Matching: Seven Cross-Domain Techniques for Prompt Injection Detection**|Thamilvendhan Munirathinam et.al.|[2604.18248](http://arxiv.org/abs/2604.18248)|null|
 |**2026-04-20**|**Spatial dynamic modelling to understand how dendritic cell clustering affects T cell activation**|Domenic P. J. Germano et.al.|[2604.17786](http://arxiv.org/abs/2604.17786)|null|
 |**2026-04-19**|**MAGRPO: Accelerated MARL Training for Fluid Antenna-Assisted Wireless Network Optimization**|Wanzhe Wang et.al.|[2604.17379](http://arxiv.org/abs/2604.17379)|null|
@@ -1548,9 +1574,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift**|Saket Maganti et.al.|[2604.19514](http://arxiv.org/abs/2604.19514)|null|
+|**2026-04-21**|**Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges**|Ali Al-Kaswan et.al.|[2604.19354](http://arxiv.org/abs/2604.19354)|null|
+|**2026-04-21**|**Sherpa.ai Privacy-Preserving Multi-Party Entity Alignment without Intersection Disclosure for Noisy Identifiers**|Daniel M. Jimenez-Gutierrez et.al.|[2604.19219](http://arxiv.org/abs/2604.19219)|null|
 |**2026-04-20**|**Capturing Monetarily Exploitable Vulnerability in Smart Contracts via Auditor Knowledge-Learning Fuzzing**|Bowen Cai et.al.|[2604.18395](http://arxiv.org/abs/2604.18395)|null|
 |**2026-04-20**|**Label-Free Detection of Governance Evidence Degradation in Risk Decision Systems**|Oleg Solozobov et.al.|[2604.17836](http://arxiv.org/abs/2604.17836)|null|
-|**2026-04-19**|**Vault as a credit instrument**|Anastasiia Zbandut et.al.|[2604.17579](http://arxiv.org/abs/2604.17579)|null|
+|**2026-04-21**|**Vault as a credit instrument**|Anastasiia Zbandut et.al.|[2604.17579](http://arxiv.org/abs/2604.17579)|null|
 |**2026-04-19**|**TransXion: A High-Fidelity Graph Benchmark for Realistic Anti-Money Laundering**|Keyang Chen et.al.|[2604.17420](http://arxiv.org/abs/2604.17420)|null|
 |**2026-04-18**|**The Hidden Plumbing of Stablecoins: Financial and Technological Risks in the GENIUS Act Era**|Daniel Aronoff et.al.|[2604.17167](http://arxiv.org/abs/2604.17167)|null|
 |**2026-04-18**|**ParikkhaChain: Blockchain-Based Result Processing and Privacy-Preserving Academic Record Management for the Complete Examination Lifecycle**|Rabib Jahin Ibn Momin et.al.|[2604.16827](http://arxiv.org/abs/2604.16827)|null|
@@ -1759,6 +1788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**PLaMo 2.1-VL Technical Report**|Tommi Kerola et.al.|[2604.19324](http://arxiv.org/abs/2604.19324)|null|
 |**2026-04-20**|**Tight Auditing of Differential Privacy in MST and AIM**|Georgi Ganev et.al.|[2604.18352](http://arxiv.org/abs/2604.18352)|null|
 |**2026-04-20**|**Model in Distress: Sentiment Analysis on French Synthetic Social Media**|Pierre-Carl Langlais et.al.|[2604.18226](http://arxiv.org/abs/2604.18226)|null|
 |**2026-04-19**|**Contrastive Analysis of Linguistic Representations in Large Language Model Outputs through Structured Synthetic Data Generation and Abstracted N-gram Associations**|S. A. Desimone et.al.|[2604.17398](http://arxiv.org/abs/2604.17398)|null|
