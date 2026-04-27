@@ -58,6 +58,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
+|**2026-04-24**|**Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay**|A. Todd et.al.|[2604.22727](http://arxiv.org/abs/2604.22727)|null|
+|**2026-04-24**|**Replica Tensor Train**|Miha Srdinsek et.al.|[2604.22718](http://arxiv.org/abs/2604.22718)|null|
+|**2026-04-24**|**First Statistical Study of Over 100 Magnified Stellar Events at Redshift $z \approx 0.725$ with JWST**|J. M. Palencia et.al.|[2604.22702](http://arxiv.org/abs/2604.22702)|null|
+|**2026-04-24**|**A Unified Framework for Multiple Exposure Distributed Lag Non-Linear Models for Air Pollution Epidemiology**|Tianyi Pan et.al.|[2604.22692](http://arxiv.org/abs/2604.22692)|null|
+|**2026-04-24**|**CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms**|Suvam Basak et.al.|[2604.22685](http://arxiv.org/abs/2604.22685)|null|
+|**2026-04-24**|**Quasinormal Modes and Neutrino Energy Deposition for a Magnetically Charged Black Hole in a Hernquist Dark Matter Halo**|Ali Ovgun et.al.|[2604.22684](http://arxiv.org/abs/2604.22684)|null|
+|**2026-04-24**|**The potential of directional neutrino detection to observe neutrino spin oscillations**|Konstantin A. Kouzakov et.al.|[2604.22681](http://arxiv.org/abs/2604.22681)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-23**|**Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability**|Nicolae Filat et.al.|[2604.21930](http://arxiv.org/abs/2604.21930)|null|
 |**2026-04-23**|**Vista4D: Video Reshooting with 4D Point Clouds**|Kuan Heng Lin et.al.|[2604.21915](http://arxiv.org/abs/2604.21915)|null|
@@ -665,6 +675,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**FlashFolio: A GPU-Accelerated Solver for Portfolio Optimization**|Yilun Jiang et.al.|[2604.22625](http://arxiv.org/abs/2604.22625)|null|
+|**2026-04-24**|**Quantum analog-encoding for correlated Gaussian vectors and their exponentiation with application to rough volatility**|Tassa Thaksakronwong et.al.|[2604.22463](http://arxiv.org/abs/2604.22463)|null|
+|**2026-04-24**|**Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress**|Yuan Wang et.al.|[2604.22433](http://arxiv.org/abs/2604.22433)|null|
+|**2026-04-24**|**Optimal Investment and Entropy-Regularized Learning Under Stochastic Volatility Models with Portfolio Constraints**|Thai Nguyen et.al.|[2604.22188](http://arxiv.org/abs/2604.22188)|null|
+|**2026-04-23**|**Liquidity provision in CLMMs: evidence from transactions data**|Andrey Urusov et.al.|[2604.22069](http://arxiv.org/abs/2604.22069)|null|
 |**2026-04-23**|**Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors**|Sherly Alfonso-Sánchez et.al.|[2604.21893](http://arxiv.org/abs/2604.21893)|null|
 |**2026-04-23**|**Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation**|Natan Levy et.al.|[2604.21854](http://arxiv.org/abs/2604.21854)|null|
 |**2026-04-23**|**Modeling dependency between operational risk losses and macroeconomic variables using Hidden Markov Models**|Nikeethan Selvaratnam et.al.|[2604.21734](http://arxiv.org/abs/2604.21734)|null|
@@ -1208,6 +1223,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective**|Olha Jurečková et.al.|[2604.22569](http://arxiv.org/abs/2604.22569)|null|
+|**2026-04-23**|**Mitochondrial mechanics nucleates axonal jamming and swelling**|Patrick S. Noerr et.al.|[2604.22024](http://arxiv.org/abs/2604.22024)|null|
 |**2026-04-23**|**Compliance Moral Hazard and the Backfiring Mandate**|Jian Ni et.al.|[2604.21789](http://arxiv.org/abs/2604.21789)|null|
 |**2026-04-23**|**A Stackelberg Model for Hybridization in Cryptography**|Willie Kouam et.al.|[2604.21436](http://arxiv.org/abs/2604.21436)|null|
 |**2026-04-23**|**A Markovian Traffic Equilibrium Model for Ride-Hailing**|Song Gao et.al.|[2604.21359](http://arxiv.org/abs/2604.21359)|null|
@@ -1651,6 +1668,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Rethinking XAI Evaluation: A Human-Centered Audit of Shapley Benchmarks in High-Stakes Settings**|Inês Oliveira e Silva et.al.|[2604.22662](http://arxiv.org/abs/2604.22662)|null|
+|**2026-04-24**|**From Monolithic to Compositional: A Compositional Operational Semantics for Crystality**|Ziyun Xu et.al.|[2604.22210](http://arxiv.org/abs/2604.22210)|null|
+|**2026-04-23**|**Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML**|Zhaohui Wang et.al.|[2604.22096](http://arxiv.org/abs/2604.22096)|null|
 |**2026-04-23**|**Compliance Moral Hazard and the Backfiring Mandate**|Jian Ni et.al.|[2604.21789](http://arxiv.org/abs/2604.21789)|null|
 |**2026-04-23**|**From If-Statements to ML Pipelines: Revisiting Bias in Code-Generation**|Minh Duc Bui et.al.|[2604.21716](http://arxiv.org/abs/2604.21716)|null|
 |**2026-04-23**|**Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure**|Nattavudh Powdthavee et.al.|[2604.20652](http://arxiv.org/abs/2604.20652)|null|
@@ -2047,6 +2067,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Liquidity provision in CLMMs: evidence from transactions data**|Andrey Urusov et.al.|[2604.22069](http://arxiv.org/abs/2604.22069)|null|
 |**2026-04-07**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
 |**2026-03-29**|**Carbon Regulation and Competition in the European Airline Industry**|Ertian Chen et.al.|[2603.27724](http://arxiv.org/abs/2603.27724)|null|
 |**2026-03-23**|**Computational Arbitrage in AI Model Markets**|Ricardo Olmedo et.al.|[2603.22404](http://arxiv.org/abs/2603.22404)|null|
