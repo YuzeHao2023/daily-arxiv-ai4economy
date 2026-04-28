@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**MUSIC: Learning Muscle-Driven Dexterous Hand Control**|Pei Xu et.al.|[2604.23886](http://arxiv.org/abs/2604.23886)|null|
 |**2026-04-23**|**EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21890](http://arxiv.org/abs/2604.21890)|null|
 |**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
 |**2026-04-21**|**IndiaFinBench: An Evaluation Benchmark for Large Language Model Performance on Indian Financial Regulatory Text**|Rajveer Singh Pall et.al.|[2604.19298](http://arxiv.org/abs/2604.19298)|null|
@@ -44,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Cosmological Impact of Redshift-Dependent Type Ia Supernovae Calibration**|Seyed Hamidreza Mirpoorian et.al.|[2604.24761](http://arxiv.org/abs/2604.24761)|null|
+|**2026-04-27**|**Contracting Tensor Networks with Generalized Belief Propagation**|Joseph Tindall et.al.|[2604.24760](http://arxiv.org/abs/2604.24760)|null|
+|**2026-04-27**|**A Strongly Polynomial Algorithm for Arctic Auctions**|Jugal Garg et.al.|[2604.24756](http://arxiv.org/abs/2604.24756)|null|
+|**2026-04-27**|**Connecting the dusty dots: dust depletion and extinction of local interstellar clouds**|T. Ramburuth-Hurt et.al.|[2604.24752](http://arxiv.org/abs/2604.24752)|null|
+|**2026-04-27**|**Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes**|Zhangyong Liang et.al.|[2604.24745](http://arxiv.org/abs/2604.24745)|null|
+|**2026-04-27**|**Universal tracer statistics in single-file transport**|Soumyabrata Saha et.al.|[2604.24741](http://arxiv.org/abs/2604.24741)|null|
+|**2026-04-27**|**Learning to Think from Multiple Thinkers**|Nirmit Joshi et.al.|[2604.24737](http://arxiv.org/abs/2604.24737)|null|
+|**2026-04-27**|**Nonintegral Flux Trapping in Frustrated Josephson Networks of Triplet Superconductors**|Grayson R. Frazier et.al.|[2604.24734](http://arxiv.org/abs/2604.24734)|null|
+|**2026-04-27**|**When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation**|Amal AKLI et.al.|[2604.24712](http://arxiv.org/abs/2604.24712)|null|
+|**2026-04-27**|**Halfway to the Peak: Kinematic Signatures of Stable Rotating Disks in Luminous Infrared Galaxies at z=0.5-0.6**|Miriam Eleazer et.al.|[2604.24711](http://arxiv.org/abs/2604.24711)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
 |**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
@@ -659,6 +670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Efficient Multivariate Kelly Optimization Reveals Sigmoidal Scaling Laws**|Ruslan Tepelyan et.al.|[2604.24723](http://arxiv.org/abs/2604.24723)|null|
+|**2026-04-27**|**Comonotonic improvement under feasibility constraints**|Christopher Blier-Wong et.al.|[2604.24546](http://arxiv.org/abs/2604.24546)|null|
+|**2026-04-27**|**Comparative Evaluation of Modern Deep Learning Methodologies for Portfolio Optimization**|Samuel Ozechi et.al.|[2604.24486](http://arxiv.org/abs/2604.24486)|null|
+|**2026-04-27**|**An Explicit Solution to Black-Scholes Implied Volatility**|Wolfgang Schadner et.al.|[2604.24480](http://arxiv.org/abs/2604.24480)|null|
+|**2026-04-27**|**The Anatomy of a Decentralized Prediction Market: Microstructure Evidence from the Polymarket Order Book**|Philipp D. Dubach et.al.|[2604.24366](http://arxiv.org/abs/2604.24366)|null|
+|**2026-04-27**|**Right-to-Act: A Pre-Execution Non-Compensatory Decision Protocol for AI Systems**|Gadi Lavi et.al.|[2604.24153](http://arxiv.org/abs/2604.24153)|null|
+|**2026-04-27**|**Price as Focal Point: Prediction Markets,Conditional Reflexivity, and the Politics of Common Knowledge**|Maksym Nechepurenko et.al.|[2604.24147](http://arxiv.org/abs/2604.24147)|null|
+|**2026-04-27**|**Hindsight Preference Optimization for Financial Time Series Advisory**|Yanwei Cui et.al.|[2604.23988](http://arxiv.org/abs/2604.23988)|null|
+|**2026-04-27**|**A Geometric Witness Framework for Signed Multivariate Tail-Dependence Compatibility: Asymptotic Structure and Finite-Threshold Synthesis**|Janusz Milek et.al.|[2604.23983](http://arxiv.org/abs/2604.23983)|null|
+|**2026-04-27**|**Financial Market as a Self-Organized Ecosystem: Simulation via Learning with Heterogeneous Preferences**|Ryuji Hashimoto et.al.|[2604.23975](http://arxiv.org/abs/2604.23975)|null|
 |**2026-04-24**|**FlashFolio: A GPU-Accelerated Solver for Portfolio Optimization**|Yilun Jiang et.al.|[2604.22625](http://arxiv.org/abs/2604.22625)|null|
 |**2026-04-24**|**Quantum analog-encoding for correlated Gaussian vectors and their exponentiation with application to rough volatility**|Tassa Thaksakronwong et.al.|[2604.22463](http://arxiv.org/abs/2604.22463)|null|
 |**2026-04-24**|**Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress**|Yuan Wang et.al.|[2604.22433](http://arxiv.org/abs/2604.22433)|null|
@@ -1108,6 +1129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**#MakeBeefGreatAgain: A Cross-Platform Analysis of Early #MAHA Discourse**|Haoning Xue et.al.|[2604.23914](http://arxiv.org/abs/2604.23914)|null|
 |**2026-04-22**|**Machine Learning-Based Characterization of Solar p-Mode Frequency Shifts during Solar Cycle 25**|Rekha Jain et.al.|[2604.20802](http://arxiv.org/abs/2604.20802)|null|
 |**2026-04-22**|**Markov reads Pushkin, again: A statistical journey into the poetic world of Evgenij Onegin**|Angelo Maria Sabatini et.al.|[2604.20221](http://arxiv.org/abs/2604.20221)|null|
 |**2026-04-21**|**Time Series Augmented Generation for Financial Applications**|Anton Kolonin et.al.|[2604.19633](http://arxiv.org/abs/2604.19633)|null|
@@ -1203,6 +1225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility**|Yihong Zhou et.al.|[2604.24549](http://arxiv.org/abs/2604.24549)|null|
+|**2026-04-27**|**Private Private Information in Second-Price Auction**|Boyu Liu et.al.|[2604.24530](http://arxiv.org/abs/2604.24530)|null|
+|**2026-04-27**|**TARMM: Scaling Delay-Critical Edge AI Offloading in 5G O-RAN via Temporal Graph Mobility Management**|Peihao Yan et.al.|[2604.24501](http://arxiv.org/abs/2604.24501)|null|
+|**2026-04-27**|**Strategic Bidding in 6G Spectrum Auctions with Large Language Models**|Ismail Lotfi et.al.|[2604.24156](http://arxiv.org/abs/2604.24156)|null|
+|**2026-04-27**|**An Analysis of the Coordination Gap between Joint and Modular Learning for Job Shop Scheduling with Transportation Resources**|Moritz Link et.al.|[2604.24117](http://arxiv.org/abs/2604.24117)|null|
+|**2026-04-27**|**Learning is Revelation in Disguise: Improved Regret and Equivalence Results for Dynamic Pricing**|Shiliang Zuo et.al.|[2604.24093](http://arxiv.org/abs/2604.24093)|null|
+|**2026-04-27**|**Financial Market as a Self-Organized Ecosystem: Simulation via Learning with Heterogeneous Preferences**|Ryuji Hashimoto et.al.|[2604.23975](http://arxiv.org/abs/2604.23975)|null|
+|**2026-04-26**|**Countable Fan Tightness and Selection Games in Group-Valued Function Spaces**|Souvik Mandal et.al.|[2604.23671](http://arxiv.org/abs/2604.23671)|null|
+|**2026-04-26**|**DLM: Unified Decision Language Models for Offline Multi-Agent Sequential Decision Making**|Zhuohui Zhang et.al.|[2604.23557](http://arxiv.org/abs/2604.23557)|null|
+|**2026-04-25**|**When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape**|Richard Joseph Mitchell et.al.|[2604.23425](http://arxiv.org/abs/2604.23425)|null|
 |**2026-04-24**|**Adversarial Co-Evolution of Malware and Detection Models: A Bilevel Optimization Perspective**|Olha Jurečková et.al.|[2604.22569](http://arxiv.org/abs/2604.22569)|null|
 |**2026-04-23**|**Mitochondrial mechanics nucleates axonal jamming and swelling**|Patrick S. Noerr et.al.|[2604.22024](http://arxiv.org/abs/2604.22024)|null|
 |**2026-04-23**|**Compliance Moral Hazard and the Backfiring Mandate**|Jian Ni et.al.|[2604.21789](http://arxiv.org/abs/2604.21789)|null|
@@ -1593,6 +1625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition**|Yaw Osei Adjei et.al.|[2604.22787](http://arxiv.org/abs/2604.22787)|null|
 |**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
 |**2026-03-27**|**Dynamical Model for the Sustainable Development Goals**|Alberto García-Rodríguez et.al.|[2604.20872](http://arxiv.org/abs/2604.20872)|null|
 |**2026-04-15**|**Edge-Side Residual Timing and Frequency Control for Software-Defined Ground Stations in 5G NTN Uplinks**|Longji He et.al.|[2604.13984](http://arxiv.org/abs/2604.13984)|null|
@@ -1601,7 +1634,7 @@ layout: default
 |**2026-04-07**|**Semantic Communication with an LLM-enabled Knowledge Base**|Wuxia Hu et.al.|[2604.05504](http://arxiv.org/abs/2604.05504)|null|
 |**2026-04-03**|**Earth Embeddings Reveal Diverse Urban Signals from Space**|Wenjing Gong et.al.|[2604.03456](http://arxiv.org/abs/2604.03456)|null|
 |**2026-04-02**|**Training-Free Private Synthesis with Validation: A New Frontier for Practical Educational Data Sharing**|Hibiki Ito et.al.|[2604.01821](http://arxiv.org/abs/2604.01821)|null|
-|**2026-03-30**|**Decoupling Wavelet Sub-bands for Single Source Domain Generalization in Fundus Image Segmentation**|Shramana Dey et.al.|[2603.28463](http://arxiv.org/abs/2603.28463)|null|
+|**2026-04-27**|**Decoupling Wavelet Sub-bands for Single Source Domain Generalization in Fundus Image Segmentation**|Shramana Dey et.al.|[2603.28463](http://arxiv.org/abs/2603.28463)|null|
 |**2026-03-27**|**Synthesizing the Counterfactual: A CTGAN-Augmented Causal Evaluation of Palliative Care on Spousal Depression**|Pietro Grassi et.al.|[2603.26913](http://arxiv.org/abs/2603.26913)|null|
 |**2026-03-26**|**EcoThink: A Green Adaptive Inference Framework for Sustainable and Accessible Agents**|Linxiao Li et.al.|[2603.25498](http://arxiv.org/abs/2603.25498)|null|
 |**2026-03-15**|**Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks**|Srideepika Jayaraman et.al.|[2603.22294](http://arxiv.org/abs/2603.22294)|null|
@@ -1642,10 +1675,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks**|Lidia Losavio et.al.|[2604.24590](http://arxiv.org/abs/2604.24590)|null|
+|**2026-04-27**|**GoAT-X: A Graph of Auditing Thoughts for Securing Token Transactions in Cross-Chain Contracts**|Zijun Feng et.al.|[2604.24341](http://arxiv.org/abs/2604.24341)|null|
+|**2026-04-26**|**Breaking the Secret: Economic Interventions for Combating Collusion in Embodied Multi-Agent Systems**|Qi Liu et.al.|[2604.23511](http://arxiv.org/abs/2604.23511)|null|
+|**2026-04-26**|**Do Transaction-Level and Actor-Level AML Queues Agree? An Empirical Evaluation of Granularity Effects on the Elliptic++ Graph**|Ankur Malik et.al.|[2604.23494](http://arxiv.org/abs/2604.23494)|null|
+|**2026-04-25**|**Scalable and Verifiable Federated Learning for Cross-Institution Financial Fraud Detection**|Prajwal Panth et.al.|[2604.23437](http://arxiv.org/abs/2604.23437)|null|
 |**2026-04-24**|**Rethinking XAI Evaluation: A Human-Centered Audit of Shapley Benchmarks in High-Stakes Settings**|Inês Oliveira e Silva et.al.|[2604.22662](http://arxiv.org/abs/2604.22662)|null|
 |**2026-04-24**|**From Monolithic to Compositional: A Compositional Operational Semantics for Crystality**|Ziyun Xu et.al.|[2604.22210](http://arxiv.org/abs/2604.22210)|null|
 |**2026-04-23**|**Who Audits the Auditor? Tamper-Proof Fraud Detection with Blockchain-Anchored Explainable ML**|Zhaohui Wang et.al.|[2604.22096](http://arxiv.org/abs/2604.22096)|null|
-|**2026-04-23**|**Compliance Moral Hazard and the Backfiring Mandate**|Jian Ni et.al.|[2604.21789](http://arxiv.org/abs/2604.21789)|null|
+|**2026-04-26**|**Compliance Moral Hazard and the Backfiring Mandate**|Jian Ni et.al.|[2604.21789](http://arxiv.org/abs/2604.21789)|null|
 |**2026-04-23**|**From If-Statements to ML Pipelines: Revisiting Bias in Code-Generation**|Minh Duc Bui et.al.|[2604.21716](http://arxiv.org/abs/2604.21716)|null|
 |**2026-04-23**|**Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure**|Nattavudh Powdthavee et.al.|[2604.20652](http://arxiv.org/abs/2604.20652)|null|
 |**2026-04-22**|**Automatic Code and Test Generation of Smart Contracts from Coordination Models**|Elvis Konjoh Selabi et.al.|[2604.20507](http://arxiv.org/abs/2604.20507)|null|
@@ -1865,6 +1903,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**FlowPlace: Flow Matching for Chip Placement**|Peng Xie et.al.|[2604.23658](http://arxiv.org/abs/2604.23658)|null|
 |**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741](http://arxiv.org/abs/2604.21741)|null|
 |**2026-04-22**|**Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models**|Tapiwa Amion Chinodakufa et.al.|[2604.21031](http://arxiv.org/abs/2604.21031)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
