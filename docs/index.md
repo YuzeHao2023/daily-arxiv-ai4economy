@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Outer-Crust Equations of State for Neutron Stars**|P. S. Koliogiannis et.al.|[2604.26952](http://arxiv.org/abs/2604.26952)|null|
+|**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
+|**2026-04-29**|**Large quantum dot energy level shifts in anomalous photon-assisted tunneling**|Jared Benson et.al.|[2604.26947](http://arxiv.org/abs/2604.26947)|null|
+|**2026-04-29**|**Degree-dependent and distance-dependent contact rates interpolate between explosive, exponential and polynomial epidemic growth**|Zylan Benjert et.al.|[2604.26939](http://arxiv.org/abs/2604.26939)|null|
+|**2026-04-29**|**Meta-learning-enhanced implicit full waveform inversion**|Huan Song et.al.|[2604.26938](http://arxiv.org/abs/2604.26938)|null|
+|**2026-04-29**|**Designing Solutions to Geophysical Inverse Problems by Changing Variables**|Xuebin Zhao et.al.|[2604.26937](http://arxiv.org/abs/2604.26937)|null|
+|**2026-04-29**|**Energy-Dependent Polarization Angle Variability as a Robust Diagnostic for Blazar Flaring Mechanisms**|Haocheng Zhang et.al.|[2604.26930](http://arxiv.org/abs/2604.26930)|null|
+|**2026-04-29**|**Exact Dynamic Programming for Solow--Polasky Diversity Subset Selection on Lines and Staircases**|Michael T. M. Emmerich et.al.|[2604.26929](http://arxiv.org/abs/2604.26929)|null|
+|**2026-04-29**|**Theory of adhesion-driven self-organisation in growing tissues**|Carles Falcó et.al.|[2604.26928](http://arxiv.org/abs/2604.26928)|null|
+|**2026-04-29**|**The tale of the 3 planets: 3D cloud feedback enhances the spectral diversity of warm Jupiters**|Nishil Mehta et.al.|[2604.26911](http://arxiv.org/abs/2604.26911)|null|
 |**2026-04-28**|**How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum**|Chu-Cheng Lin et.al.|[2604.25907](http://arxiv.org/abs/2604.25907)|null|
 |**2026-04-28**|**A paradox of AI fluency**|Christopher Potts et.al.|[2604.25905](http://arxiv.org/abs/2604.25905)|null|
 |**2026-04-28**|**Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models**|Ajmain Inqiad Alam et.al.|[2604.25903](http://arxiv.org/abs/2604.25903)|null|
@@ -680,6 +690,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Do News and Social Media Tell the Same Story? Constructing and Comparing Sentiment Spillover Networks**|Fan Wu et.al.|[2604.26811](http://arxiv.org/abs/2604.26811)|null|
+|**2026-04-29**|**From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets**|Yikuan Huang et.al.|[2604.26747](http://arxiv.org/abs/2604.26747)|null|
+|**2026-04-29**|**Pricing Global Macroeconomic Risk in Equity Markets: Evidence from Selected G20 Economies**|Vivek Mishra et.al.|[2604.26198](http://arxiv.org/abs/2604.26198)|null|
+|**2026-04-28**|**Pricing with Passion: The Local Occupied Volatility (LOV) Model**|Valentin Tissot-Daguette et.al.|[2604.26151](http://arxiv.org/abs/2604.26151)|null|
+|**2026-04-28**|**The Financialization of Proof-of-Stake: Asymptotic Centralization under Exogenous Risk Premiums**|Mikhail Perepelitsa et.al.|[2604.26076](http://arxiv.org/abs/2604.26076)|null|
+|**2026-04-28**|**A Volume-Price-Adjusted MACD Trading Strategy with Sensitivity Calibration for U.S. Equity Indices**|Luyun Lin et.al.|[2604.26063](http://arxiv.org/abs/2604.26063)|null|
+|**2026-04-28**|**Open Problems in Frontier AI Risk Management**|Marta Ziosi et.al.|[2604.25982](http://arxiv.org/abs/2604.25982)|null|
+|**2026-04-28**|**Auditing Marketing Budget Allocation with Hindsight Regret**|Nilavra Pathak et.al.|[2604.25977](http://arxiv.org/abs/2604.25977)|null|
 |**2026-04-28**|**A Motif-Based Framework for Decomposing Risk Spillovers**|Ying-Hui Shao et.al.|[2604.25406](http://arxiv.org/abs/2604.25406)|null|
 |**2026-04-28**|**Corporate Bond Yield Curve Modeling: A Rating-Based Regime-Switching Generalized CIR Approach**|Maochun Xu et.al.|[2604.25403](http://arxiv.org/abs/2604.25403)|null|
 |**2026-04-28**|**Yau's Affine-Normal Descent for Large-Scale Unrestricted Higher-Moment Portfolio Optimization**|Ya-Juan Wang et.al.|[2604.25378](http://arxiv.org/abs/2604.25378)|null|
@@ -1243,6 +1261,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Impact of Attitude and Bounded Rationality on Collective Behavioral Transitions**|Chen Song et.al.|[2604.26616](http://arxiv.org/abs/2604.26616)|null|
+|**2026-04-28**|**A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication**|Valentin Cuzin-Rambaud et.al.|[2604.25972](http://arxiv.org/abs/2604.25972)|null|
 |**2026-04-28**|**Holistic Decision-Making in Stopping Problems: Emphasizing Psychological Aspects**|Georgy Sofronov et.al.|[2604.25696](http://arxiv.org/abs/2604.25696)|null|
 |**2026-04-28**|**Zero Shot Coordination for Sparse Reward Tasks with Diverse Reward Shapings**|Keenan Powell et.al.|[2604.25076](http://arxiv.org/abs/2604.25076)|null|
 |**2026-04-27**|**GradMAP: Gradient-Based Multi-Agent Proximal Learning for Grid-Edge Flexibility**|Yihong Zhou et.al.|[2604.24549](http://arxiv.org/abs/2604.24549)|null|
@@ -1695,6 +1715,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets**|Yikuan Huang et.al.|[2604.26747](http://arxiv.org/abs/2604.26747)|null|
+|**2026-04-29**|**Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real**|Pericle Perazzo et.al.|[2604.26736](http://arxiv.org/abs/2604.26736)|null|
+|**2026-04-29**|**Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience**|Matteo Vaccargiu et.al.|[2604.26727](http://arxiv.org/abs/2604.26727)|null|
+|**2026-04-29**|**Identifying and Characterizing Semantic Clones of Solidity Functions**|Ermanno Francesco Sannini et.al.|[2604.26526](http://arxiv.org/abs/2604.26526)|null|
+|**2026-04-29**|**Trapping, Irregular Waveforms, and Efficient Radiation in Ultra-relativistic Black Hole Encounters**|Hengrui Zhu et.al.|[2604.26253](http://arxiv.org/abs/2604.26253)|null|
+|**2026-04-28**|**GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade**|Bowen Cai et.al.|[2604.26094](http://arxiv.org/abs/2604.26094)|null|
+|**2026-04-27**|**On the Centralization of Governance Power in Decentralized Autonomous Organizations**|Vabuk Pahari et.al.|[2604.25959](http://arxiv.org/abs/2604.25959)|null|
 |**2026-04-28**|**From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems**|Ignacio Peyrano et.al.|[2604.25555](http://arxiv.org/abs/2604.25555)|null|
 |**2026-04-27**|**A systematic literature Review for Transformer-based Software Vulnerability detection**|Fiza Naseer et.al.|[2604.24822](http://arxiv.org/abs/2604.24822)|null|
 |**2026-04-27**|**Fraud Detection in Cryptocurrency Markets with Spatio-Temporal Graph Neural Networks**|Lidia Losavio et.al.|[2604.24590](http://arxiv.org/abs/2604.24590)|null|
@@ -1925,11 +1952,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python**|Alexander Raistrick et.al.|[2604.26943](http://arxiv.org/abs/2604.26943)|null|
+|**2026-04-28**|**EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation**|Ting-Wei Li et.al.|[2604.26170](http://arxiv.org/abs/2604.26170)|null|
+|**2026-04-21**|**FalconApp: Rapid iPhone Deployment of End-to-End Perception via Automatically Labeled Synthetic Data**|Yan Miao et.al.|[2604.25949](http://arxiv.org/abs/2604.25949)|null|
 |**2026-04-28**|**Prior-Aligned Data Cleaning for Tabular Foundation Models**|Laure Berti-Equille et.al.|[2604.25154](http://arxiv.org/abs/2604.25154)|null|
 |**2026-04-26**|**FlowPlace: Flow Matching for Chip Placement**|Peng Xie et.al.|[2604.23658](http://arxiv.org/abs/2604.23658)|null|
 |**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yaxuan Li et.al.|[2604.21741](http://arxiv.org/abs/2604.21741)|null|
 |**2026-04-22**|**Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models**|Tapiwa Amion Chinodakufa et.al.|[2604.21031](http://arxiv.org/abs/2604.21031)|null|
-|**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
+|**2026-04-29**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
 |**2026-04-22**|**Synthetic Flight Data Generation Using Generative Models**|Karim Aly et.al.|[2604.20293](http://arxiv.org/abs/2604.20293)|null|
 |**2026-04-21**|**PLaMo 2.1-VL Technical Report**|Tommi Kerola et.al.|[2604.19324](http://arxiv.org/abs/2604.19324)|null|
 |**2026-04-20**|**Tight Auditing of Differential Privacy in MST and AIM**|Georgi Ganev et.al.|[2604.18352](http://arxiv.org/abs/2604.18352)|null|
