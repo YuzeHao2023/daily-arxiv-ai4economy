@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Measurement Risk in Supervised Financial NLP: Rubric and Metric Sensitivity on JF-ICR**|Sidi Chang et.al.|[2604.27374](http://arxiv.org/abs/2604.27374)|null|
 |**2026-04-26**|**MUSIC: Learning Muscle-Driven Dexterous Hand Control**|Pei Xu et.al.|[2604.23886](http://arxiv.org/abs/2604.23886)|null|
 |**2026-04-23**|**EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21890](http://arxiv.org/abs/2604.21890)|null|
 |**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
@@ -45,6 +46,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Representation Fréchet Loss for Visual Generation**|Jiawei Yang et.al.|[2604.28190](http://arxiv.org/abs/2604.28190)|null|
+|**2026-04-30**|**Cosmology of fractional gravity**|Iván Salvador-García et.al.|[2604.28188](http://arxiv.org/abs/2604.28188)|null|
+|**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|null|
+|**2026-04-30**|**Non-negative Rational Semantic Numeration Systems**|Alexander Chunikhin et.al.|[2604.28171](http://arxiv.org/abs/2604.28171)|null|
+|**2026-04-30**|**Determination of turbulent heating rate and relaxed states in finite Larmor radius magnetohydrodynamic turbulence with helicity barrier**|Ramesh Sasmal et.al.|[2604.28165](http://arxiv.org/abs/2604.28165)|null|
+|**2026-04-30**|**Sequential Inference for Gaussian Processes: A Signal Processing Perspective**|Daniel Waxman et.al.|[2604.28163](http://arxiv.org/abs/2604.28163)|null|
+|**2026-04-30**|**Global Optimality for Constrained Exploration via Penalty Regularization**|Florian Wolf et.al.|[2604.28144](http://arxiv.org/abs/2604.28144)|null|
+|**2026-04-30**|**Beyond Pixel Fidelity: Minimizing Perceptual Distortion and Color Bias in Night Photography Rendering**|Furkan Kınlı et.al.|[2604.28136](http://arxiv.org/abs/2604.28136)|null|
+|**2026-04-30**|**MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons**|Kehong Gong et.al.|[2604.28130](http://arxiv.org/abs/2604.28130)|null|
+|**2026-04-30**|**Do Sparse Autoencoders Capture Concept Manifolds?**|Usha Bhalla et.al.|[2604.28119](http://arxiv.org/abs/2604.28119)|null|
 |**2026-04-29**|**Outer-Crust Equations of State for Neutron Stars**|P. S. Koliogiannis et.al.|[2604.26952](http://arxiv.org/abs/2604.26952)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**Large quantum dot energy level shifts in anomalous photon-assisted tunneling**|Jared Benson et.al.|[2604.26947](http://arxiv.org/abs/2604.26947)|null|
@@ -690,6 +701,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Measuring the risk or reducing it, that is the question: is risk measurement necessary for risk reduction?**|Pierpaolo Uberti et.al.|[2604.28124](http://arxiv.org/abs/2604.28124)|null|
+|**2026-04-30**|**Distributionally Robust Insurance under Bregman-Wasserstein Divergence**|Wenjun Jiang et.al.|[2604.27837](http://arxiv.org/abs/2604.27837)|null|
+|**2026-04-30**|**A Note on the Generalized Cape Cod Reserving Method**|Ronald Richman et.al.|[2604.27732](http://arxiv.org/abs/2604.27732)|null|
+|**2026-04-30**|**Data-Driven Stochastic Optimal Control for Intraday Electricity Trading by Renewable Producers**|Chiheb Ben Hammouda et.al.|[2604.27700](http://arxiv.org/abs/2604.27700)|null|
+|**2026-04-30**|**The Satoshi Overhang: Why the Bear Case is Bounded**|Karl T. Ulrich et.al.|[2604.27694](http://arxiv.org/abs/2604.27694)|null|
+|**2026-04-30**|**A Systematic Review of Recent Advancements in PINN Augmented Deep Learning and Mathematical Modeling for Efficient Portfolio Management**|Bahadur Yadav et.al.|[2604.27610](http://arxiv.org/abs/2604.27610)|null|
+|**2026-04-30**|**Sampler-Robust Optimization under Generative Models**|Ziwei Zhang et.al.|[2604.27447](http://arxiv.org/abs/2604.27447)|null|
+|**2026-04-30**|**A Levered ETF Anomaly Explained**|Stephen W. Bianchi et.al.|[2604.27287](http://arxiv.org/abs/2604.27287)|null|
+|**2026-04-29**|**Fast-Vollib: A Fast Implied Volatility Library for Pythonwith PyTorch, JAX, and CUDA Fused-Kernel Backends**|Raeid Saqur et.al.|[2604.27210](http://arxiv.org/abs/2604.27210)|null|
+|**2026-04-29**|**Learning to Spend: Model Predictive Control for Budgeting under Non-Stationary Returns**|Nilavra Pathak et.al.|[2604.27186](http://arxiv.org/abs/2604.27186)|null|
 |**2026-04-29**|**Do News and Social Media Tell the Same Story? Constructing and Comparing Sentiment Spillover Networks**|Fan Wu et.al.|[2604.26811](http://arxiv.org/abs/2604.26811)|null|
 |**2026-04-29**|**From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets**|Yikuan Huang et.al.|[2604.26747](http://arxiv.org/abs/2604.26747)|null|
 |**2026-04-29**|**Pricing Global Macroeconomic Risk in Equity Markets: Evidence from Selected G20 Economies**|Vivek Mishra et.al.|[2604.26198](http://arxiv.org/abs/2604.26198)|null|
@@ -1163,6 +1184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Gender Bias in YouTube Exposure: Allocative and Structural Inequalities in Political Information Environments**|Jipeng Tan et.al.|[2604.27479](http://arxiv.org/abs/2604.27479)|null|
 |**2026-04-28**|**EvoTSC: Evolving Feature Learning Models for Time Series Classification via Genetic Programming**|Xuanhao Yang et.al.|[2604.25499](http://arxiv.org/abs/2604.25499)|null|
 |**2026-04-27**|**A Novel Two-Step Approach for Reactive Power Demand Calculation Using Integrated Voltage Stability Analysis**|Hassan Abouelgheit et.al.|[2604.25016](http://arxiv.org/abs/2604.25016)|null|
 |**2026-04-26**|**#MakeBeefGreatAgain: A Cross-Platform Analysis of Early #MAHA Discourse**|Haoning Xue et.al.|[2604.23914](http://arxiv.org/abs/2604.23914)|null|
@@ -1261,6 +1283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Phase Transitions in Economic Inequality:Taxation and Extremal Replacement Dynamics**|Lautaro Giordano et.al.|[2604.28168](http://arxiv.org/abs/2604.28168)|null|
+|**2026-04-30**|**Shuffling-Aware Optimization for Private Vector Mean Estimation**|Shun Takagi et.al.|[2604.28032](http://arxiv.org/abs/2604.28032)|null|
+|**2026-04-30**|**Clustering in co-evolving opinion dynamics: reduced SPDE models**|Sebastian Zimper et.al.|[2604.27961](http://arxiv.org/abs/2604.27961)|null|
+|**2026-04-30**|**A Collective Variational Principle Unifying Bayesian Inference, Game Theory, and Thermodynamics**|Djamel Bouchaffra et.al.|[2604.27942](http://arxiv.org/abs/2604.27942)|null|
+|**2026-04-30**|**On Agentic Behavioral Modeling**|Dirk Ostwald et.al.|[2604.27894](http://arxiv.org/abs/2604.27894)|null|
+|**2026-04-30**|**A Grid-Aware Agent-Based Model for Analyzing Electric Vehicle Charging Systems**|Khalil Al-Rahman Youssefi et.al.|[2604.27849](http://arxiv.org/abs/2604.27849)|null|
+|**2026-04-30**|**Optimal Functional Incentives for Control: The Linear-Quadratic Case with Bilinear Incentives**|Jonas G. Matt et.al.|[2604.27770](http://arxiv.org/abs/2604.27770)|null|
+|**2026-04-30**|**Crowd Dynamics in Historical Perspective: Reframing the Amritsar Massacre through Agent-Based Modelling and Social Psychology**|Mohcine Chraibi et.al.|[2604.27737](http://arxiv.org/abs/2604.27737)|null|
+|**2026-04-30**|**Revealing Strategic Interactions in Network Games Under Decaying Active Probing**|Xiaoyu Xin et.al.|[2604.27318](http://arxiv.org/abs/2604.27318)|null|
+|**2026-04-29**|**What Suppresses Nash Equilibrium Play in Large Language Models? Mechanistic Evidence and Causal Control**|Paraskevas V. Lekeas et.al.|[2604.27167](http://arxiv.org/abs/2604.27167)|null|
 |**2026-04-29**|**Impact of Attitude and Bounded Rationality on Collective Behavioral Transitions**|Chen Song et.al.|[2604.26616](http://arxiv.org/abs/2604.26616)|null|
 |**2026-04-28**|**A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication**|Valentin Cuzin-Rambaud et.al.|[2604.25972](http://arxiv.org/abs/2604.25972)|null|
 |**2026-04-28**|**Holistic Decision-Making in Stopping Problems: Emphasizing Psychological Aspects**|Georgy Sofronov et.al.|[2604.25696](http://arxiv.org/abs/2604.25696)|null|
@@ -1715,6 +1747,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**From Impermanent Loss to Sustainable Gain: Quantifying Profitability Zones for Liquidity Providers on DEX**|Ignat Melnikov et.al.|[2604.28014](http://arxiv.org/abs/2604.28014)|null|
+|**2026-04-30**|**Explicit Quantum Search Algorithm for the Densest k-Subgraph Problem**|Yu. A. Biriukov et.al.|[2604.27782](http://arxiv.org/abs/2604.27782)|null|
+|**2026-04-30**|**Intent2Tx: Benchmarking LLMs for Translating Natural Language Intents into Ethereum Transactions**|Zhuoran Pan et.al.|[2604.27763](http://arxiv.org/abs/2604.27763)|null|
+|**2026-04-30**|**Back to the Future: Rethinking Endorsement in Order-Execute Blockchains**|Rongji Huang et.al.|[2604.27659](http://arxiv.org/abs/2604.27659)|null|
+|**2026-04-30**|**Topological antiqued mechanical toy**|Hirofumi Wada et.al.|[2604.27554](http://arxiv.org/abs/2604.27554)|null|
 |**2026-04-29**|**From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets**|Yikuan Huang et.al.|[2604.26747](http://arxiv.org/abs/2604.26747)|null|
 |**2026-04-29**|**Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real**|Pericle Perazzo et.al.|[2604.26736](http://arxiv.org/abs/2604.26736)|null|
 |**2026-04-29**|**Comparing Smart Contract Paradigms: A Preliminary Study of Security and Developer Experience**|Matteo Vaccargiu et.al.|[2604.26727](http://arxiv.org/abs/2604.26727)|null|
@@ -1952,6 +1989,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
+|**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|null|
+|**2026-04-30**|**Personalizing Cancer Models under Data Scarcity via Parameter Decomposition**|Logan Rose et.al.|[2604.27408](http://arxiv.org/abs/2604.27408)|null|
+|**2026-04-29**|**Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation**|Guillermo Iglesias et.al.|[2604.27014](http://arxiv.org/abs/2604.27014)|null|
 |**2026-04-29**|**ProcFunc: Function-Oriented Abstractions for Procedural 3D Generation in Python**|Alexander Raistrick et.al.|[2604.26943](http://arxiv.org/abs/2604.26943)|null|
 |**2026-04-28**|**EvoSelect: Data-Efficient LLM Evolution for Targeted Task Adaptation**|Ting-Wei Li et.al.|[2604.26170](http://arxiv.org/abs/2604.26170)|null|
 |**2026-04-21**|**FalconApp: Rapid iPhone Deployment of End-to-End Perception via Automatically Labeled Synthetic Data**|Yan Miao et.al.|[2604.25949](http://arxiv.org/abs/2604.25949)|null|
