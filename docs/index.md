@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Econ-LLMs & Financial NLP
@@ -47,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**The Kubo-Thermalization Correspondence**|Songtao Huang et.al.|[2605.06666](http://arxiv.org/abs/2605.06666)|null|
+|**2026-05-07**|**EMO: Pretraining Mixture of Experts for Emergent Modularity**|Ryan Wang et.al.|[2605.06663](http://arxiv.org/abs/2605.06663)|null|
+|**2026-05-07**|**Improving Variance Estimation for Covariate Adjustment with Binary Outcomes**|Kaitlyn Lee et.al.|[2605.06655](http://arxiv.org/abs/2605.06655)|null|
+|**2026-05-07**|**Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less**|Yuxing Liu et.al.|[2605.06654](http://arxiv.org/abs/2605.06654)|null|
+|**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|
+|**2026-05-07**|**PianoCoRe: Combined and Refined Piano MIDI Dataset**|Ilya Borovik et.al.|[2605.06627](http://arxiv.org/abs/2605.06627)|null|
+|**2026-05-07**|**Online Scalarization in Vector-Valued Games**|Ehsan Asadollahi et.al.|[2605.06624](http://arxiv.org/abs/2605.06624)|null|
+|**2026-05-07**|**Algospeak, Hiding in the Open: The Trade-off Between Legible Meaning and Detection Avoidance**|Jan Fillies et.al.|[2605.06619](http://arxiv.org/abs/2605.06619)|null|
+|**2026-05-07**|**SkillOS: Learning Skill Curation for Self-Evolving Agents**|Siru Ouyang et.al.|[2605.06614](http://arxiv.org/abs/2605.06614)|null|
+|**2026-05-07**|**The Phases of the Scalar S-Matrix Island**|Joan Elias Miro et.al.|[2605.06613](http://arxiv.org/abs/2605.06613)|null|
 |**2026-05-05**|**Catastrophe-dispersion models in random and varying environments across generations**|Lucas R. de Lima et.al.|[2605.04048](http://arxiv.org/abs/2605.04048)|null|
 |**2026-05-05**|**Ergotropy Protection via Cavity Detuning in Collective Open Quantum Batteries**|Tariq Zeyad Jawad et.al.|[2605.04042](http://arxiv.org/abs/2605.04042)|null|
 |**2026-05-05**|**Safety and accuracy follow different scaling laws in clinical large language models**|Sebastian Wind et.al.|[2605.04039](http://arxiv.org/abs/2605.04039)|null|
@@ -712,6 +722,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**MTRBO: Multiple trust-region based Bayesian optimization**|Sourav Das et.al.|[2605.06618](http://arxiv.org/abs/2605.06618)|null|
+|**2026-05-07**|**A Geometry-Aware Residual Correction of Hagan's SABR Implied Volatility Formula**|Adil Reghai et.al.|[2605.06604](http://arxiv.org/abs/2605.06604)|null|
+|**2026-05-07**|**SNAPO: Smooth Neural Adjoint Policy Optimization for Optimal Control via Differentiable Simulation**|Dmitri Goloubentsev et.al.|[2605.06570](http://arxiv.org/abs/2605.06570)|null|
+|**2026-05-07**|**Neural-Actuarial Longevity Forecasting: Anchoring LSTMs for Explainable Risk Management**|Davide Rindori et.al.|[2605.06438](http://arxiv.org/abs/2605.06438)|null|
+|**2026-05-07**|**Funding-Aware Optimal Market Making for Perpetual DEXs**|Nam Anh Le et.al.|[2605.06405](http://arxiv.org/abs/2605.06405)|null|
+|**2026-05-07**|**INEUS: Iterative Neural Solver for High-Dimensional PIDEs**|Jean-Loup Dupret et.al.|[2605.06281](http://arxiv.org/abs/2605.06281)|null|
+|**2026-05-07**|**Numerical methods for lambda quantiles: robust evaluation and portfolio optimisation**|Ilaria Peri et.al.|[2605.06220](http://arxiv.org/abs/2605.06220)|null|
+|**2026-05-07**|**Does social media information affect individual investor disposition effect? Evidence from Xueqiu**|Siliu Chen et.al.|[2605.05814](http://arxiv.org/abs/2605.05814)|null|
+|**2026-05-07**|**Multi-Dimensional Behavioral Evaluation of Agentic Stock Prediction Systems Using LLM Judges with Closed-Loop Reinforcement Learning Feedback**|Mohammad Al Ridhawi et.al.|[2605.05739](http://arxiv.org/abs/2605.05739)|null|
+|**2026-05-06**|**Frustrated Dynamics of Distance Matrices**|Igor Halperin et.al.|[2605.05376](http://arxiv.org/abs/2605.05376)|null|
 |**2026-05-05**|**Structural Limits of OHLCV-Based Intraday Signals in MNQ Futures: A Systematic Falsification Study**|Mathias Mesfin et.al.|[2605.04004](http://arxiv.org/abs/2605.04004)|null|
 |**2026-05-05**|**Scaling Limits of Bivariate Nearly-Unstable Hawkes Processes and Applications to Rough Volatility**|Sohaib El Karmi et.al.|[2605.03703](http://arxiv.org/abs/2605.03703)|null|
 |**2026-05-05**|**Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems**|Maksym Nechepurenko et.al.|[2605.03310](http://arxiv.org/abs/2605.03310)|null|
@@ -1205,6 +1225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Capabilities of Auto-encoders and Principal Component Analysis of the Reduction of Microstructural Images; Application on the Acceleration of Phase-Field Simulations**|Seifallah Fetni et.al.|[2605.04229](http://arxiv.org/abs/2605.04229)|null|
 |**2026-05-05**|**Uncertainty Quantification in Forecast Comparisons**|Marc-Oliver Pohle et.al.|[2605.03997](http://arxiv.org/abs/2605.03997)|null|
 |**2026-05-05**|**Segmenting Human-LLM Co-authored Text via Change Point Detection**|Mengchu Li et.al.|[2605.03723](http://arxiv.org/abs/2605.03723)|null|
 |**2026-05-04**|**Online Generalised Predictive Coding**|Mehran H. Z. Bazargani et.al.|[2605.02675](http://arxiv.org/abs/2605.02675)|null|
@@ -1308,6 +1329,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Cross-Modal Navigation with Multi-Agent Reinforcement Learning**|Shuo Liu et.al.|[2605.06595](http://arxiv.org/abs/2605.06595)|null|
+|**2026-05-07**|**Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning**|Maria Ana Cardei et.al.|[2605.06557](http://arxiv.org/abs/2605.06557)|null|
+|**2026-05-07**|**Sustaining Cooperation in Populations Guided by AI: A Folk Theorem for LLMs**|Jonathan Shaki et.al.|[2605.06525](http://arxiv.org/abs/2605.06525)|null|
+|**2026-05-07**|**Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics**|Philip Jordan et.al.|[2605.06377](http://arxiv.org/abs/2605.06377)|null|
+|**2026-05-07**|**Adversarial procurement in blockchains**|Maryam Bahrani et.al.|[2605.05559](http://arxiv.org/abs/2605.05559)|null|
+|**2026-05-06**|**Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning**|Shawn Ray et.al.|[2605.05020](http://arxiv.org/abs/2605.05020)|null|
+|**2026-05-06**|**Modular Reinforcement Learning For Cooperative Swarms**|Erel Shtossel et.al.|[2605.04939](http://arxiv.org/abs/2605.04939)|null|
+|**2026-05-06**|**Hierarachical Multiagent Reinforcement Learning for Multi-Group Tax Game**|Honglei Guo et.al.|[2605.04741](http://arxiv.org/abs/2605.04741)|null|
+|**2026-05-06**|**Delay-Aware Large-Small Model Collaboration over LEO Satellite Networks**|Mingyu Guo et.al.|[2605.04565](http://arxiv.org/abs/2605.04565)|null|
+|**2026-05-06**|**Distributed TD Tracking with Linear Function Approximation over Directed Communication Networks**|Haocheng Yang et.al.|[2605.04466](http://arxiv.org/abs/2605.04466)|null|
 |**2026-05-05**|**Decentralized Edge Caching under Budget and Storage Constraints: A Game-Theoretic Approach**|Hamta Sedghani et.al.|[2605.04023](http://arxiv.org/abs/2605.04023)|null|
 |**2026-05-05**|**Agent-Based Modeling of Low-Emission Fertilizer Adoption for Dairy Farm Decarbonisation using Empirical Farm Data**|Surya Jayakumar et.al.|[2605.03648](http://arxiv.org/abs/2605.03648)|null|
 |**2026-05-05**|**Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning and Joint-Space QP Control**|Ho Jae Lee et.al.|[2605.03363](http://arxiv.org/abs/2605.03363)|null|
@@ -1782,9 +1813,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Quantum Electron Quasicrystal**|Pierre-Antoine Graham et.al.|[2605.06302](http://arxiv.org/abs/2605.06302)|null|
+|**2026-05-07**|**Arbitrage and the Stability of AMM Price Tracking**|Peihao Li et.al.|[2605.06060](http://arxiv.org/abs/2605.06060)|null|
+|**2026-05-06**|**Toward a Risk Assessment Framework for Institutional DeFi: A Nine-Dimension Approach**|Eva Oberholzer et.al.|[2605.05145](http://arxiv.org/abs/2605.05145)|null|
+|**2026-05-06**|**Dynamic Collateral Control for Permissionless Spot Perpetual Basis Trading**|Anatoly Krestenko et.al.|[2605.05089](http://arxiv.org/abs/2605.05089)|null|
+|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
+|**2026-05-05**|**Revocation-Ready CP-ABE Key Management for Blockchain-Based IoT Data Sharing**|Chun Yin Chiu et.al.|[2605.04280](http://arxiv.org/abs/2605.04280)|null|
 |**2026-05-05**|**Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts**|Xing Zhang et.al.|[2605.03697](http://arxiv.org/abs/2605.03697)|null|
 |**2026-05-04**|**EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs**|Ruichao Liang et.al.|[2605.02868](http://arxiv.org/abs/2605.02868)|null|
-|**2026-05-05**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
+|**2026-05-06**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
 |**2026-05-04**|**Compound Attrition Games: A Unified Model for Inter- and Intra-Coalition Rivalry**|Madjid Eshaghi Gordji et.al.|[2605.02354](http://arxiv.org/abs/2605.02354)|null|
 |**2026-05-03**|**Obscura: Privacy-Preserving Protocol for the Algorand Blockchain Using LSAG Ring Signatures**|Navid Azimi et.al.|[2605.02077](http://arxiv.org/abs/2605.02077)|null|
 |**2026-05-02**|**Phishing Detection in Ethereum via Temporal Graph Contrastive Learning**|Cong Wu et.al.|[2605.01207](http://arxiv.org/abs/2605.01207)|null|
@@ -2034,9 +2071,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Decoupled PFNs: Identifiable Epistemic-Aleatoric Decomposition via Structured Synthetic Priors**|Richard Bergna et.al.|[2605.06413](http://arxiv.org/abs/2605.06413)|null|
+|**2026-05-07**|**A Two-Level Plackett-Luce Model for preference modeling in smart mobility platforms**|M. Santos-Pascual et.al.|[2605.06236](http://arxiv.org/abs/2605.06236)|null|
+|**2026-05-06**|**PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation**|Srikar Kashyap Pulipaka et.al.|[2605.05159](http://arxiv.org/abs/2605.05159)|null|
 |**2026-05-05**|**On the Spectral Structure and Objective Equivalence of Orthogonal Multilabel Fisher Discriminants**|Brian Keith-Norambuena et.al.|[2605.03283](http://arxiv.org/abs/2605.03283)|null|
 |**2026-05-04**|**Synthetic Data Generation for Long-Tail Medical Image Classification: A Case Study in Skin Lesions**|Jiaxiang Jiang et.al.|[2605.03221](http://arxiv.org/abs/2605.03221)|null|
-|**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
+|**2026-05-07**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
 |**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|null|
 |**2026-04-30**|**Personalizing Cancer Models under Data Scarcity via Parameter Decomposition**|Logan Rose et.al.|[2604.27408](http://arxiv.org/abs/2604.27408)|null|
 |**2026-04-29**|**Fidelity, Diversity, and Privacy: A Multi-Dimensional LLM Evaluation for Clinical Data Augmentation**|Guillermo Iglesias et.al.|[2604.27014](http://arxiv.org/abs/2604.27014)|null|
