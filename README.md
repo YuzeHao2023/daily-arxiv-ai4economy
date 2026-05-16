@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -56,12 +56,22 @@
 |**2025-12-02**|**Stepwise Schema-Guided Prompting Framework with Parameter Efficient Instruction Tuning for Multimedia Event Extraction**|Xiang Yuan et.al.|[2512.02584](http://arxiv.org/abs/2512.02584)|null|
 |**2025-11-29**|**Financial Text Classification Based On rLoRA Finetuning On Qwen3-8B model**|Zhiming Lian et.al.|[2512.00630](http://arxiv.org/abs/2512.00630)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Causal Inference & Policy Evaluation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Aligning Latent Geometry for Spherical Flow Matching in Image Generation**|Tuna Han Salih Meral et.al.|[2605.15193](http://arxiv.org/abs/2605.15193)|null|
+|**2026-05-14**|**RoSHAP: A Distributional Framework and Robust Metric for Stable Feature Attribution**|Lanxin Xiang et.al.|[2605.15154](http://arxiv.org/abs/2605.15154)|null|
+|**2026-05-14**|**Eclipses of Nearby Radio-Loud Galactic Nuclei by Stars in Nuclear Star Clusters**|Michal Zajaček et.al.|[2605.15145](http://arxiv.org/abs/2605.15145)|null|
+|**2026-05-14**|**Complete Local Reasoning About Parameterized Programs Over Topologies**|Ruotong Cheng et.al.|[2605.15143](http://arxiv.org/abs/2605.15143)|null|
+|**2026-05-14**|**Single-Device VOC Fingerprinting via Polarization-Selective Anisotropic BeS-Clad Silicon Microring Resonator**|Sudipta Saha et.al.|[2605.15139](http://arxiv.org/abs/2605.15139)|null|
+|**2026-05-14**|**Deep Mixture of Experts Network for Resource Optimization in Aerial-Terrestrial CF-mMIMO Systems under URLLC**|Donggen Li et.al.|[2605.15135](http://arxiv.org/abs/2605.15135)|null|
+|**2026-05-14**|**Causal Foundation Models with Continuous Treatments**|Christopher Stith et.al.|[2605.15133](http://arxiv.org/abs/2605.15133)|null|
+|**2026-05-14**|**Identification and Estimation of Staggered Difference-in-Differences with Network Spillovers**|Hayato Tagawa et.al.|[2605.15119](http://arxiv.org/abs/2605.15119)|null|
+|**2026-05-14**|**A Practical Guide to Instrumental Variables Methods with Heterogeneous Treatment Effects**|Tymon Słoczyński et.al.|[2605.15115](http://arxiv.org/abs/2605.15115)|null|
+|**2026-05-14**|**Logging Policy Design for Off-Policy Evaluation**|Connor Douglas et.al.|[2605.15108](http://arxiv.org/abs/2605.15108)|null|
 |**2026-05-12**|**Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking**|V. W. Scarola et.al.|[2605.12502](http://arxiv.org/abs/2605.12502)|null|
 |**2026-05-12**|**Measuring cosmic bulk flow with kinetic Sunyaev-Zel'dovich velocity reconstruction**|Suroor Seher Gandhi et.al.|[2605.12499](http://arxiv.org/abs/2605.12499)|null|
 |**2026-05-12**|**Learning, Fast and Slow: Towards LLMs That Adapt Continually**|Rishabh Tiwari et.al.|[2605.12484](http://arxiv.org/abs/2605.12484)|null|
@@ -753,13 +763,21 @@
 |**2026-01-20**|**Influence of Finite-Nuclei Constraints on High-Density Transitions and Neutron Star Properties**|Anagh Venneti et.al.|[2601.14194](http://arxiv.org/abs/2601.14194)|null|
 |**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](http://arxiv.org/abs/2601.14192)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Quantitative Finance & Asset Pricing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-12**|**The P behind Q: Empirical Evidence from Physical Drift in Put-Call Parity**|Useong Shin et.al.|[2605.12250](http://arxiv.org/abs/2605.12250)|null|
+|**2026-05-14**|**Multi-regime Markov-switching models with time-varying transition probabilities: An application to U.S. Treasury yields**|Samuel Modée et.al.|[2605.14976](http://arxiv.org/abs/2605.14976)|null|
+|**2026-05-13**|**Synthetic American Option Pricing via Jump-HMM-Driven Heston Implied Volatility**|Julia Sun et.al.|[2605.13998](http://arxiv.org/abs/2605.13998)|null|
+|**2026-05-13**|**Vector-Quantized Discrete Latent Factors Meet Financial Priors: Dynamic Cross-Sectional Stock Ranking Prediction for Portfolio Construction**|Namhyoung Kim et.al.|[2605.13407](http://arxiv.org/abs/2605.13407)|null|
+|**2026-05-13**|**The fine structure of electricity price volatility**|Thomas K. Kloster et.al.|[2605.13320](http://arxiv.org/abs/2605.13320)|null|
+|**2026-05-13**|**Enhancing a Risk Model by Adding Transient Statistical Factors**|Alexandros E. Tzikas et.al.|[2605.12977](http://arxiv.org/abs/2605.12977)|null|
+|**2026-05-12**|**Yield Curves Dynamics Using Variational Autoencoders Under No-arbitrage**|Fusheng Luo et.al.|[2605.12764](http://arxiv.org/abs/2605.12764)|null|
+|**2026-05-14**|**Optimal investment and Pension policy in Pay-As-You-Go systems under forward utility and ageing population**|Jennifer Alonso-Garcia et.al.|[2605.12698](http://arxiv.org/abs/2605.12698)|null|
+|**2026-05-12**|**Online Conformal Prediction: Enforcing monotonicity via Online Optimization**|Eduardo Ochoa Rivera et.al.|[2605.12668](http://arxiv.org/abs/2605.12668)|null|
+|**2026-05-13**|**The P behind Q: Empirical Evidence from Physical Drift in Put-Call Parity**|Useong Shin et.al.|[2605.12250](http://arxiv.org/abs/2605.12250)|null|
 |**2026-05-12**|**A deep learning approach for pricing convertible bonds with path-dependent reset and call provisions**|Qinwen Zhu et.al.|[2605.12189](http://arxiv.org/abs/2605.12189)|null|
 |**2026-05-12**|**RED-2400: A Public Benchmark of Algorithmically-Rejected Trading Events with Outcome Labels**|Arati U. Kamat et.al.|[2605.12151](http://arxiv.org/abs/2605.12151)|null|
 |**2026-05-12**|**Nonlinear filtering with stochastic discontinuities**|Thorsten Schmidt et.al.|[2605.12142](http://arxiv.org/abs/2605.12142)|null|
@@ -1278,7 +1296,7 @@
 |**2026-01-19**|**Market Making and Transient Impact in Spot FX**|Alexander Barzykin et.al.|[2601.13421](http://arxiv.org/abs/2601.13421)|null|
 |**2026-01-19**|**Spectral Dynamics and Regularization for High-Dimensional Copulas**|Koos B. Gubbels et.al.|[2601.13281](http://arxiv.org/abs/2601.13281)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Macroeconomics & Global Forecasting
 
@@ -1390,12 +1408,22 @@
 |**2026-01-09**|**DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis**|Rui An et.al.|[2601.05527](http://arxiv.org/abs/2601.05527)|null|
 |**2026-01-08**|**LGTD: Local-Global Trend Decomposition for Season-Length-Free Time Series Analysis**|Chotanansub Sophaken et.al.|[2601.04820](http://arxiv.org/abs/2601.04820)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Economic Agents, Game Theory & MARL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Probabilistic Verification of Recurrent Neural Networks for Single and Multi-Agent Reinforcement Learning**|Luca Marzari et.al.|[2605.14758](http://arxiv.org/abs/2605.14758)|null|
+|**2026-05-14**|**Quantum Advantage in Multi Agent Reinforcement Learning**|Simranjeet Singh Dahia et.al.|[2605.14235](http://arxiv.org/abs/2605.14235)|null|
+|**2026-05-13**|**Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility**|Gergely Szilvasy et.al.|[2605.14037](http://arxiv.org/abs/2605.14037)|null|
+|**2026-05-13**|**EconAI: Dynamic Persona Evolution and Memory-Aware Agents in Evolving Economic Environments**|Annie Liu et.al.|[2605.13762](http://arxiv.org/abs/2605.13762)|null|
+|**2026-05-13**|**Multi-Agent Systems in Emergency Departments: Validation Study on a ED Digital Twin**|Markus Wenzel et.al.|[2605.13345](http://arxiv.org/abs/2605.13345)|null|
+|**2026-05-13**|**Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems**|Jing Liu et.al.|[2605.13269](http://arxiv.org/abs/2605.13269)|null|
+|**2026-05-13**|**Finding the Weakest Link: Adversarial Attack against Multi-Agent Communications**|Maxwell Standen et.al.|[2605.13170](http://arxiv.org/abs/2605.13170)|null|
+|**2026-05-13**|**ERPPO: Entropy Regularization-based Proximal Policy Optimization**|Changha Lee et.al.|[2605.13131](http://arxiv.org/abs/2605.13131)|null|
+|**2026-05-12**|**Mechanism Plausibility in Generative Agent-Based Modeling**|Patrick Zhao et.al.|[2605.12824](http://arxiv.org/abs/2605.12824)|null|
+|**2026-05-12**|**Profit Maximization in Bilateral Trade against a Smooth Adversary**|Simone Di Gregorio et.al.|[2605.12664](http://arxiv.org/abs/2605.12664)|null|
 |**2026-05-12**|**Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning**|Hannes Büchi et.al.|[2605.12388](http://arxiv.org/abs/2605.12388)|null|
 |**2026-05-12**|**A Family of Quaternion-Valued Differential Evolution Algorithms for Numerical Function Optimization**|Gerardo Altamirano-Gomez et.al.|[2605.12362](http://arxiv.org/abs/2605.12362)|null|
 |**2026-05-12**|**Adaptive TD-Lambda for Cooperative Multi-agent Reinforcement Learning**|Yue Deng et.al.|[2605.11880](http://arxiv.org/abs/2605.11880)|null|
@@ -1809,12 +1837,13 @@
 |**2026-01-19**|**Constructing a Dataset to Support Agent-Based Modeling of Online Interactions: Users, Topics, and Interaction Networks**|Abdul Sittar et.al.|[2601.12628](http://arxiv.org/abs/2601.12628)|null|
 |**2026-01-18**|**Cooperative Multi-agent RL with Communication Constraints**|Nuoya Xiong et.al.|[2601.12518](http://arxiv.org/abs/2601.12518)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Industrial, Labor & Supply Chain
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Linking COPD Prevalence with Income Distribution: A Spatial Heterogeneous Compositional Regression via Geographically Weighted Penalized Approach**|Jingwen Deng et.al.|[2605.12830](http://arxiv.org/abs/2605.12830)|null|
 |**2026-04-23**|**Hybrid Deep Learning Approach for Coupled Demand Forecasting and Supply Chain Optimization**|Nusrat Yasmin Nadia et.al.|[2604.21567](http://arxiv.org/abs/2604.21567)|null|
 |**2026-04-23**|**Flexible Bayesian Models for Time-Varying Income Distributions**|David Gunawan et.al.|[2604.21258](http://arxiv.org/abs/2604.21258)|null|
 |**2026-05-05**|**The Pareto principle in Sports and Economics in view of Runs Scored by Batters in the Indian Premier League**|Soumendra Nath Ruz et.al.|[2604.10049](http://arxiv.org/abs/2604.10049)|null|
@@ -1843,12 +1872,13 @@
 |**2025-11-24**|**Differentially Private Computation of the Gini Index for Income Inequality**|Wenjie Lan et.al.|[2511.19771](http://arxiv.org/abs/2511.19771)|null|
 |**2025-11-21**|**A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers**|David Solano et.al.|[2511.17148](http://arxiv.org/abs/2511.17148)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Sustainable Economy & Green Finance
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**ReMIA: a Powerful and Efficient Alternative to Membership Inference Attacks against Synthetic Data Generators**|Davide Scassola et.al.|[2605.14686](http://arxiv.org/abs/2605.14686)|null|
 |**2026-05-12**|**SDG-MoE: Signed Debate Graph Mixture-of-Experts**|Stepan Kulibaba et.al.|[2605.08322](http://arxiv.org/abs/2605.08322)|null|
 |**2026-04-05**|**Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition**|Yaw Osei Adjei et.al.|[2604.22787](http://arxiv.org/abs/2604.22787)|null|
 |**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
@@ -1896,12 +1926,16 @@
 |**2026-01-09**|**Higher-Order Domain Generalization in Magnetic Resonance-Based Assessment of Alzheimer's Disease**|Zobia Batool et.al.|[2601.01485](http://arxiv.org/abs/2601.01485)|null|
 |**2026-01-01**|**OmniVaT: Single Domain Generalization for Multimodal Visual-Tactile Learning**|Liuxiang Qiu et.al.|[2601.00352](http://arxiv.org/abs/2601.00352)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Crypto-Economics & FinTech Innovation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Focused PU learning from imbalanced data**|Elias Zavitsanos et.al.|[2605.14467](http://arxiv.org/abs/2605.14467)|null|
+|**2026-05-13**|**Extending Blockchain Untraceability with Plausible Deniability**|Eunchan Park et.al.|[2605.13132](http://arxiv.org/abs/2605.13132)|null|
+|**2026-05-13**|**QCIVET: A Quantum--Classical Pipeline Integrity Framework with Contract-Based Subtype Verification and Hash-Chained Audit Traces**|Esra Yeniaras et.al.|[2605.13109](http://arxiv.org/abs/2605.13109)|null|
+|**2026-05-12**|**Graph-Based Financial Fraud Detection with Calibrated Risk Scoring and Structural Regularization**|Yunfei Nie et.al.|[2605.12782](http://arxiv.org/abs/2605.12782)|null|
 |**2026-05-12**|**Learning Action Manifold with Multi-view Latent Priors for Robotic Manipulation**|Junjin Xiao et.al.|[2605.11832](http://arxiv.org/abs/2605.11832)|null|
 |**2026-05-12**|**State Twins: An Off-Chain Substrate for Agentic Reasoning over Decentralized Finance Protocols**|Ian C. Moore et.al.|[2605.11522](http://arxiv.org/abs/2605.11522)|null|
 |**2026-05-11**|**Optimal Control of the Ethena Yield-Bearing Stablecoin**|Matthew Lorig et.al.|[2605.11263](http://arxiv.org/abs/2605.11263)|null|
@@ -2170,12 +2204,18 @@
 |**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](http://arxiv.org/abs/2601.10848)|null|
 |**2026-01-15**|**Fuzzychain-edge: A novel Fuzzy logic-based adaptive Access control model for Blockchain in Edge Computing**|Khushbakht Farooq et.al.|[2601.10105](http://arxiv.org/abs/2601.10105)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Economic Foundation Models & Generative AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**ReMIA: a Powerful and Efficient Alternative to Membership Inference Attacks against Synthetic Data Generators**|Davide Scassola et.al.|[2605.14686](http://arxiv.org/abs/2605.14686)|null|
+|**2026-05-14**|**NodeSynth: Socially Aligned Synthetic Data for AI Evaluation**|Qazi Mamunur Rashid et.al.|[2605.14381](http://arxiv.org/abs/2605.14381)|null|
+|**2026-05-13**|**Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection**|Anjir Ahmed Chowdhury et.al.|[2605.14062](http://arxiv.org/abs/2605.14062)|null|
+|**2026-05-13**|**Synthetic American Option Pricing via Jump-HMM-Driven Heston Implied Volatility**|Julia Sun et.al.|[2605.13998](http://arxiv.org/abs/2605.13998)|null|
+|**2026-05-13**|**EconAI: Dynamic Persona Evolution and Memory-Aware Agents in Evolving Economic Environments**|Annie Liu et.al.|[2605.13762](http://arxiv.org/abs/2605.13762)|null|
+|**2026-05-14**|**Speculative Interaction Agents: Building Real-Time Agents with Asynchronous I/O and Speculative Tool Calling**|Coleman Hooper et.al.|[2605.13360](http://arxiv.org/abs/2605.13360)|null|
 |**2026-05-12**|**In-context learning to predict critical transitions in dynamical systems**|Yunus Sevinchan et.al.|[2605.12308](http://arxiv.org/abs/2605.12308)|null|
 |**2026-05-12**|**Few-Shot Synthetic Data Generation with Diffusion Models for Downstream Vision Tasks**|Daniil Dushenev et.al.|[2605.11898](http://arxiv.org/abs/2605.11898)|null|
 |**2026-05-11**|**Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training**|Daniel Dratschuk et.al.|[2605.10835](http://arxiv.org/abs/2605.10835)|null|
@@ -2364,7 +2404,7 @@
 |**2026-01-13**|**Intra-tree Column Subsampling Hinders XGBoost Learning of Ratio-like Interactions**|Mykola Pinchuk et.al.|[2601.08121](http://arxiv.org/abs/2601.08121)|null|
 |**2026-01-12**|**Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting**|José Pulido et.al.|[2601.07646](http://arxiv.org/abs/2601.07646)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## Behavioral Economics & Consumer Analysis
 
@@ -2375,7 +2415,7 @@
 |**2026-04-07**|**Nonparametric Identification and Estimation of Production Functions Invariant to Productivity Dynamics**|Rentaro Utamaru et.al.|[2604.04458](http://arxiv.org/abs/2604.04458)|null|
 |**2026-03-29**|**Carbon Regulation and Competition in the European Airline Industry**|Ertian Chen et.al.|[2603.27724](http://arxiv.org/abs/2603.27724)|null|
 |**2026-03-23**|**Computational Arbitrage in AI Model Markets**|Ricardo Olmedo et.al.|[2603.22404](http://arxiv.org/abs/2603.22404)|null|
-|**2026-03-21**|**Strategy-proof Market Segmentation against Price Discrimination**|Zhonghong Kuang et.al.|[2603.20609](http://arxiv.org/abs/2603.20609)|null|
+|**2026-05-13**|**Strategy-proof Market Segmentation against Price Discrimination**|Zhonghong Kuang et.al.|[2603.20609](http://arxiv.org/abs/2603.20609)|null|
 |**2026-02-25**|**Huge-Scale Assortment Optimization with Customer Choice: A Parallel Primal-Dual Approach**|Donghao Zhu et.al.|[2602.22421](http://arxiv.org/abs/2602.22421)|null|
 |**2026-02-24**|**PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization**|Shuzhi Cao et.al.|[2602.20676](http://arxiv.org/abs/2602.20676)|null|
 |**2026-01-12**|**A Note on 'The Limits of Price Discrimination' by Bergemann, Brooks, and Morris**|Keita Kuwahara et.al.|[2601.07452](http://arxiv.org/abs/2601.07452)|null|
@@ -2389,7 +2429,7 @@
 |**2025-12-16**|**Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology**|Ian Costa-Alves et.al.|[2503.22435](http://arxiv.org/abs/2503.22435)|null|
 |**2025-03-25**|**The Design of Monopoly Information Broker**|Junjie Chen et.al.|[2503.19539](http://arxiv.org/abs/2503.19539)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4economy-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4economy-arxiv-daily/graphs/contributors
